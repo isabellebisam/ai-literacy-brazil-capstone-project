@@ -499,15 +499,117 @@
       margin-top: 0.5rem;
     }
 
+    /* ── HAMBURGER BUTTON ───────────────────────────────────── */
+    .nav-toggle {
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 0.4rem;
+      z-index: 101;
+    }
+
+    .nav-toggle span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: var(--off-white);
+      border-radius: 2px;
+      transition: transform 0.25s, opacity 0.25s;
+    }
+
+    .nav-toggle.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .nav-toggle.open span:nth-child(2) { opacity: 0; }
+    .nav-toggle.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    /* ── BACK TO TOP ─────────────────────────────────────────── */
+    #back-to-top {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      z-index: 200;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: var(--navy);
+      border: none;
+      cursor: pointer;
+      font-size: 1.2rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s, transform 0.2s;
+    }
+
+    #back-to-top.visible {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    #back-to-top:hover {
+      transform: translateY(-3px);
+    }
+
+    /* ── FADE-IN ANIMATION ──────────────────────────────────── */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(24px);
+      transition: opacity 0.55s ease, transform 0.55s ease;
+    }
+
+    .fade-in.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
     /* ── RESPONSIVE ─────────────────────────────────────────── */
-    @media (max-width: 700px) {
-      .nav-brand { font-size: 0.75rem; max-width: 180px; }
-      .nav-links a { padding: 0.4rem 0.55rem; font-size: 0.8rem; }
+    @media (max-width: 768px) {
+      .nav-toggle { display: flex; }
+
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        gap: 0;
+        position: absolute;
+        top: 64px;
+        left: 0;
+        right: 0;
+        background: rgba(13, 27, 42, 0.97);
+        border-bottom: 1px solid var(--border);
+        padding: 0.75rem 1rem 1rem;
+      }
+
+      .nav-links.open { display: flex; }
+
+      .nav-links a {
+        padding: 0.65rem 1rem;
+        font-size: 0.95rem;
+        border-radius: 6px;
+      }
+
+      .nav-brand { font-size: 0.75rem; max-width: 200px; }
 
       .hero-stats { gap: 2rem; }
 
+      .findings-grid,
+      .platforms-grid {
+        grid-template-columns: 1fr;
+      }
+
       .dashboard-layout { grid-template-columns: 1fr; }
       .dashboard-card.full-width { grid-column: auto; }
+
+      .compliance-table { font-size: 0.76rem; }
+      .compliance-table th,
+      .compliance-table td { padding: 0.55rem 0.4rem; }
     }
   </style>
 </head>
@@ -517,7 +619,10 @@
   <nav>
     <div class="nav-inner">
       <a class="nav-brand" href="#about">AI with Responsibility</a>
-      <ul class="nav-links">
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links" id="nav-links">
         <li><a href="#about">About</a></li>
         <li><a href="#methodology">Methodology</a></li>
         <li><a href="#findings">Findings</a></li>
@@ -701,6 +806,9 @@
             This gap leaves creators reliant on general translations and community guidance.
           </p>
         </div>
+      </div>
+      <div style="text-align:center; margin-top:2.5rem;">
+        <a href="assets/tos_analysis_report.txt" class="btn btn-primary">Download Full Report (TXT)</a>
       </div>
     </div>
   </section>
@@ -1034,6 +1142,9 @@
     </div>
   </section>
 
+  <!-- ── BACK TO TOP ── -->
+  <button id="back-to-top" aria-label="Back to top">↑</button>
+
   <!-- ── FOOTER ── -->
   <footer>
     <div class="footer-inner">
@@ -1047,8 +1158,57 @@
       <div class="footer-copy">
         &copy; 2025 Isabelle Bisam®. Academic capstone project. All rights reserved.
       </div>
+      <div style="font-size:0.75rem; color:var(--muted); margin-top:0.25rem;">
+        Methodological source code available as Appendix B of the capstone.
+      </div>
     </div>
   </footer>
 
+  <script>
+    // ── Hamburger menu ───────────────────────────────────────
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks  = document.getElementById('nav-links');
+
+    navToggle.addEventListener('click', () => {
+      const open = navLinks.classList.toggle('open');
+      navToggle.classList.toggle('open', open);
+    });
+
+    // Close menu when a nav link is clicked
+    navLinks.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        navLinks.classList.remove('open');
+        navToggle.classList.remove('open');
+      });
+    });
+
+    // ── Back to top ──────────────────────────────────────────
+    const backToTop = document.getElementById('back-to-top');
+
+    window.addEventListener('scroll', () => {
+      backToTop.classList.toggle('visible', window.scrollY > 300);
+    }, { passive: true });
+
+    backToTop.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ── Fade-in on scroll (IntersectionObserver) ─────────────
+    document.querySelectorAll('section').forEach(el => el.classList.add('fade-in'));
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.08 }
+    );
+
+    document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+  </script>
 </body>
 </html>
