@@ -409,7 +409,7 @@
       border: 1px solid var(--border);
       border-radius: 10px;
       padding: 1.5rem 1.25rem;
-      text-align: center;
+      text-align: left;
       transition: border-color 0.2s, transform 0.2s;
     }
 
@@ -426,7 +426,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      margin: 0 auto 1rem;
+      margin: 0 0 1rem;
       font-size: 1.5rem;
     }
 
@@ -444,11 +444,12 @@
 
     .platform-score {
       margin-top: 1rem;
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 700;
       color: var(--accent);
       border-top: 1px solid var(--border);
       padding-top: 0.75rem;
+      font-variant-numeric: tabular-nums;
     }
 
     /* ── FOOTER ─────────────────────────────────────────────── */
@@ -538,11 +539,11 @@
         analyzes the Terms of Service, community guidelines, and AI-use policies of
         <strong style="color:var(--off-white)">10 major platforms</strong> that directly shape the
         professional and creative livelihoods of Brazilian content creators — including
-        Instagram, YouTube, TikTok, LinkedIn, X (Twitter), Spotify, Pinterest, Twitch,
-        Canva, and ChatGPT. By mapping each platform's rules around AI-generated content,
-        intellectual property, monetization eligibility, and data rights, this guide aims
-        to empower creators to use artificial intelligence responsibly, strategically, and
-        in full compliance with the policies that govern their work.
+        Instagram, YouTube, TikTok, Kwai, WhatsApp, ChatGPT, Gemini, Microsoft Copilot,
+        CapCut, and Meta AI. By mapping each platform's language around ownership &amp;
+        licensing, AI training data use, data governance, and power asymmetry, this guide
+        aims to empower creators to use artificial intelligence responsibly, strategically,
+        and in full awareness of the policies that govern their work.
       </p>
       <div class="hero-cta">
         <a href="#findings" class="btn btn-primary">Explore Findings</a>
@@ -643,174 +644,193 @@
       <p class="section-eyebrow">Policy Dashboard</p>
       <h2 class="section-title">Platform Transparency Scores</h2>
       <p class="section-subtitle">
-        Each platform was scored across four dimensions: AI policy clarity, IP rights
-        transparency, monetization fairness, and LGPD compatibility.
+        Each platform was analyzed across four keyword dimensions derived from its Terms
+        of Service. Scores reflect keyword frequency counts; bars are normalized relative
+        to CapCut (highest scorer, total&nbsp;=&nbsp;234).
       </p>
       <div class="dashboard-layout">
 
-        <!-- Transparency Scores -->
+        <!-- Overall Keyword Scores -->
         <div class="dashboard-card">
-          <h3>Overall Transparency Score (0–100)</h3>
+          <h3>Total ToS Keyword Score — sorted high to low</h3>
           <div class="score-list">
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">YouTube</span><span class="score-val">82</span></div>
-              <div class="score-track"><div class="score-fill" style="width:82%"></div></div>
+              <div class="score-meta"><span class="score-name">CapCut</span><span class="score-val">234</span></div>
+              <div class="score-track"><div class="score-fill" style="width:100%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">LinkedIn</span><span class="score-val">76</span></div>
-              <div class="score-track"><div class="score-fill" style="width:76%"></div></div>
+              <div class="score-meta"><span class="score-name">WhatsApp</span><span class="score-val">139</span></div>
+              <div class="score-track"><div class="score-fill" style="width:59%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">Canva</span><span class="score-val">74</span></div>
-              <div class="score-track"><div class="score-fill" style="width:74%"></div></div>
+              <div class="score-meta"><span class="score-name">TikTok</span><span class="score-val">122</span></div>
+              <div class="score-track"><div class="score-fill" style="width:52%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">ChatGPT</span><span class="score-val">71</span></div>
-              <div class="score-track"><div class="score-fill" style="width:71%"></div></div>
+              <div class="score-meta"><span class="score-name">Kwai</span><span class="score-val">108</span></div>
+              <div class="score-track"><div class="score-fill" style="width:46%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">TikTok</span><span class="score-val">65</span></div>
-              <div class="score-track"><div class="score-fill" style="width:65%"></div></div>
+              <div class="score-meta"><span class="score-name">Instagram</span><span class="score-val">93</span></div>
+              <div class="score-track"><div class="score-fill" style="width:40%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">Spotify</span><span class="score-val">63</span></div>
-              <div class="score-track"><div class="score-fill" style="width:63%"></div></div>
+              <div class="score-meta"><span class="score-name">YouTube</span><span class="score-val">77</span></div>
+              <div class="score-track"><div class="score-fill" style="width:33%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">Instagram</span><span class="score-val">58</span></div>
-              <div class="score-track"><div class="score-fill" style="width:58%"></div></div>
+              <div class="score-meta"><span class="score-name">Meta AI</span><span class="score-val">45</span></div>
+              <div class="score-track"><div class="score-fill" style="width:19%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">Twitch</span><span class="score-val">55</span></div>
-              <div class="score-track"><div class="score-fill" style="width:55%"></div></div>
+              <div class="score-meta"><span class="score-name">ChatGPT</span><span class="score-val">41</span></div>
+              <div class="score-track"><div class="score-fill" style="width:18%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">Pinterest</span><span class="score-val">49</span></div>
-              <div class="score-track"><div class="score-fill" style="width:49%"></div></div>
+              <div class="score-meta"><span class="score-name">MS Copilot</span><span class="score-val">38</span></div>
+              <div class="score-track"><div class="score-fill" style="width:16%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">X (Twitter)</span><span class="score-val">41</span></div>
-              <div class="score-track"><div class="score-fill" style="width:41%"></div></div>
+              <div class="score-meta"><span class="score-name">Gemini</span><span class="score-val">25</span></div>
+              <div class="score-track"><div class="score-fill" style="width:11%"></div></div>
             </div>
           </div>
         </div>
 
         <!-- Policy Dimensions -->
         <div class="dashboard-card">
-          <h3>Policy Dimension Breakdown</h3>
+          <h3>Cross-Platform Dimension Averages (avg. keyword count)</h3>
           <div class="score-list">
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">AI Content Disclosure</span><span class="score-val">61 / 100</span></div>
-              <div class="score-track"><div class="score-fill" style="width:61%"></div></div>
+              <div class="score-meta"><span class="score-name">Ownership &amp; Licensing</span><span class="score-val">avg. 30.5</span></div>
+              <div class="score-track"><div class="score-fill" style="width:32%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">Intellectual Property</span><span class="score-val">54 / 100</span></div>
-              <div class="score-track"><div class="score-fill" style="width:54%"></div></div>
+              <div class="score-meta"><span class="score-name">Data Governance</span><span class="score-val">avg. 31.3</span></div>
+              <div class="score-track"><div class="score-fill" style="width:33%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">Monetization Rules</span><span class="score-val">67 / 100</span></div>
-              <div class="score-track"><div class="score-fill" style="width:67%"></div></div>
+              <div class="score-meta"><span class="score-name">Power Asymmetry</span><span class="score-val">avg. 26.9</span></div>
+              <div class="score-track"><div class="score-fill" style="width:28%"></div></div>
             </div>
             <div class="score-row">
-              <div class="score-meta"><span class="score-name">LGPD Compatibility</span><span class="score-val">48 / 100</span></div>
-              <div class="score-track"><div class="score-fill" style="width:48%"></div></div>
+              <div class="score-meta"><span class="score-name">AI Training</span><span class="score-val">avg. 3.5</span></div>
+              <div class="score-track"><div class="score-fill" style="width:4%"></div></div>
             </div>
           </div>
 
           <h3 style="margin-top: 2rem;">Key Takeaway</h3>
           <p style="font-size: 0.88rem; color: var(--muted); line-height: 1.7;">
-            LGPD compatibility scores are consistently the lowest across all platforms,
-            signaling a significant gap between Brazilian data-rights law and the terms
-            that creators must agree to in order to use these tools.
+            AI Training keyword presence is strikingly low across all platforms (avg. 3.5),
+            revealing that most Terms of Service say very little about how user content
+            is used to train AI models — a critical blind spot for Brazilian creators.
           </p>
         </div>
 
         <!-- Compliance Table -->
         <div class="dashboard-card full-width">
-          <h3>Platform Policy Compliance at a Glance</h3>
+          <h3>Policy Dimension Scores by Platform (raw keyword counts)</h3>
           <table class="compliance-table">
             <thead>
               <tr>
                 <th>Platform</th>
-                <th>AI Disclosure</th>
-                <th>IP Clarity</th>
-                <th>Monetization</th>
-                <th>LGPD Fit</th>
+                <th>Parent Company</th>
+                <th>Ownership &amp; Licensing</th>
+                <th>AI Training</th>
+                <th>Data Governance</th>
+                <th>Power Asymmetry</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>YouTube</td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
+                <td>CapCut</td>
+                <td style="color:var(--muted)">ByteDance</td>
+                <td><span class="badge badge-low">96</span></td>
+                <td><span class="badge badge-medium">4</span></td>
+                <td><span class="badge badge-low">76</span></td>
+                <td><span class="badge badge-low">58</span></td>
               </tr>
               <tr>
-                <td>Instagram</td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
+                <td>WhatsApp</td>
+                <td style="color:var(--muted)">Meta Platforms</td>
+                <td><span class="badge badge-medium">35</span></td>
+                <td><span class="badge badge-medium">6</span></td>
+                <td><span class="badge badge-medium">37</span></td>
+                <td><span class="badge badge-low">61</span></td>
               </tr>
               <tr>
                 <td>TikTok</td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
+                <td style="color:var(--muted)">ByteDance</td>
+                <td><span class="badge badge-low">45</span></td>
+                <td><span class="badge badge-medium">4</span></td>
+                <td><span class="badge badge-medium">31</span></td>
+                <td><span class="badge badge-low">42</span></td>
               </tr>
               <tr>
-                <td>LinkedIn</td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
+                <td>Kwai</td>
+                <td style="color:var(--muted)">Kwai Inc.</td>
+                <td><span class="badge badge-medium">32</span></td>
+                <td><span class="badge badge-medium">4</span></td>
+                <td><span class="badge badge-medium">28</span></td>
+                <td><span class="badge badge-low">44</span></td>
               </tr>
               <tr>
-                <td>X (Twitter)</td>
-                <td><span class="badge badge-low">Vague</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
+                <td>Instagram</td>
+                <td style="color:var(--muted)">Meta Platforms</td>
+                <td><span class="badge badge-medium">25</span></td>
+                <td><span class="badge badge-high">7</span></td>
+                <td><span class="badge badge-medium">35</span></td>
+                <td><span class="badge badge-medium">26</span></td>
               </tr>
               <tr>
-                <td>Spotify</td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
+                <td>YouTube</td>
+                <td style="color:var(--muted)">Google LLC</td>
+                <td><span class="badge badge-medium">37</span></td>
+                <td><span class="badge badge-low">0</span></td>
+                <td><span class="badge badge-medium">26</span></td>
+                <td><span class="badge badge-medium">14</span></td>
               </tr>
               <tr>
-                <td>Pinterest</td>
-                <td><span class="badge badge-low">Vague</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
-              </tr>
-              <tr>
-                <td>Twitch</td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-low">Vague</span></td>
-              </tr>
-              <tr>
-                <td>Canva</td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
+                <td>Meta AI</td>
+                <td style="color:var(--muted)">Meta Platforms</td>
+                <td><span class="badge badge-high">6</span></td>
+                <td><span class="badge badge-low">0</span></td>
+                <td><span class="badge badge-medium">30</span></td>
+                <td><span class="badge badge-high">9</span></td>
               </tr>
               <tr>
                 <td>ChatGPT</td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-high">Clear</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
-                <td><span class="badge badge-medium">Partial</span></td>
+                <td style="color:var(--muted)">OpenAI</td>
+                <td><span class="badge badge-high">17</span></td>
+                <td><span class="badge badge-high">1</span></td>
+                <td><span class="badge badge-high">18</span></td>
+                <td><span class="badge badge-high">5</span></td>
+              </tr>
+              <tr>
+                <td>MS Copilot</td>
+                <td style="color:var(--muted)">Microsoft</td>
+                <td><span class="badge badge-high">5</span></td>
+                <td><span class="badge badge-high">3</span></td>
+                <td><span class="badge badge-medium">23</span></td>
+                <td><span class="badge badge-high">7</span></td>
+              </tr>
+              <tr>
+                <td>Gemini</td>
+                <td style="color:var(--muted)">Google LLC</td>
+                <td><span class="badge badge-high">7</span></td>
+                <td><span class="badge badge-high">6</span></td>
+                <td><span class="badge badge-high">9</span></td>
+                <td><span class="badge badge-high">3</span></td>
               </tr>
             </tbody>
           </table>
+          <p style="font-size:0.78rem; color:var(--muted); margin-top:1rem; line-height:1.6;">
+            Badge color indicates relative risk level for that dimension:
+            <span style="color:#f87171">&#9632;</span> High concern &nbsp;
+            <span style="color:#facc15">&#9632;</span> Moderate &nbsp;
+            <span style="color:#4ade80">&#9632;</span> Low concern.
+            Scores are raw keyword frequency counts from each platform's Terms of Service.
+          </p>
         </div>
 
       </div>
@@ -823,70 +843,126 @@
       <p class="section-eyebrow">Platforms Analyzed</p>
       <h2 class="section-title">10 Platforms, One Framework</h2>
       <p class="section-subtitle">
-        Each platform was evaluated using the same four-dimension framework, enabling
-        direct comparison across vastly different product categories.
+        Each platform was evaluated using the same four-dimension keyword framework.
+        Key findings highlight the most critical clause for Brazilian content creators.
       </p>
       <div class="platforms-grid">
-        <div class="platform-card">
-          <div class="platform-logo">▶</div>
-          <div class="platform-name">YouTube</div>
-          <div class="platform-type">Video &amp; Streaming</div>
-          <div class="platform-score">Transparency: 82 / 100</div>
-        </div>
+
+        <!-- Content Platforms -->
         <div class="platform-card">
           <div class="platform-logo">📷</div>
           <div class="platform-name">Instagram</div>
-          <div class="platform-type">Photo &amp; Video</div>
-          <div class="platform-score">Transparency: 58 / 100</div>
+          <div class="platform-type">Meta Platforms &nbsp;·&nbsp; Content Platform</div>
+          <div class="platform-score">Total keywords: 93 &nbsp;[25 · 7 · 35 · 26]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Grants a broad royalty-free, sublicensable, irrevocable license. Highest
+            data governance score among Meta platforms. LGPD referenced.
+          </p>
         </div>
+
+        <div class="platform-card">
+          <div class="platform-logo">▶</div>
+          <div class="platform-name">YouTube</div>
+          <div class="platform-type">Google LLC &nbsp;·&nbsp; Content Platform</div>
+          <div class="platform-score">Total keywords: 77 &nbsp;[37 · 0 · 26 · 14]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Highest ownership &amp; licensing score among content platforms. Zero AI
+            training keyword presence signals policy opacity. Strong termination clauses.
+          </p>
+        </div>
+
         <div class="platform-card">
           <div class="platform-logo">♩</div>
           <div class="platform-name">TikTok</div>
-          <div class="platform-type">Short-Form Video</div>
-          <div class="platform-score">Transparency: 65 / 100</div>
+          <div class="platform-type">ByteDance &nbsp;·&nbsp; Content Platform</div>
+          <div class="platform-score">Total keywords: 122 &nbsp;[45 · 4 · 31 · 42]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Highest ownership score overall; second highest power asymmetry.
+            Biometric data (faceprints &amp; voiceprints) explicitly collected.
+          </p>
         </div>
+
         <div class="platform-card">
-          <div class="platform-logo">💼</div>
-          <div class="platform-name">LinkedIn</div>
-          <div class="platform-type">Professional Network</div>
-          <div class="platform-score">Transparency: 76 / 100</div>
+          <div class="platform-logo">🎬</div>
+          <div class="platform-name">Kwai</div>
+          <div class="platform-type">Kwai Inc. &nbsp;·&nbsp; Content Platform</div>
+          <div class="platform-score">Total keywords: 108 &nbsp;[32 · 4 · 28 · 44]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Highest power asymmetry score tied with TikTok. Sparse AI training
+            disclosure. Cross-border data transfers to China noted.
+          </p>
         </div>
+
         <div class="platform-card">
-          <div class="platform-logo">𝕏</div>
-          <div class="platform-name">X (Twitter)</div>
-          <div class="platform-type">Microblogging</div>
-          <div class="platform-score">Transparency: 41 / 100</div>
+          <div class="platform-logo">💬</div>
+          <div class="platform-name">WhatsApp</div>
+          <div class="platform-type">Meta Platforms &nbsp;·&nbsp; Content Platform</div>
+          <div class="platform-score">Total keywords: 139 &nbsp;[35 · 6 · 37 · 61]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Highest power asymmetry score of all platforms (61). E2E-encrypted
+            chats are protected, but Channel posts are not. LGPD referenced.
+          </p>
         </div>
-        <div class="platform-card">
-          <div class="platform-logo">♫</div>
-          <div class="platform-name">Spotify</div>
-          <div class="platform-type">Audio &amp; Podcasting</div>
-          <div class="platform-score">Transparency: 63 / 100</div>
-        </div>
-        <div class="platform-card">
-          <div class="platform-logo">📌</div>
-          <div class="platform-name">Pinterest</div>
-          <div class="platform-type">Visual Discovery</div>
-          <div class="platform-score">Transparency: 49 / 100</div>
-        </div>
-        <div class="platform-card">
-          <div class="platform-logo">🎮</div>
-          <div class="platform-name">Twitch</div>
-          <div class="platform-type">Live Streaming</div>
-          <div class="platform-score">Transparency: 55 / 100</div>
-        </div>
-        <div class="platform-card">
-          <div class="platform-logo">✦</div>
-          <div class="platform-name">Canva</div>
-          <div class="platform-type">Design &amp; Creation</div>
-          <div class="platform-score">Transparency: 74 / 100</div>
-        </div>
+
+        <!-- AI Tools -->
         <div class="platform-card">
           <div class="platform-logo">✧</div>
           <div class="platform-name">ChatGPT</div>
-          <div class="platform-type">AI Writing &amp; Research</div>
-          <div class="platform-score">Transparency: 71 / 100</div>
+          <div class="platform-type">OpenAI &nbsp;·&nbsp; AI Tool</div>
+          <div class="platform-score">Total keywords: 41 &nbsp;[17 · 1 · 18 · 5]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Offers opt-out for conversation training data — unique among analyzed
+            platforms. Enterprise users have stronger protections. 30-day notice
+            for term changes.
+          </p>
         </div>
+
+        <div class="platform-card">
+          <div class="platform-logo">✦</div>
+          <div class="platform-name">Gemini</div>
+          <div class="platform-type">Google LLC &nbsp;·&nbsp; AI Tool</div>
+          <div class="platform-score">Total keywords: 25 &nbsp;[7 · 6 · 9 · 3]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Partial opt-out via Gemini Apps Activity toggle. 18-month data
+            retention by default. Human reviewers may read conversations.
+          </p>
+        </div>
+
+        <div class="platform-card">
+          <div class="platform-logo">⬡</div>
+          <div class="platform-name">MS Copilot</div>
+          <div class="platform-type">Microsoft &nbsp;·&nbsp; AI Tool</div>
+          <div class="platform-score">Total keywords: 38 &nbsp;[5 · 3 · 23 · 7]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Enterprise users exempt from AI training data use. 30-day notice for
+            policy changes. Contains arbitration clause with class action waiver.
+          </p>
+        </div>
+
+        <div class="platform-card">
+          <div class="platform-logo">✂</div>
+          <div class="platform-name">CapCut</div>
+          <div class="platform-type">ByteDance &nbsp;·&nbsp; AI Tool</div>
+          <div class="platform-score">Total keywords: 234 &nbsp;[96 · 4 · 76 · 58]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            Highest scores across ALL four dimensions. Biometric facial data
+            collected for AI effects. ByteDance cross-border transfers.
+            Most expansive license language of any platform analyzed.
+          </p>
+        </div>
+
+        <div class="platform-card">
+          <div class="platform-logo">◈</div>
+          <div class="platform-name">Meta AI</div>
+          <div class="platform-type">Meta Platforms &nbsp;·&nbsp; AI Tool</div>
+          <div class="platform-score">Total keywords: 45 &nbsp;[6 · 0 · 30 · 9]</div>
+          <p style="font-size:0.78rem;color:var(--muted);margin-top:0.75rem;line-height:1.55;text-align:left;">
+            No opt-out for AI training for Brazilian users. Outputs are not
+            unique — the same response may be sent to multiple users.
+            Generative AI scope explicitly stated in ToS.
+          </p>
+        </div>
+
       </div>
     </div>
   </section>
