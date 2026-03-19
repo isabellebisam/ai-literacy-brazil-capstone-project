@@ -519,6 +519,7 @@
       <a class="nav-brand" href="#about">AI with Responsibility</a>
       <ul class="nav-links">
         <li><a href="#about">About</a></li>
+        <li><a href="#methodology">Methodology</a></li>
         <li><a href="#findings">Findings</a></li>
         <li><a href="#dashboard">Dashboard</a></li>
         <li><a href="#platforms">Platforms</a></li>
@@ -567,6 +568,72 @@
           <div class="stat-label">Data as of</div>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- ── METHODOLOGY ── -->
+  <section id="methodology" style="background: var(--navy);">
+    <div class="section-inner">
+      <p class="section-eyebrow">Methodology</p>
+      <h2 class="section-title">How the Research Was Conducted</h2>
+      <p class="section-subtitle">
+        This research applied a <em>distant reading</em> methodology to systematically
+        analyze Terms of Service documents from 10 platforms using keyword frequency
+        analysis across four analytical dimensions. Rather than close-reading individual
+        clauses, this approach quantifies how prominently each legal concept appears
+        across the full text of each ToS, enabling structured cross-platform comparison.
+        All documents were analyzed in their Portuguese-language versions where available,
+        with bilingual keyword matching applied throughout.
+      </p>
+      <div class="findings-grid">
+
+        <div class="finding-card">
+          <div class="finding-icon">📄</div>
+          <h3>Ownership &amp; Licensing</h3>
+          <p>
+            What rights do you keep when you post? Platforms require broad licenses —
+            royalty-free, sublicensable, perpetual, and often irrevocable — to use your
+            content. Understanding these terms determines whether you truly own what you create.
+          </p>
+        </div>
+
+        <div class="finding-card">
+          <div class="finding-icon">🤖</div>
+          <h3>AI Training Provisions</h3>
+          <p>
+            Can platforms use your content to train AI models? Most Terms of Service are
+            silent or vague on this. This dimension tracks how explicitly — or opaquely —
+            platforms address AI training, opt-out rights, and consent.
+          </p>
+        </div>
+
+        <div class="finding-card">
+          <div class="finding-icon">🔒</div>
+          <h3>Data Governance</h3>
+          <p>
+            What personal data is collected, for what purpose, and with what transparency?
+            This includes biometric data, behavioral tracking, third-party sharing, and
+            LGPD compliance signals for Brazilian users.
+          </p>
+        </div>
+
+        <div class="finding-card">
+          <div class="finding-icon">⚖️</div>
+          <h3>Power Asymmetry</h3>
+          <p>
+            Who holds the power in the relationship? This dimension tracks unilateral
+            modification clauses, account termination without notice, arbitration
+            requirements, class action waivers, and indemnification language.
+          </p>
+        </div>
+
+      </div>
+      <p style="font-size:0.8rem; color:var(--muted); margin-top:2.5rem; line-height:1.7; max-width:760px; border-top:1px solid var(--border); padding-top:1.5rem;">
+        <strong style="color:var(--off-white)">Note:</strong> Keyword frequency scores were generated
+        using a Python script (Appendix B) applying bilingual keyword matching across
+        Portuguese-language Terms of Service documents. Full methodology is available in
+        the academic capstone.
+      </p>
     </div>
   </section>
 
