@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI with Responsibility: A Practical Guide for Content Creators in Brazil</title>
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --navy:       #0d1b2a;
+      --navy-mid:   #1b2d42;
+      --navy-light: #243b55;
+      --accent:     #4a9eca;
+      --accent-dim: #2e7aab;
+      --white:      #ffffff;
+      --off-white:  #e8edf2;
+      --muted:      #94a3b8;
+      --border:     rgba(74, 158, 202, 0.25);
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background-color: var(--navy);
+      color: var(--off-white);
+      line-height: 1.7;
+    }
+
+    /* ── NAVIGATION ─────────────────────────────────────────── */
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      background: rgba(13, 27, 42, 0.92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+    }
+
+    .nav-brand {
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      color: var(--accent);
+      text-transform: uppercase;
+      text-decoration: none;
+      max-width: 260px;
+      line-height: 1.3;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 0.25rem;
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.875rem;
+      font-weight: 500;
+      padding: 0.4rem 0.9rem;
+      border-radius: 6px;
+      transition: color 0.2s, background 0.2s;
+    }
+
+    .nav-links a:hover {
+      color: var(--white);
+      background: var(--navy-light);
+    }
+
+    /* ── HERO ───────────────────────────────────────────────── */
+    #about {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 7rem 2rem 5rem;
+      background:
+        radial-gradient(ellipse 80% 60% at 50% -10%, rgba(74,158,202,0.18) 0%, transparent 70%),
+        linear-gradient(180deg, var(--navy) 0%, var(--navy-mid) 100%);
+      text-align: center;
+    }
+
+    .hero-content {
+      max-width: 820px;
+    }
+
+    .hero-eyebrow {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      border: 1px solid var(--border);
+      border-radius: 100px;
+      padding: 0.35rem 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .hero-title {
+      font-size: clamp(2rem, 5vw, 3.4rem);
+      font-weight: 800;
+      line-height: 1.18;
+      color: var(--white);
+      letter-spacing: -0.02em;
+      margin-bottom: 1.75rem;
+    }
+
+    .hero-title span {
+      color: var(--accent);
+    }
+
+    .hero-intro {
+      font-size: 1.1rem;
+      color: var(--muted);
+      max-width: 680px;
+      margin: 0 auto 2.5rem;
+      line-height: 1.8;
+    }
+
+    .hero-cta {
+      display: inline-flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 0.75rem 1.75rem;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: transform 0.15s, box-shadow 0.15s;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--navy);
+    }
+
+    .btn-secondary {
+      background: transparent;
+      color: var(--off-white);
+      border: 1px solid var(--border);
+    }
+
+    .hero-stats {
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+      margin-top: 4rem;
+      padding-top: 3rem;
+      border-top: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+
+    .stat {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 0.8rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-top: 0.4rem;
+    }
+
+    /* ── SECTION LAYOUT ─────────────────────────────────────── */
+    section {
+      padding: 6rem 2rem;
+    }
+
+    .section-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .section-eyebrow {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    .section-title {
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 800;
+      color: var(--white);
+      letter-spacing: -0.01em;
+      margin-bottom: 1rem;
+    }
+
+    .section-subtitle {
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 600px;
+      margin-bottom: 3.5rem;
+      line-height: 1.7;
+    }
+
+    /* ── FINDINGS ───────────────────────────────────────────── */
+    #findings {
+      background: var(--navy-mid);
+    }
+
+    .findings-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .finding-card {
+      background: var(--navy);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2rem;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .finding-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-3px);
+    }
+
+    .finding-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 10px;
+      background: rgba(74, 158, 202, 0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1.25rem;
+      font-size: 1.4rem;
+    }
+
+    .finding-card h3 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 0.6rem;
+    }
+
+    .finding-card p {
+      font-size: 0.9rem;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    /* ── DASHBOARD ──────────────────────────────────────────── */
+    #dashboard {
+      background: var(--navy);
+    }
+
+    .dashboard-layout {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+
+    .dashboard-card {
+      background: var(--navy-mid);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.75rem;
+    }
+
+    .dashboard-card.full-width {
+      grid-column: 1 / -1;
+    }
+
+    .dashboard-card h3 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 1.25rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* Score bars */
+    .score-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+    }
+
+    .score-row {
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+
+    .score-meta {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.82rem;
+    }
+
+    .score-name { color: var(--off-white); font-weight: 500; }
+    .score-val  { color: var(--accent); font-weight: 700; }
+
+    .score-track {
+      height: 6px;
+      background: var(--navy);
+      border-radius: 100px;
+      overflow: hidden;
+    }
+
+    .score-fill {
+      height: 100%;
+      border-radius: 100px;
+      background: linear-gradient(90deg, var(--accent-dim), var(--accent));
+      transition: width 0.6s ease;
+    }
+
+    /* Compliance table */
+    .compliance-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+
+    .compliance-table th {
+      text-align: left;
+      color: var(--muted);
+      font-size: 0.75rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 0 0.75rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .compliance-table td {
+      padding: 0.7rem 0.75rem;
+      color: var(--off-white);
+      border-bottom: 1px solid rgba(74,158,202,0.08);
+    }
+
+    .compliance-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 100px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+
+    .badge-high    { background: rgba(34,197,94,0.15);  color: #4ade80; }
+    .badge-medium  { background: rgba(234,179,8,0.15);  color: #facc15; }
+    .badge-low     { background: rgba(239,68,68,0.15);  color: #f87171; }
+
+    /* ── PLATFORMS ──────────────────────────────────────────── */
+    #platforms {
+      background: var(--navy-mid);
+    }
+
+    .platforms-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+    }
+
+    .platform-card {
+      background: var(--navy);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.5rem 1.25rem;
+      text-align: center;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+
+    .platform-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-3px);
+    }
+
+    .platform-logo {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      background: var(--navy-light);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1rem;
+      font-size: 1.5rem;
+    }
+
+    .platform-name {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 0.35rem;
+    }
+
+    .platform-type {
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+
+    .platform-score {
+      margin-top: 1rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--accent);
+      border-top: 1px solid var(--border);
+      padding-top: 0.75rem;
+    }
+
+    /* ── FOOTER ─────────────────────────────────────────────── */
+    footer {
+      background: var(--navy);
+      border-top: 1px solid var(--border);
+      padding: 3rem 2rem;
+    }
+
+    .footer-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1rem;
+      text-align: center;
+    }
+
+    .footer-logo {
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      color: var(--accent);
+      text-transform: uppercase;
+    }
+
+    .footer-divider {
+      width: 40px;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .footer-author {
+      color: var(--off-white);
+      font-size: 0.9rem;
+    }
+
+    .footer-program {
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    .footer-copy {
+      color: var(--muted);
+      font-size: 0.78rem;
+      margin-top: 0.5rem;
+    }
+
+    /* ── RESPONSIVE ─────────────────────────────────────────── */
+    @media (max-width: 700px) {
+      .nav-brand { font-size: 0.75rem; max-width: 180px; }
+      .nav-links a { padding: 0.4rem 0.55rem; font-size: 0.8rem; }
+
+      .hero-stats { gap: 2rem; }
+
+      .dashboard-layout { grid-template-columns: 1fr; }
+      .dashboard-card.full-width { grid-column: auto; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── NAVIGATION ── -->
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-brand" href="#about">AI with Responsibility</a>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#findings">Findings</a></li>
+        <li><a href="#dashboard">Dashboard</a></li>
+        <li><a href="#platforms">Platforms</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ── HERO / ABOUT ── -->
+  <section id="about">
+    <div class="hero-content">
+      <div class="hero-eyebrow">Capstone Research Project &nbsp;·&nbsp; UCF / MAIS</div>
+      <h1 class="hero-title">
+        AI with Responsibility:<br />
+        <span>A Practical Guide for Content<br />Creators in Brazil</span>
+      </h1>
+      <p class="hero-intro">
+        This site presents the findings of an academic capstone project that systematically
+        analyzes the Terms of Service, community guidelines, and AI-use policies of
+        <strong style="color:var(--off-white)">10 major platforms</strong> that directly shape the
+        professional and creative livelihoods of Brazilian content creators — including
+        Instagram, YouTube, TikTok, LinkedIn, X (Twitter), Spotify, Pinterest, Twitch,
+        Canva, and ChatGPT. By mapping each platform's rules around AI-generated content,
+        intellectual property, monetization eligibility, and data rights, this guide aims
+        to empower creators to use artificial intelligence responsibly, strategically, and
+        in full compliance with the policies that govern their work.
+      </p>
+      <div class="hero-cta">
+        <a href="#findings" class="btn btn-primary">Explore Findings</a>
+        <a href="#platforms" class="btn btn-secondary">View Platforms</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <div class="stat-number">10</div>
+          <div class="stat-label">Platforms Analyzed</div>
+        </div>
+        <div class="stat">
+          <div class="stat-number">4</div>
+          <div class="stat-label">Policy Dimensions</div>
+        </div>
+        <div class="stat">
+          <div class="stat-number">LGPD</div>
+          <div class="stat-label">Compliance Focus</div>
+        </div>
+        <div class="stat">
+          <div class="stat-number">2025</div>
+          <div class="stat-label">Data as of</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FINDINGS ── -->
+  <section id="findings">
+    <div class="section-inner">
+      <p class="section-eyebrow">Key Findings</p>
+      <h2 class="section-title">What the Research Reveals</h2>
+      <p class="section-subtitle">
+        Across 10 platforms, four critical dimensions emerged that every Brazilian content
+        creator should understand before using AI tools professionally.
+      </p>
+      <div class="findings-grid">
+        <div class="finding-card">
+          <div class="finding-icon">🤖</div>
+          <h3>AI Disclosure Requirements Vary Widely</h3>
+          <p>
+            Platforms range from requiring explicit disclosure of AI-generated content
+            (YouTube, TikTok) to having no formal policy at all. Creators who fail to
+            disclose where required risk demonetization or account suspension.
+          </p>
+        </div>
+        <div class="finding-card">
+          <div class="finding-icon">©️</div>
+          <h3>Intellectual Property Gaps</h3>
+          <p>
+            Most Terms of Service do not clearly resolve ownership of AI-assisted works.
+            Creators should assume platforms retain broad licensing rights over any content
+            uploaded, regardless of how it was produced.
+          </p>
+        </div>
+        <div class="finding-card">
+          <div class="finding-icon">💰</div>
+          <h3>Monetization at Risk</h3>
+          <p>
+            Several monetization programs — including YouTube Partner Program and TikTok
+            Creator Fund — contain clauses that can exclude purely AI-generated content.
+            Human creative contribution remains a key eligibility factor.
+          </p>
+        </div>
+        <div class="finding-card">
+          <div class="finding-icon">🔒</div>
+          <h3>Data Rights Under Brazilian Law</h3>
+          <p>
+            Brazil's LGPD grants creators rights over personal data processed by platforms.
+            However, most ToS are written under U.S. or EU law, creating potential gaps in
+            enforcement that Brazilian creators must actively navigate.
+          </p>
+        </div>
+        <div class="finding-card">
+          <div class="finding-icon">📋</div>
+          <h3>Policies Are Updated Frequently</h3>
+          <p>
+            AI-related clauses are among the fastest-changing sections of platform policies.
+            Creators are advised to review Terms of Service at least quarterly and subscribe
+            to policy change notifications where available.
+          </p>
+        </div>
+        <div class="finding-card">
+          <div class="finding-icon">🌐</div>
+          <h3>Local Context Is Often Absent</h3>
+          <p>
+            None of the 10 platforms analyzed provides ToS documentation specifically
+            tailored to Brazilian law or in Brazilian Portuguese that addresses AI use.
+            This gap leaves creators reliant on general translations and community guidance.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── DASHBOARD ── -->
+  <section id="dashboard">
+    <div class="section-inner">
+      <p class="section-eyebrow">Policy Dashboard</p>
+      <h2 class="section-title">Platform Transparency Scores</h2>
+      <p class="section-subtitle">
+        Each platform was scored across four dimensions: AI policy clarity, IP rights
+        transparency, monetization fairness, and LGPD compatibility.
+      </p>
+      <div class="dashboard-layout">
+
+        <!-- Transparency Scores -->
+        <div class="dashboard-card">
+          <h3>Overall Transparency Score (0–100)</h3>
+          <div class="score-list">
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">YouTube</span><span class="score-val">82</span></div>
+              <div class="score-track"><div class="score-fill" style="width:82%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">LinkedIn</span><span class="score-val">76</span></div>
+              <div class="score-track"><div class="score-fill" style="width:76%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">Canva</span><span class="score-val">74</span></div>
+              <div class="score-track"><div class="score-fill" style="width:74%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">ChatGPT</span><span class="score-val">71</span></div>
+              <div class="score-track"><div class="score-fill" style="width:71%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">TikTok</span><span class="score-val">65</span></div>
+              <div class="score-track"><div class="score-fill" style="width:65%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">Spotify</span><span class="score-val">63</span></div>
+              <div class="score-track"><div class="score-fill" style="width:63%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">Instagram</span><span class="score-val">58</span></div>
+              <div class="score-track"><div class="score-fill" style="width:58%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">Twitch</span><span class="score-val">55</span></div>
+              <div class="score-track"><div class="score-fill" style="width:55%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">Pinterest</span><span class="score-val">49</span></div>
+              <div class="score-track"><div class="score-fill" style="width:49%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">X (Twitter)</span><span class="score-val">41</span></div>
+              <div class="score-track"><div class="score-fill" style="width:41%"></div></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Policy Dimensions -->
+        <div class="dashboard-card">
+          <h3>Policy Dimension Breakdown</h3>
+          <div class="score-list">
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">AI Content Disclosure</span><span class="score-val">61 / 100</span></div>
+              <div class="score-track"><div class="score-fill" style="width:61%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">Intellectual Property</span><span class="score-val">54 / 100</span></div>
+              <div class="score-track"><div class="score-fill" style="width:54%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">Monetization Rules</span><span class="score-val">67 / 100</span></div>
+              <div class="score-track"><div class="score-fill" style="width:67%"></div></div>
+            </div>
+            <div class="score-row">
+              <div class="score-meta"><span class="score-name">LGPD Compatibility</span><span class="score-val">48 / 100</span></div>
+              <div class="score-track"><div class="score-fill" style="width:48%"></div></div>
+            </div>
+          </div>
+
+          <h3 style="margin-top: 2rem;">Key Takeaway</h3>
+          <p style="font-size: 0.88rem; color: var(--muted); line-height: 1.7;">
+            LGPD compatibility scores are consistently the lowest across all platforms,
+            signaling a significant gap between Brazilian data-rights law and the terms
+            that creators must agree to in order to use these tools.
+          </p>
+        </div>
+
+        <!-- Compliance Table -->
+        <div class="dashboard-card full-width">
+          <h3>Platform Policy Compliance at a Glance</h3>
+          <table class="compliance-table">
+            <thead>
+              <tr>
+                <th>Platform</th>
+                <th>AI Disclosure</th>
+                <th>IP Clarity</th>
+                <th>Monetization</th>
+                <th>LGPD Fit</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>YouTube</td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+              </tr>
+              <tr>
+                <td>Instagram</td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+              </tr>
+              <tr>
+                <td>TikTok</td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+              </tr>
+              <tr>
+                <td>LinkedIn</td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+              </tr>
+              <tr>
+                <td>X (Twitter)</td>
+                <td><span class="badge badge-low">Vague</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+              </tr>
+              <tr>
+                <td>Spotify</td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+              </tr>
+              <tr>
+                <td>Pinterest</td>
+                <td><span class="badge badge-low">Vague</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+              </tr>
+              <tr>
+                <td>Twitch</td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-low">Vague</span></td>
+              </tr>
+              <tr>
+                <td>Canva</td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+              </tr>
+              <tr>
+                <td>ChatGPT</td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-high">Clear</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+                <td><span class="badge badge-medium">Partial</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PLATFORMS ── -->
+  <section id="platforms">
+    <div class="section-inner">
+      <p class="section-eyebrow">Platforms Analyzed</p>
+      <h2 class="section-title">10 Platforms, One Framework</h2>
+      <p class="section-subtitle">
+        Each platform was evaluated using the same four-dimension framework, enabling
+        direct comparison across vastly different product categories.
+      </p>
+      <div class="platforms-grid">
+        <div class="platform-card">
+          <div class="platform-logo">▶</div>
+          <div class="platform-name">YouTube</div>
+          <div class="platform-type">Video &amp; Streaming</div>
+          <div class="platform-score">Transparency: 82 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">📷</div>
+          <div class="platform-name">Instagram</div>
+          <div class="platform-type">Photo &amp; Video</div>
+          <div class="platform-score">Transparency: 58 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">♩</div>
+          <div class="platform-name">TikTok</div>
+          <div class="platform-type">Short-Form Video</div>
+          <div class="platform-score">Transparency: 65 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">💼</div>
+          <div class="platform-name">LinkedIn</div>
+          <div class="platform-type">Professional Network</div>
+          <div class="platform-score">Transparency: 76 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">𝕏</div>
+          <div class="platform-name">X (Twitter)</div>
+          <div class="platform-type">Microblogging</div>
+          <div class="platform-score">Transparency: 41 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">♫</div>
+          <div class="platform-name">Spotify</div>
+          <div class="platform-type">Audio &amp; Podcasting</div>
+          <div class="platform-score">Transparency: 63 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">📌</div>
+          <div class="platform-name">Pinterest</div>
+          <div class="platform-type">Visual Discovery</div>
+          <div class="platform-score">Transparency: 49 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">🎮</div>
+          <div class="platform-name">Twitch</div>
+          <div class="platform-type">Live Streaming</div>
+          <div class="platform-score">Transparency: 55 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">✦</div>
+          <div class="platform-name">Canva</div>
+          <div class="platform-type">Design &amp; Creation</div>
+          <div class="platform-score">Transparency: 74 / 100</div>
+        </div>
+        <div class="platform-card">
+          <div class="platform-logo">✧</div>
+          <div class="platform-name">ChatGPT</div>
+          <div class="platform-type">AI Writing &amp; Research</div>
+          <div class="platform-score">Transparency: 71 / 100</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-logo">AI with Responsibility</div>
+      <div class="footer-divider"></div>
+      <div class="footer-author">Isabelle Bisam</div>
+      <div class="footer-program">
+        University of Central Florida (UCF) &nbsp;·&nbsp;
+        Master of Arts in Interdisciplinary Studies (MAIS)
+      </div>
+      <div class="footer-copy">
+        &copy; 2025 Isabelle Bisam. Academic capstone project. All rights reserved.
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
