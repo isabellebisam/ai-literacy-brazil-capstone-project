@@ -1,1 +1,1 @@
-# ai-literacy-brazil-capstone-project
+# ai-responsibility-brazil-capstone-project
