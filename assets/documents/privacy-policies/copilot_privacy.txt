@@ -1,0 +1,1768 @@
+Proteção de dados empresariais em
+Microsoft 365 Copilot e Microsoft 365
+Copilot Chat
+A utilização de Microsoft 365 Copilot e Microsoft 365 Copilot Chat, conforme utilizado pelas
+organizações, é abrangida pelos termos da Adenda à Proteção de Dados (DPA) dos Produtos e
+Serviços Microsoft , com a Microsoft a funcionar como um processador de dados.
+A proteção de dados empresariais (EDP) refere-se a controlos e compromissos, ao abrigo da
+Adenda à Proteção de Dados (DPA) e dos Termos do Produto, que se aplicam aos dados do
+cliente para utilizadores de Microsoft 365 Copilot e Microsoft 365 Copilot Chat. O uso do
+termo EDP não se destina a limitar os benefícios oferecidos de acordo com o DPA e os Termos
+do Produto.
+Microsoft 365 Copilot e Microsoft 365 Copilot Chat oferecem os mesmos termos
+empresariais disponíveis nas nossas ofertas comerciais do Microsoft 365.
+O uso de Microsoft 365 Copilot e Microsoft 365 Copilot Chat envolve prompts (inseridos por
+usuários) e respostas (conteúdo gerado pelo Copilot). Com a EDP, os pedidos e as respostas
+estão protegidos pelos mesmos termos contratuais e compromissos amplamente considerados
+fidedignos pelos nossos clientes para os respetivos e-mails no Exchange e os respetivos
+ficheiros no SharePoint.
+Protegemos os seus dados: Ajudamos a proteger os seus dados com encriptação inativa
+e em trânsito, controlos de segurança físicos rigorosos e isolamento de dados entre
+inquilinos.
+Os seus dados são privados: Não utilizaremos os seus dados, exceto conforme indicado.
+Os nossos compromissos em matéria de privacidade incluem o apoio ao Regulamento
+Geral sobre a Proteção de Dados (RGPD),ao Limite de Dados da UE , à ISO/IEC 27018 e à
+nossa Adenda à Proteção de Dados .
+O que é a proteção de dados empresariais no
+Microsoft 365 Copilot e no Microsoft 365 Copilot
+Chat?
+[1]
+Proteção de dados empresariais para pedidos e
+respostas
+[2]
+[3]
+Os controlos de acesso e as políticas aplicam-se ao Copilot: O Copilot respeita o
+modelo de identidade e as permissões, herda as etiquetas de confidencialidade, aplica as
+políticas de retenção , suporta a auditoria de interações e segue as definições
+administrativas. Os controlos e políticas específicos variam consoante o plano de
+subscrição subjacente.
+Está protegido contra riscos de segurança de IA e direitos de autor: Ajudamos a
+salvaguardar os riscos centrados na IA, tais como conteúdo prejudicial e injeções rápidas.
+Para questões relacionadas com direitos de autor de conteúdo, fornecemos a deteção de
+material protegido e o nosso Compromisso de Direitos de Autor do Cliente .
+Os seus dados não são utilizados para preparar modelos de base: Microsoft 365 Copilot
+Chat utiliza o contexto do utilizador para criar respostas relevantes. O Microsoft 365
+Copilot também usa Microsoft Graph dados. Consistente com as nossas outras ofertas da
+Copilot, os pedidos, as respostas e os dados acedidos através do Microsoft Graph não
+são utilizados para preparar modelos de base .
+Saiba mais sobre dados, segurança e privacidade para Microsoft 365 Copilot
+Saiba mais sobre dados, segurança e privacidade no Microsoft 365 Copilot Chat
+Além de pedidos e respostas, as consultas de pesquisa na Web (diferentes das consultas do
+Microsoft Graph) também fazem parte das interações do Copilot. Permitir que o Copilot
+referencie conteúdo Web através destas consultas melhora a qualidade das respostas da
+Copilot ao baseá-las nas informações mais recentes da Web através do serviço de pesquisa do
+Bing.
+As consultas Web enviadas para o serviço de pesquisa do Bing são processadas de forma
+idêntica por ambos os Copilots. As consultas são geradas a partir do pedido em algumas
+palavras. São enviados através de uma ligação segura com identificadores de utilizador e
+inquilino removidos. Não são partilhados com anunciantes e não são utilizados para
+preparar os nossos modelos de linguagem grandes (LLMs) de base.
+Recursos adicionais
+Privacidade e segurança das consultas Web
+Respostas básicas nos dados mais recentes
+As consultas Web têm as suas próprias práticas de
+processamento de dados
+O serviço de pesquisa do Bing funciona separadamente do Microsoft 365 e tem
+diferentes práticas de processamento de dados abrangidas pelo Contrato de Serviços
+Microsoft entre cada utilizador e a Microsoft, juntamente com a Declaração de
+Privacidade da Microsoft . Isto significa que a Microsoft age como um controlador de
+dados independente responsável pelo cumprimento de todas as leis aplicáveis e das
+obrigações de controlador. Esta abordagem é consistente com outras experiências
+ligadas opcionais que dependem do Bing.
+Os Termos do Produto Microsoft fornecem compromissos adicionais sobre as consultas
+Web enviadas para o serviço de pesquisa do Bing. Para obter mais informações, confira
+Dados, privacidade e segurança para pesquisa na Web no Microsoft 365 Copilot e
+Microsoft 365 Copilot Chat.
+Quando estiver a utilizar agentes no Microsoft 365 Copilot, marcar a declaração de privacidade
+e os termos de utilização dos agentes para determinar como irão processar os dados da sua
+organização.
+ Os controlos específicos variam consoante os planos de subscrição Microsoft de um cliente.
+ Microsoft 365 Copilot and Microsoft 365 Copilot Chat support HIPAA compliance for
+properly configured implementations. A conformidade com a HIPAA não se aplica a consultas
+de pesquisa na Web, uma vez que não são abrangidas pelo DPA e pelo Contrato de Associação
+Empresarial (BAA).
+ O Limite de Dados da UE não se aplica a consultas de pesquisa na Web. Além disso, os
+modelos antropópicos são atualmente excluídos do Limite de Dados da UE e, quando
+aplicável, dos compromissos de processamento no país. Saiba mais sobre como os modelos
+antropópicos funcionam com Microsoft 365 Copilot.
+Last updated on 09/12/2025
+Agentes no Microsoft 365 Copilot
+Notas de rodapé
+[1]
+[2]
+[3]
+Como os dados são protegidos e auditados
+no Microsoft 365 e Microsoft 365 Copilot
+Aplica-se a: ✅ Microsoft 365 Copilot
+Microsoft 365 Copilot opera dentro do limite de serviço do Microsoft 365 e honra as mesmas
+capacidades de proteção de dados, controlo de acesso e conformidade que se aplicam ao
+Microsoft 365.
+Este artigo descreve a arquitetura de proteção de dados para Microsoft 365 Copilot. Explica
+como o Copilot funciona com as etiquetas de confidencialidade e encriptação do Microsoft
+Purview, como os controlos de acesso do SharePoint e do OneDrive afetam o Copilot e onde
+os dados de interação do Copilot são armazenados para cenários de auditoria e conformidade.
+Este artigo destina-se a administradores de TI que pretendem compreender como os dados
+fluem através do Copilot e como as proteções existentes do Microsoft 365 são impostas. Não
+fornece passos de implementação nem orientações de remediação.
+O Copilot funciona com etiquetas de confidencialidade e encriptação do Microsoft Purview
+para impor controlos de acesso e definições de proteção durante a criação de conteúdos e de
+base.
+ Dica
+Para saber mais sobre como Microsoft 365 Copilot utiliza os seus dados, consulte:
+Dados, privacidade e segurança para o Microsoft 365 Copilot
+Segurança para Microsoft 365 Copilot
+Como Microsoft 365 Copilot funciona com
+etiquetas de confidencialidade e encriptação
+Neste fluxo:
+O Copilot só pode resumir ou referenciar conteúdo a que o utilizador está autorizado a
+aceder.
+Quando a encriptação é aplicada, o utilizador tem de ter direitos de utilização EXTRACT e
+VIEW para que o Copilot interaja com o conteúdo.
+Os itens encriptados pelo Azure Rights Management sem uma etiqueta de
+confidencialidade ainda requerem direitos de utilização EXTRACT ou VIEW para que o
+utilizador do Copilot resuma o conteúdo.
+No Copilot Chat interações, as etiquetas de confidencialidade podem ser apresentadas
+para os dados devolvidos. A resposta reflete a etiqueta de prioridade mais alta.
+Quando o Copilot gera novos conteúdos com base em origens etiquetadas, a etiqueta de
+confidencialidade de prioridade mais alta é herdada quando suportada.
+As definições de proteção permanecem impostas mesmo quando os ficheiros
+etiquetados são armazenados fora do inquilino do Microsoft 365.
+Para saber mais, veja estes artigos:
+Introdução ao rótulos de confidencialidade
+O Microsoft Purview reforça a proteção de informações para o Copilot
+
+Como os controlos de acesso do SharePoint e do
+OneDrive afetam o Copilot
+Os controlos de acesso do SharePoint e do OneDrive influenciam o que o Copilot pode detetar
+e referenciar, sem alterar as permissões de utilizador.
+Esses controles incluem:
+Definições de pesquisa e deteção que limitam os sites apresentados no Copilot e na
+pesquisa em toda a organização.
+Controlos de partilha e associação que afetam a forma geral como os conteúdos podem
+ser acedidos.
+Políticas de governação e ciclo de vida que reduzem o risco de partilha excessiva a longo
+prazo.
+Políticas de proteção de informações que restringem o acesso copilot com base em
+etiquetas de confidencialidade e condições DLP.
+Para obter orientações de remediação prescritivas, veja Microsoft 365 Copilot esquema para
+partilha excessiva.
+
+Os dados de interação copilot são armazenados nos serviços do Microsoft 365 e podem ser
+detetados, auditados e retidos com as capacidades do Microsoft Purview.
+O Microsoft 365 pode capturar:
+Registos de auditoria para pedidos, respostas e conteúdo referenciado do Copilot.
+Dados de interação copilot para investigações de deteção de dados eletrónicos e de
+conformidade.
+Versões retidas de ficheiros referenciados através de anexos na cloud e Bibliotecas de
+Suspensão de Preservação.
+Ficheiros carregados pelo utilizador armazenados nas pastas de Copilot Chat do
+OneDrive.
+Conteúdo criado com o Copilot Pages armazenado em contentores do SharePoint
+Embedded pertencentes ao utilizador.
+Onde os dados de utilização do Copilot são
+armazenados e como são auditados
+
+O comportamento de retenção e eliminação segue as políticas de retenção configuradas do
+Microsoft Purview. Para saber mais, veja Saiba mais sobre a retenção do Copilot.
+Microsoft 365 Copilot arquitetura e como funciona
+Dados, privacidade e segurança para o Microsoft 365 Copilot
+Microsoft 365 Copilot esquema para partilha excessiva
+Last updated on 07/03/2026
+Conteúdo relacionado
+Dados, privacidade e segurança para o
+Microsoft 365 Copilot
+O Microsoft 365 Copilot é um mecanismo de processamento e orquestração sofisticado que
+fornece recursos de produtividade da plataforma AI coordenando os seguintes componentes:
+LLMs (modelos de linguagem grandes)
+Conteúdo no Microsoft Graph, como emails, chats e documentos que você tem
+permissão para acessar.
+Os aplicativos de produtividade do Microsoft 365 que você usa todos os dias, como Word
+e PowerPoint.
+Para obter uma visão geral de como esses três componentes funcionam juntos, consulte Visão
+geral do Microsoft 365 Copilot. Para obter links para outros conteúdos relacionados ao
+Microsoft 365 Copilot, consulte a documentação do Microsoft 365 Copilot.
+As informações neste artigo destinam-se a ajudar a fornecer respostas para as seguintes
+perguntas:
+Como o Microsoft 365 Copilot usa seus dados organizacionais proprietários?
+） Importante
+Microsoft 365 Copilot, incluindo Microsoft 365 Copilot Search, está em
+conformidade com os compromissos de privacidade, segurança e conformidade
+existentes com os clientes comerciais do Microsoft 365, incluindo o Regulamento
+Geral sobre a Proteção de Dados (RGPD) e a Fronteira dos Dados da União Europeia
+(UE).
+Prompts, respostas e dados acessados por meio do Microsoft Graph não são usados
+para treinar os LLMs de base, incluindo aqueles usadas pelo Microsoft 365 Copilot.
+Microsoft 365 Copilot opera com múltiplas proteções, que incluem, mas não se
+limitam a, bloquear conteúdo prejudicial, detetar material protegido e bloquear
+injeções de pedidos de proteção (ataques de jailbreak).
+Os modelos antropópicos dentro Microsoft 365 Copilot experiências são fornecidos
+ao abrigo dos Termos de Produto da Microsoft e da Adenda à Proteção de Dados.
+Saiba mais sobre as salvaguardas de Antroptropic.
+Os modelos antropópicos estão fora do âmbito dos compromissos de
+processamento de LLMs na UE e quando disponíveis. Para obter mais informações,
+consulte Antropic como um subprocessador do Microsoft Online Services.
+Como o Copilot para Microsoft 365 protege as informações e dados organizacionais?
+Quais dados são armazenados sobre interações do usuário com o Copilot para Microsoft
+365?
+Quais compromissos de residência de dados o Copilot para Microsoft 365 faz?
+Quais opções de extensibilidade estão disponíveis para o Copilot para Microsoft 365
+Como o Copilot Microsoft 365 atende aos requisitos de conformidade regulatória?
+Os controles de privacidade para experiências conectadas no Microsoft 365 Apps se
+aplicam ao Copilot para Microsoft 365?
+Posso confiar no conteúdo que o Microsoft 365 Copilot cria? Quem é o proprietário desse
+conteúdo?
+Quais são os compromissos da Microsoft em usar a IA de forma responsável?
+O Microsoft 365 Copilot fornece valor conectando LLMs aos seus dados organizacionais. O
+Microsoft 365 Copilot acessa o conteúdo e o contexto através do Microsoft Graph. Ele pode
+gerar respostas ancoradas em seus dados organizacionais, como documentos do usuário,
+emails, calendário, chats, reuniões e contatos. O Copilot para Microsoft 365 combina esse
+conteúdo com o contexto de trabalho do usuário, como a reunião em que o usuário está
+agora, as trocas de email que o usuário teve sobre um tópico ou as conversas de chat que o
+usuário teve na semana passada. O Microsoft 365 Copilot usa essa combinação de conteúdo e
+contexto para ajudar a fornecer respostas precisas, relevantes e contextuais.
+O Microsoft 365 Copilot só apresenta dados organizacionais aos quais os usuários individuais
+têm pelo menos permissões de exibição. É importante usar os modelos de permissão
+disponíveis nos serviços do Microsoft 365, como o SharePoint, para ajudar a garantir que os
+７ Observação
+O Microsoft 365 Copilot continuará a evoluir ao longo do tempo com novas
+funcionalidades. Para se manter atualizado sobre o Copilot no Microsoft 365 ou fazer
+perguntas, acesse a comunidade do Microsoft 365 Copilot na Microsoft Tech
+Community.
+Como o Microsoft 365 Copilot usa seus dados
+organizacionais proprietários?
+） Importante
+Prompts, respostas e dados acessados por meio do Microsoft Graph não são usados para
+treinar os LLMs de base, incluindo aqueles usadas pelo Microsoft 365 Copilot.
+usuários ou os grupos adequados tenham o acesso correto ao conteúdo certo em sua
+organização. Isso inclui as permissões que você concede a usuários fora da sua organização
+por meio de soluções de colaboração entre locatários, como canais compartilhados no
+Microsoft Teams.
+Quando você insere solicitações usando o Copilot para Microsoft 365, as informações contidas
+em suas solicitações, os dados que elas recuperam e as respostas geradas permanecem dentro
+do limite de serviço do Microsoft 365, em conformidade com nossos compromissos atuais de
+privacidade, segurança e conformidade. O Copilot para Microsoft 365 usa os serviços do
+OpenAI do Azure para processamento, não os serviços publicamente disponíveis do OpenAI. O
+OpenAI do Azure não armazena em cache o conteúdo da clientes e as solicitações modificadas
+do Copilot para Microsoft 365. Para mais informações, confira a seção Dados armazenados
+sobre interações do usuário com o Copilot para Microsoft 365 mais adiante neste artigo.
+Embora o monitoramento de abuso, que inclui revisão humana do conteúdo, esteja ativo no
+Serviço OpenAI do Azure, os serviços do Copilot para Microsoft 365 optaram por não utilizá-lo.
+Para informações sobre filtragem de conteúdo, confira a seção Como o Copilot bloqueia
+conteúdo prejudicial? mais adiante neste artigo.
+７ Observação
+Quando estiver a utilizar agentes para ajudar a Microsoft 365 Copilot a fornecer
+informações mais relevantes, marcar a declaração de privacidade e os termos de
+utilização do agente para determinar como irá processar os dados da sua
+organização. Para mais informações, confira Extensibilidade do Copilot para
+Microsoft 365.
+Quando estiver a utilizar a pesquisa na Web, Microsoft 365 Copilot analisa o pedido
+do utilizador e identifica os termos em que a pesquisa na Web melhoraria a
+qualidade da resposta. Com base nesses termos, o Copilot gera uma consulta de
+pesquisa que envia ao serviço Pesquisa do Microsoft Bing. Para obter mais
+informações, Dados, privacidade e segurança para consultas Web em Microsoft
+365 Copilot e Microsoft 365 Copilot Chat.
+A partir de 7 de janeiro de 2026, Antropópico é um subprocessador para Microsoft
+365 Copilot. Para obter mais informações, consulte Antropic como um
+subprocessador do Microsoft Online Services.
+７ Observação
+Quando um usuário interage com o Copilot para Microsoft 365 (usando aplicativos como
+Word, PowerPoint, Excel, OneNote, Loop ou Whiteboard), armazenamos dados sobre essas
+interações. Os dados armazenados incluem o prompt do usuário e a resposta do Copilot,
+incluindo citações a qualquer informação utilizada para aterrar a resposta do Copilot.
+Referimo-nos ao pedido do utilizador e à resposta da Copilot a esse pedido como o "conteúdo
+das interações" e o registo dessas interações é o histórico de atividades do Copilot do
+utilizador. Por exemplo, estes dados armazenados fornecem aos utilizadores o histórico de
+atividades copilot no Microsoft 365 Copilot Chat (anteriormente denominado Chat de
+Negócios) e reuniões no Microsoft Teams . Esses dados são processados e armazenados de
+acordo com os compromissos contratuais com outros conteúdos da sua organização no
+Microsoft 365. Os dados são criptografados enquanto armazenados e não são usados para
+treinar LLMs de base, incluindo aqueles usados pelo Copilot para Microsoft 365.
+Para exibir e gerenciar esses dados armazenados, os administradores podem utilizar a Pesquisa
+de conteúdo ou o Microsoft Purview. Os administradores também podem utilizar o Microsoft
+Purview para definir políticas de retenção para os dados relacionados às interações de chat
+com Copilot. Para saber mais, confira os seguintes artigos:
+Visão geral da pesquisa de conteúdo
+Proteções de segurança e conformidade de dados do Microsoft Purview para o Microsoft
+Copilot
+Saiba sobre a retenção para o Copilot
+Para chats do Microsoft Teams com o Copilot, os administradores também podem utilizar as
+APIs de exportação do Microsoft Teams para exibir os dados armazenados.
+Podemos usar os Comentários da clientes, que é opcional, para aprimorar o Copilot para
+Microsoft 365, assim como usamos os Comentários para melhorar outros serviços do
+Microsoft 365 e aplicativos de Produtividade do Microsoft 365. Não usamos esses
+comentários para treinar os LLMs de base usados pelo Microsoft 365 Copilot. Os clientes
+podem gerenciar comentários por meio de controles de administrador. Para mais
+informações, confira Gerenciar Comentários da Microsoft para sua organização e
+Fornecer Comentários sobre o Microsoft Copilot com aplicativos do Microsoft 365 .
+Dados armazenados sobre as interações do usuário
+com o Copilot para Microsoft 365
+Excluindo o histórico de interações do usuário com o Copilot
+para Microsoft 365
+Os seus utilizadores podem eliminar o histórico de atividades do Copilot, que inclui os pedidos
+e as respostas devolvidas por Copilot, acedendo ao portal A Minha Conta . Para obter mais
+informações, veja Eliminar o histórico de atividades do Microsoft 365 Copilot .
+As chamadas do Microsoft 365 Copilot para o LLM são roteadas para os data centers mais
+próximos da região, mas também podem chamar para outras regiões com capacidade
+disponível durante períodos de alta uso.
+Para os usuários da União Europeia (UE), tomamos medidas adicionais para cumprir a Fronteira
+de dados da UE. O tráfego da UE permanece dentro da Fronteira de Dados da UE, enquanto o
+tráfego mundial pode ser enviado para a Europa e outros países ou regiões para
+processamento de LLM.
+O Copilot para Microsoft 365 está cumprindo os compromissos de residência de dados
+conforme descrito nos Termos do Produto da Microsoft e no Adendo de Proteção de Dados. O
+Copilot para Microsoft 365 foi adicionado como uma carga de trabalho coberta nos
+compromissos de residência de dados nos Termos do Produto da Microsoft em 1º de março de
+2024.
+As ofertas do Microsoft Advanced Data Residency (ADR) e Microsoft 365 Multi-Geo incluem
+compromissos de residência de dados para os clientes do Copilot para Microsoft 365 a partir
+de 1º de março de 2024. Para clientes da Europa, o Copilot para Microsoft 365 é um serviço da
+Fronteira de dados da UE. Os clientes fora da UE podem ter suas consultas processadas nos
+EUA, UE ou outras regiões.
+Enquanto o Copilot para Microsoft 365 já pode usar os aplicativos e dados dentro do
+ecossistema do Microsoft 365, muitas organizações ainda dependem de várias ferramentas e
+serviços externos para gerenciamento de trabalho e colaboração. Microsoft 365 Copilot
+experiências podem referenciar ferramentas e serviços de terceiros ao responder ao pedido de
+um utilizador através de conectores ou agentes do Microsoft Graph. Dados dos Conectores do
+Graph podem ser retornados nas respostas do Copilot para Microsoft 365 se o usuário tiver
+permissão para acessar essas informações.
+Quando os agentes estão ativados, Microsoft 365 Copilot determina se precisa de utilizar um
+agente específico para ajudar a fornecer uma resposta relevante ao utilizador. Se for necessário
+Microsoft 365 Copilot e o Limite de Dados da UE
+Copilot para Microsoft 365 e residência de dados
+Extensibilidade do Microsoft 365 Copilot
+um agente, Microsoft 365 Copilot gera uma consulta de pesquisa para enviar para o agente em
+nome do utilizador. A consulta baseia-se no pedido do utilizador, no histórico de atividades do
+Copilot e nos dados aos quais o utilizador tem acesso no Microsoft 365.
+Na secção Aplicações integradas do Centro de administração do Microsoft 365, os
+administradores podem ver as permissões e o acesso aos dados exigidos por um agente, bem
+como os termos de utilização e declaração de privacidade do agente. Os administradores têm
+controlo total para selecionar que agentes são permitidos na sua organização. Um utilizador só
+pode aceder aos agentes que o respetivo administrador permite e que o utilizador instalou ou
+está atribuído. Microsoft 365 Copilot utiliza apenas agentes que são ativados pelo utilizador.
+Para saber mais, confira os seguintes artigos:
+Gerir agentes para Microsoft 365 Copilot no Centro de administração do Microsoft 365
+descrição geral da extensibilidade do Microsoft 365 Copilot
+Como o Copilot para Microsoft 365 pode trabalhar com seus dados externos
+O modelo de permissões dentro do locatário do Microsoft 365 pode ajudar a garantir que os
+dados não vazem involuntariamente entre usuários, grupos e locatários. O Microsoft 365
+Copilot apresenta apenas dados que cada indivíduo pode acessar usando os mesmos controles
+subjacentes para acesso aos dados usados em outros serviços do Microsoft 365. O Índice
+Semântico respeita o limite de acesso baseado na identidade do usuário para que o processo
+de fundamentação acesse apenas o conteúdo que o usuário atual está autorizado a acessar.
+Para obter mais informações, consulte a política de privacidade e a documentação do serviço
+da Microsoft.
+Quando você tem dados criptografados pelo Proteção de Informações do Microsoft Purview, o
+Copilot para Microsoft 365 respeita os direitos de uso concedidos ao usuário. Esta criptografia
+pode ser aplicada por rótulos de confidencialidade ou por permissões restritas em aplicativos
+do Microsoft 365 usando o Gerenciamento de Direitos de Informação (IRM). Para mais
+informações sobre o uso do Microsoft Purview com o Copilot para Microsoft 365, confira
+Proteções de segurança e conformidade de dados do Microsoft Purview para aplicativos de IA
+generativa.
+Já implementamos várias formas de proteção para ajudar a impedir que os clientes
+comprometam os serviços e aplicativos do Microsoft 365 ou obtenham acesso não autorizado
+a outros locatários ou ao próprio sistema do Microsoft 365. Aqui estão alguns exemplos dessas
+formas de proteção:
+Como o Copilot para Microsoft 365 protege dados
+organizacionais?
+O isolamento lógico do conteúdo do cliente em cada locatário dos serviços do Microsoft
+365 é obtido por meio da autorização do Microsoft Entra e do controle de acesso
+baseado em função. Para obter mais informações, confira Controles de isolamento do
+Microsoft 365.
+A Microsoft usa segurança física rigorosa, triagem em segundo plano e uma estratégia de
+criptografia em várias camadas para proteger a confidencialidade e integridade do
+conteúdo do cliente.
+O Microsoft 365 usa tecnologias do lado do serviço que criptografam o conteúdo da
+clientes inativo e em trânsito, incluindo BitLocker, criptografia por arquivo, TLS e IPsec.
+Para obter detalhes específicos sobre criptografia no Microsoft 365, consulte Criptografia
+do Microsoft Cloud.
+Seu controle sobre os dados é reforçado pelo compromisso da Microsoft de cumprir leis
+de privacidade amplamente aplicáveis, como o GDPR, e padrões de privacidade, como o
+ISO/IEC 27018, o primeiro código internacional de prática para privacidade na nuvem do
+mundo.
+Para conteúdos acedidos através de agentes Microsoft 365 Copilot, a encriptação pode
+excluir o acesso programático, limitando assim o agente a aceder ao conteúdo. Para
+obter mais informações, consulte Configurar direitos de uso para Proteção de
+Informações do Azure.
+A Microsoft continua a adaptar-se e a responder para cumprir os requisitos regulamentares de
+IA à medida que evoluem, para que ganhemos e mantenhamos a confiança dos clientes,
+parceiros e reguladores.
+Microsoft 365 Copilot fornece amplas ofertas e certificações de conformidade, incluindo OGPD,
+ISO 27001, HIPAA e norma ISO 42001 para sistemas de gestão de IA. Estes ajudam a apoiar os
+nossos clientes nos seus percursos de conformidade, complementados por funcionalidades
+como preparação contratual, gestão de riscos de tecnologias de comunicação e informações
+incorporadas e ferramentas de resiliência operacional.
+A Microsoft está empenhada em cumprir todas as leis e regulamentos aplicáveis à Microsoft,
+incluindo a Lei de IA da UE, para permitir que as nossas soluções de IA cumpram as normas em
+evolução de IA fidedigna e responsável. Microsoft 365 Copilot baseia-se nos compromissos
+existentes da Microsoft em matéria de segurança e privacidade dos dados . Não há nenhuma
+alteração nesses compromissos. A Copilot está integrada no Microsoft 365 e cumpre os
+Atender aos requisitos de conformidade
+regulatória
+compromissos de privacidade, segurança e conformidade existentes com os clientes do
+Microsoft 365.
+Além disso, priorizamos o diálogo aberto com os nossos parceiros e autoridades reguladoras.
+Fornecemos aos clientes acesso direto a profissionais de conformidade da Microsoft,
+orientações proativas e soluções organizadas para ajudar a navegar na conformidade
+regulamentar, como o Início Rápido da Avaliação de Riscos Microsoft 365 Copilot & Copilot
+Chat . A nossa abordagem no panorama orientado por IA visa capacitar as organizações a
+inovarem com confiança com soluções criadas com transparência, privacidade e segurança em
+mente.
+Alguns controles de privacidade para experiências conectadas nos Microsoft 365 Apps podem
+afetar a disponibilidade dos recursos do Copilot para Microsoft 365. Isso inclui os controles de
+privacidade para experiências conectadas que analisam seu conteúdo e o controle de
+privacidade para experiências conectadas opcionais. Para mais informações sobre esses
+controles de privacidade, confira Visão geral dos controles de privacidade do Microsoft 365
+Apps para Grandes Empresas.
+Se desativar as experiências ligadas que analisam os seus conteúdos em dispositivos na sua
+organização, Microsoft 365 Copilot funcionalidades não estarão disponíveis para os seus
+utilizadores nas seguintes aplicações:
+Excel
+OneNote
+Outlook
+PowerPoint
+Word
+Isto aplica-se ao momento em que está a executar a versão mais recente destas aplicações em
+dispositivos Windows, Mac, iOS ou Android.
+Há também um controle de privacidade que desativa todas as experiências conectadas,
+incluindo as que analisam seu conteúdo. Se utilizar esse controlo de privacidade, Microsoft 365
+Informações adicionais
+Copilot para Microsoft 365 e controles de privacidade para
+experiências conectadas
+Configuração de privacidade para experiências conectadas que analisam
+seu conteúdo
+Copilot funcionalidades não estarão disponíveis nas aplicações e nos dispositivos descritos
+acima.
+Se você desativar experiências conectadas opcionais na sua organização, os recursos do
+Copilot para Microsoft 365 que são experiências conectadas opcionais não estarão disponíveis
+para seus usuários. Por exemplo, desativar as experiências ligadas opcionais pode afetar a
+disponibilidade da pesquisa na Web.
+Há também um controle de privacidade que desativa todas as experiências conectadas,
+incluindo as opcionais. Se você usar esse controle de privacidade, os recursos do Copilot para
+Microsoft 365 que são experiências conectadas opcionais não estarão disponíveis.
+As respostas que a IA generativa produz não são garantidas como 100% factuais. Enquanto
+continuamos a melhorar as respostas, os usuários ainda devem analisar a saída antes de enviálas para outras pessoas. Nossos recursos do Microsoft 365 Copilot fornecem rascunhos e
+resumos úteis para ajudá-lo a alcançar mais, dando a você a chance de revisar a IA gerada em
+vez de automatizar totalmente essas tarefas.
+Continuamos aprimorando os algoritmos para resolver problemas de forma proativa, como
+desinformação, bloqueio de conteúdo, segurança de dados e prevenção da promoção de
+conteúdo prejudicial ou discriminatório de acordo com nossos princípios de IA responsável .
+A Microsoft não reivindica a propriedade da saída do serviço. Dito isso, não determinamos se a
+produção de um cliente é protegida por direitos autorais ou aplicável contra outros usuários.
+Isso ocorre porque os sistemas de IA generativa podem produzir respostas semelhantes aos
+prompts ou consultas semelhantes de vários clientes. Consequentemente, vários clientes
+podem ter ou reivindicar direitos no conteúdo que seja o mesmo ou substancialmente
+semelhante.
+Se um terceiro processar um cliente comercial por violação de direitos autorais pelo uso dos
+Copilots da Microsoft ou do resultado que eles geram, defenderemos o cliente e pagaremos o
+valor de quaisquer julgamentos adversos ou acordos resultantes da ação judicial, desde que o
+cliente tenha usado o grades de proteção e filtros de conteúdo que incorporamos em nossos
+produtos. Para obter mais informações, confira Microsoft anuncia novo Compromisso de
+Direitos Autorais do Copilot para clientes .
+Controle de privacidade para experiências conectadas opcionais
+Sobre o conteúdo que o Microsoft 365 Copilot cria
+Como o Copilot bloqueia o conteúdo prejudicial?
+Para ajudar a bloquear conteúdo prejudicial, Microsoft 365 Copilot utiliza salvaguardas que
+funcionam juntamente com os modelos de IA utilizados para gerar respostas. Consoante o
+cenário, estas salvaguardas podem incluir proteções originais da Microsoft ou, em alguns
+casos, mitigações de segurança incorporadas no modelo subjacente. Estas salvaguardas
+utilizam uma abordagem de defesa em profundidade e podem incluir uma combinação de
+proteções originais da Microsoft que ajudam a detetar e reduzir tentativas de jailbreak e
+padrões de injeção rápida (incluindo ataques de injeção cruzada), filtros de danos de conteúdo
+para identificar conteúdo prejudicial em pedidos ou respostas geradas (como Ódio & Justiça,
+Sexual, Violência e Auto-danos), ou em alguns cenários, mitigações de segurança incorporadas
+no modelo subjacente.
+Os danos relacionados a ódio e justiça referem-se a qualquer conteúdo que use linguagem
+pejorativa ou discriminatória com base em atributos como raça, etnia, nacionalidade,
+identidade e expressão de gênero, orientação sexual, religião, status de imigração, status de
+capacidade, aparência pessoal e tamanho do corpo. A justiça se preocupa em garantir que os
+sistemas de IA tratem todos os grupos de pessoas de forma equitativa, sem contribuir para as
+desigualdades sociais existentes. O conteúdo sexual envolve discussões sobre órgãos
+reprodutivos humanos, relacionamentos românticos, atos retratados em termos eróticos ou
+afetuosos, gravidez, atos sexuais físicos, inclusive aqueles retratados como agressão ou ato
+forçado de violência sexual, prostituição, pornografia e abuso. Violência descreve a linguagem
+relacionada a ações físicas que visam prejudicar ou matar, incluindo ações, armas e entidades
+relacionadas. A linguagem da Automutilação refere-se a ações deliberadas que visam ferir ou
+matar alguém.
+Além da filtragem de conteúdos fornecida pelo serviço OpenAI Azure, determinados cenários
+de Microsoft 365 Copilot fornecem outras mitigações, tais como filtros para ajudar a evitar
+danos na área de trabalho. Os danos no local de trabalho referem-se a uma categoria de danos
+que podem resultar de IA gerada ou modelos que fazem inferências, julgamentos ou
+avaliações sobre um funcionário com base na comunicação no local de trabalho. Atualmente,
+isso significa inferências, julgamentos ou avaliações sobre o desempenho, atitude, estado
+interno ou emocional de um colaborador ou características pessoais. Restringimos a utilização
+de IA ou modelos geradores para estas finalidades.
+Sim, o Copilot para Microsoft 365 fornece detecção para materiais protegidos, incluindo texto
+sujeito a direitos autorais e código com restrições de licença. Esta deteção pode não estar
+disponível em todos os cenários Microsoft 365 Copilot e nem todas estas mitigações são
+relevantes para todos os cenários Microsoft 365 Copilot.
+O Copilot fornece detecção de material protegido?
+Os ataques de jailbreak são pedidos concebidos para contornar as salvaguardas de Copilot ou
+induzir comportamentos não conformes. Microsoft 365 Copilot ajuda a mitigar estes ataques
+através de técnicas proprietárias, tais como classificadores de jailbreak e ataque de injeção
+cruzada (XPIA). Estes classificadores analisam as entradas para o serviço Copilot e ajudam a
+bloquear pedidos de alto risco antes da execução do modelo. Estes classificadores podem não
+estar disponíveis em todos os cenários Microsoft 365 Copilot.
+Os modelos de IA que alimentam Microsoft 365 Copilot são atualizados e melhorados
+regularmente. As atualizações de modelos trazem melhorias de desempenho, raciocínio mais
+avançado e capacidades expandidas, mas não alteram as definições de segurança, privacidade
+ou conformidade. Para obter mais informações, veja Blogue do Microsoft 365: Compreender as
+alterações do modelo de base no Microsoft 365 Copilot .
+Como a IA está pronta para transformar nossas vidas, devemos definir coletivamente novas
+regras, normas e práticas para o uso e o impacto dessa tecnologia. A Microsoft está em uma
+jornada de IA responsável desde 2017, quando definimos nossos princípios e abordagem para
+garantir que essa tecnologia seja usada de uma maneira orientada por princípios éticos que
+priorizam as pessoas.
+Na Microsoft, somos guiados por nossos princípios de IA , nosso Padrão de IA responsável
+e décadas de pesquisa sobre IA, fundamentação e aprendizado de máquina com preservação
+de privacidade. Uma equipe multidisciplinar de pesquisadores, engenheiros e especialistas em
+políticas analisa nossos sistemas de IA em busca de possíveis danos e mitigações — refinando
+dados de treinamento, filtrando para limitar conteúdo prejudicial, bloqueando tópicos
+sensíveis de consultas e resultados e aplicando tecnologias da Microsoft como InterpretML e
+Fairlearn para ajudar detectar e corrigir vieses de dados. Deixamos claro como o sistema
+toma decisões observando limitações, vinculando-se a fontes e levando os usuários a revisar,
+verificar os fatos e ajustar o conteúdo com base na experiência do assunto. Para obter mais
+informações, consulte Gerenciar IA: um blueprint para o futuro .
+Nosso objetivo é ajudar nossos clientes a usar nossos produtos de IA de forma responsável,
+compartilhando nossos aprendizados e criando parcerias baseadas em confiança. Para esses
+novos serviços, queremos oferecer aos nossos clientes informações sobre uso, recursos e
+O Copilot bloqueia injeções de prompt (ataques de
+desbloqueio por jailbreak)?
+O que acontece quando ocorrem alterações ao modelo de
+base?
+Compromisso com a IA responsável
+limitações pretendidos do nosso serviço de plataforma de IA, para que eles tenham o
+conhecimento necessário para fazer escolhas de implantação responsáveis. Também
+compartilhamos recursos e modelos com desenvolvedores dentro de organizações e com ISVs
+(fornecedores independentes de software), para ajudá-los a criar soluções de IA eficazes,
+seguras e transparentes.
+Requisitos do Microsoft 365 Copilot
+Introdução ao Copilot para Microsoft 365
+Site de adoção do Microsoft 365 Copilot
+Last updated on 09/03/2026
+Artigos relacionados
+Dados, privacidade e segurança para
+pesquisa na Web em Microsoft 365 Copilot
+e Microsoft 365 Copilot Chat
+Microsoft 365 Copilot e Microsoft 365 Copilot Chat têm uma funcionalidade opcional que
+permite ao Copilot referenciar conteúdo Web ao responder a pedidos do utilizador. Permitir
+que Microsoft 365 Copilot e Microsoft 365 Copilot Chat referenciem conteúdo Web melhora a
+qualidade das respostas da Copilot ao baseá-las nas informações mais recentes da Web.
+Quando a pesquisa na Web está ativada, Microsoft 365 Copilot e Microsoft 365 Copilot Chat
+podem obter informações do serviço de pesquisa do Bing quando as informações da Web
+ajudam a fornecer uma resposta melhor e mais fundamentada. Administração controlos e um
+botão de alternar de conteúdo Web ao nível do utilizador (apenas para Microsoft 365 Copilot)
+estão disponíveis para gerir se a pesquisa na Web está ativada no seu ambiente.
+Quando a pesquisa na Web está ativada, Microsoft 365 Copilot e Microsoft 365 Copilot Chat
+analisar o pedido do utilizador e identifica os termos em que as informações da Web
+７ Observação
+Este artigo diz respeito à funcionalidade de pesquisa na Web em Microsoft 365
+Copilot e Microsoft 365 Copilot Chat. O Microsoft 365 Copilot Search é uma
+experiência de pesquisa universal adicional que permite que os utilizadores com
+uma licença Microsoft 365 Copilot procurem em todas as respetivas origens de
+dados do Microsoft 365 e de terceiros. Saiba mais sobre o Microsoft 365 Copilot
+Search.
+As informações sobre a pesquisa na Web neste artigo também se aplicam a
+Investigador e Analista no Microsoft 365 Copilot. Embora a pesquisa na Web
+não seja um pré-requisito para utilizar o Investigador e Analista, recomenda-se ativar
+a pesquisa na Web para tirar o máximo partido da sua utilização. A única diferença é
+que o Investigador e Analista não têm um botão de alternar de conteúdo Web para
+os utilizadores.
+Pesquisa na Web
+Como funciona a pesquisa na Web
+melhorariam a qualidade da resposta. Com base nesses termos, o Copilot gera uma consulta
+de pesquisa que envia ao serviço de pesquisa do Bing solicitando mais informações.
+Essa consulta de pesquisa gerada é diferente do prompt original do usuário— consiste em
+algumas palavras informadas pelo prompt do usuário. As seguintes informações não estão
+incluídas na consulta de pesquisa gerada enviada para o serviço de pesquisa do Bing:
+Todo o pedido do utilizador, a menos que o pedido seja muito curto (por exemplo,
+"meteorologia local")
+Ficheiros completos do Microsoft 365 (por exemplo, e-mails ou documentos) ou ficheiros
+carregados para o Copilot
+Páginas Web inteiras ou PDFs resumidos pela Copilot no Microsoft Edge (apenas para
+Microsoft 365 Copilot Chat)
+Qualquer informação de identificação baseada no Microsoft Entra ID do utilizador (por
+exemplo, nome de utilizador, domínio ou ID de inquilino)
+Ao utilizar Microsoft 365 Copilot, a consulta de pesquisa gerada não inclui a totalidade dos
+documentos do Microsoft 365 associados à linha de comandos. No entanto, ela também pode
+ser informado pelos dados em um documento do Microsoft 365 sob as seguintes condições:
+Quando um utilizador introduz um pedido no Copilot dentro de uma aplicação do
+Microsoft 365 (por exemplo, escrever um pedido no Copilot no Microsoft Word enquanto
+está aberto um documento relevante).
+Quando o utilizador referencia explicitamente um documento específico no respetivo
+pedido.
+Os pedidos do utilizador e as respostas da Copilot são armazenados no Microsoft 365 e nunca
+saem do limite de serviço para Microsoft 365 Copilot e Microsoft 365 Copilot Chat sem a
+direção do cliente. A proteção de dados empresariais, a Adenda à Proteção de Dados (DPA)
+e os Termos do Produto aplicam-se a pedidos e respostas, com a Microsoft a agir como um
+processador de dados.
+Depois que o Microsoft 365 Copilot e o Microsoft 365 Copilot Chat recebem informações
+adicionais do serviço de pesquisa do Bing, essas informações são usadas para compor a
+resposta retornada ao usuário.
+Para dar maior visibilidade às consultas de pesquisa geradas, as citações de consulta de
+pesquisa na Web são apresentadas aos utilizadores na secção de citação ligada da resposta
+Citações de consulta de pesquisa na Web
+copilot. A secção mostra as consultas de pesquisa na Web exatas (derivadas do pedido do
+utilizador) que foram enviadas para o serviço de pesquisa do Bing. Mostrar as consultas de
+pesquisa na Web exatas ajuda os utilizadores a compreender que consultas de pesquisa,
+juntamente com os sites pesquisados, foram utilizadas para melhorar a resposta do Copilot ao
+pedido. Estas informações podem ajudar os utilizadores a melhorar os pedidos e a utilizar o
+Copilot de forma mais eficaz.
+As citações de consulta de pesquisa na Web só estão disponíveis em Microsoft 365 Copilot
+Chat (anteriormente denominado Chat de Negócios). As citações não estão disponíveis no
+painel Copilot numa aplicação do Microsoft 365, como o Word ou o PowerPoint. Além disso, as
+consultas de pesquisa na Web só estão disponíveis no tópico de chat durante 24 horas.
+O registro em log de consultas de pesquisa na Web está disponível para que os
+administradores possam realizar pesquisa, auditoria e descoberta eletrônica nas consultas de
+pesquisa na Web exatas derivadas do prompt do usuário pelo Copilot. Os administradores já
+podem executar estas ações para pedidos e respostas e podem utilizar as suas ferramentas
+familiares para expandir essas ações para consultas de pesquisa. Para obter mais informações,
+confira Atividades do log de auditoria, Visão geral dos eventos de interação do Copilot e
+Pesquisar e excluir dados do Copilot na Descoberta Eletrônica (prévia).
+Os administradores também podem ver os termos de pesquisa na Web que Copilot utilizou,
+juntamente com o pedido original, a resposta e quaisquer recursos de suporte através do
+explorador de atividades no Gerenciamento da Postura de Segurança de Dados do Microsoft
+Purview (DSPM) para IA. Para obter mais informações, veja Saiba mais sobre Gerenciamento da
+Postura de Segurança de Dados (DSPM) para IA.
+A tabela seguinte fornece vários exemplos do pedido de um utilizador e as consultas de
+pesquisa geradas enviadas para o Bing. Ela também explica como o Microsoft 365 Copilot e o
+Registro em log de consultas de pesquisa na Web
+Exemplos de consultas de pesquisa geradas
+Microsoft 365 Copilot Chat formulam uma resposta. Colchetes indicam espaços reservados
+para informações específicas referenciadas pelo usuário ou inferidas pelo Copilot.
+Prompt de usuário Consultas de
+pesquisa geradas
+Como o Copilot fornece uma resposta
+Quem é meu gerente e
+quais informações públicas
+estão disponíveis sobre eles?
+[Nome do Gerente] O Copilot encontra o nome do gerente do usuário
+nos dados do Microsoft 365. Em seguida, gera
+uma consulta de pesquisa do Bing com base no
+nome para verificar quais informações sobre ele
+estão disponíveis na Web.
+Estou à procura de um
+documento da autoria da
+semana passada pelo
+[colega].
+Nenhum Copilot devolve documentos de [colega]
+encontrados nos dados do Microsoft 365. Não são
+geradas consultas de pesquisa na Web.
+Estamos considerando uma
+possível aquisição da
+Fabrikam. Resumir
+informações financeiras
+sobre a empresa, incluindo
+sua estratégia de negócios.
+Estratégia da
+Fabrikam
+Finanças da
+Fabrikam
+Copilot devolve uma resposta com duas secções.
+Um é apresentado com o título "A partir dos
+dados da sua empresa" que referencia as
+informações às quais o utilizador tem acesso no
+Microsoft 365. A outra tem o título "Da Web", que
+inclui informações publicamente disponíveis.
+Qual decisão [colega de
+trabalho] tomou sobre o
+envio de nosso produto da
+Contoso?
+Decisão de [nome
+do colega de
+trabalho] sobre o
+envio do produto da
+Contoso
+O Copilot retorna uma resposta com base nas
+informações às quais o usuário tem acesso no
+Microsoft 365.
+Como não há informações relevantes disponíveis
+na Web, o Copilot não inclui informações da Web
+na resposta.
+Resumia o [documento de
+estratégia interna sobre
+energia limpa] e diga-me se
+a Fabrikam anunciou
+Comunicados da
+política de energia
+limpa da Fabrikam
+O usuário inclui explicitamente uma referência a
+um documento específico no Microsoft 365.
+Copilot reasons over this document and identifis
+"limpo energy policy" as a major theme. "Política
+de energia limpa" é adicionado à consulta de
+７ Observação
+Ao contrário de Microsoft 365 Copilot, os utilizadores não podem invocar conteúdo
+organizacional, como ficheiros, e-mails ou conversas, ao solicitar Microsoft 365 Copilot
+Chat. Para obter exemplos de pedidos de utilizador puramente baseados na Web para
+Microsoft 365 Copilot Chat, veja Privacidade e segurança das consultas de pesquisa
+geradas.
+ﾉ Expandir a tabela
+Prompt de usuário Consultas de
+pesquisa geradas
+Como o Copilot fornece uma resposta
+publicamente uma
+abordagem semelhante.
+pesquisa gerada enviada ao serviço de pesquisa
+do Bing (o documento em si não é incluído).
+Em seguida, o Copilot usa os resultados da Web
+retornados do Bing e identifica quaisquer
+semelhanças entre essas informações públicas e a
+estratégia descrita no documento interno.
+O Microsoft 365 Copilot e o Microsoft 365 Copilot Chat usam consultas de pesquisa geradas
+enviadas ao serviço de pesquisa do Bing para fundamentar respostas em dados da Web. A
+maneira como a Microsoft lida com essas consultas é idêntica em ambos os serviços.
+As consultas de pesquisa geradas são enviadas para o serviço de pesquisa do Bing com
+identificadores de utilizador e inquilino removidos. Além disso, as consultas de pesquisa na
+Web enviadas para o Bing não afetam nenhum dos seguintes procedimentos:
+Classificação de Pesquisa
+Respostas ou recursos como Legendas Avançadas
+Recursos sociais como Sugestão Automática, Em Alta e Entrada Zero
+A secção "Microsoft 365 Copilot e Microsoft 365 Copilot Chat" dos Termos do Produto
+fornece os seguintes compromissos adicionais sobre as consultas de pesquisa geradas
+enviadas para o serviço de pesquisa do Bing:
+A Microsoft não tem direitos sobre eles, exceto conforme necessário para fornecer o
+serviço.
+Não são utilizados para melhorar o Bing.
+Não são utilizados para criar perfis de publicidade ou para controlar o comportamento
+dos utilizadores.
+Eles não são compartilhados com anunciantes.
+Não são utilizados para preparar modelos de base de IA geradores.
+Eles são tratados como informações confidenciais do cliente e protegidos por medidas
+técnicas e organizacionais adequadas.
+O serviço Pesquisa do Bing opera separadamente do Microsoft 365 e tem diferentes práticas
+de manipulação de dados. As consultas de pesquisa na Web geradas pelo Copilot e enviadas
+para o Bing estão sujeitas ao Contrato de Serviços Microsoft entre cada usuário e a
+Microsoft, juntamente com a Política de Privacidade da Microsoft .
+Como a Microsoft processa as consultas de pesquisa geradas
+Os Termos de Produto estabelecem compromissos adicionais da Microsoft como
+controladora em relação ao tratamento de dados de consultas à Web. A Microsoft atua como
+controladora de dados, responsável por cumprir todas as leis aplicáveis e obrigações do
+controlador. Em caso de conflito em relação à utilização do Bing com Microsoft 365 Copilot e
+Microsoft 365 Copilot Chat, os Termos do Produto substituem o Contrato de Serviços
+Microsoft e a Declaração de Privacidade da Microsoft.
+O Adendo de Proteção de Dados de Produtos e Serviços da Microsoft (DPA) não se aplica ao
+uso de consultas de pesquisa na Web geradas no Microsoft 365 Copilot, Microsoft 365 Copilot
+Chat ou no serviço de pesquisa do Bing. Além disso, a conformidade HIPAA e o Limite de
+Dados da UE não se aplicam a consultas de pesquisa geradas.
+Para gerir a pesquisa na Web para que se alinhe com políticas organizacionais, preferências de
+utilizador e considerações de segurança, estão disponíveis dois controlos distintos: um para
+administradores de TI e outro para utilizadores (apenas para Microsoft 365 Copilot).
+A principal forma de os administradores de TI poderem controlar o acesso à pesquisa na Web
+é através da política Permitir pesquisa na Web em Copilot , que só está disponível no serviço
+Política de Cloud para o Microsoft 365. Esta política permite que os administradores de TI
+ativem ou desativem a pesquisa na Web de utilizadores ou grupos de utilizadores no inquilino
+que gerem de acordo com as políticas da organização, as leis de privacidade de dados ou
+outros requisitos regulamentares. Esta política aplica-se tanto a Microsoft 365 Copilot como a
+Microsoft 365 Copilot Chat.
+Se o administrador de TI ativar a política Permitir pesquisa na Web no Copilot , tem três
+opções para a pesquisa na Web em Copilot:
+Habilitado no Microsoft 365 Copilot e no Microsoft 365 Copilot Chat
+Desabilitado no Microsoft 365 Copilot e no Microsoft 365 Copilot Chat
+Desabilitado no Modo de Trabalho do Microsoft 365 Copilot; Habilitado no Modo Web
+do Microsoft 365 Copilot e no Microsoft 365 Copilot Chat
+Se o administrador de TI ativar a pesquisa na Web para Microsoft 365 Copilot utilizadores,
+esses utilizadores continuarão a ter a opção de desativar a pesquisa na Web utilizando o botão
+Controles disponíveis para gerenciar a pesquisa
+na Web
+Controlo de administrador de TI para Microsoft 365 Copilot e
+Microsoft 365 Copilot Chat
+de alternar conteúdo Web. O botão de alternar conteúdo Web não está disponível como parte
+da experiência de Microsoft 365 Copilot Chat.
+Se o administrador de TI desativar a pesquisa na Web, o botão de alternar conteúdo Web não
+está disponível para os utilizadores. O botão de alternar está desativado e aparece desativado.
+Os utilizadores não podem ativar o botão de alternar para utilizar a pesquisa na Web.
+Se o administrador de TI não configurar a política Permitir pesquisa na Web no Copilot, a
+pesquisa na Web estará disponível para utilizadores em Microsoft 365 Copilot e Microsoft 365
+Copilot Chat, a menos que o administrador de TI tenha definido a política Permitir a utilização
+de experiências ligadas opcionais adicionais no Office comoDesativada. Mas desativar
+experiências conectadas opcionais restringe o Microsoft 365 Copilot Chat, o Microsoft 365
+Copilot e várias experiências no Microsoft 365.
+７ Observação
+Se o administrador de TI escolher Desativado no modo de trabalho Microsoft 365
+Copilot; Ativada no modo Web Microsoft 365 Copilot e na opção Microsoft 365 Copilot
+Chat, a pesquisa na Web em Investigação e Analista no Microsoft 365 Copilot será
+desativada.
+７ Observação
+Para Estados Unidos clientes governamentais que utilizam ofertas do Microsoft 365 (ou
+Office 365) Government Community Cloud (GCC) ou DoD:
+A pesquisa na Web está disponível, mas está desativada por predefinição.
+Para ativar a pesquisa na Web, utilize a política Permitir pesquisa na Web em
+Copilot no serviço Política de Cloud do Microsoft 365. Para obter informações sobre
+esta política, consulte as informações apresentadas anteriormente nesta secção.
+Se não configurar a política Permitir pesquisa na Web no Copilot , a pesquisa na
+Web permanece desativada, independentemente da forma como a política Permitir
+a utilização de experiências ligadas opcionais adicionais no Office está
+configurada.
+Alternância de conteúdo da Web para usuários (somente para
+Microsoft 365 Copilot)
+O botão de alternar conteúdo Web oferece aos utilizadores controlo sobre se querem ou não
+conteúdo Web em tempo real em Microsoft 365 Copilot respostas com base nas suas
+preferências pessoais. A alternância Conteúdo da Web está disponível apenas como parte do
+chat de trabalho no Microsoft 365 Copilot.
+Se o administrador de TI habilitar a pesquisa na Web, a alternância Conteúdo da Web será
+ativada por padrão. Quando ativada, o usuário receberá respostas baseadas em conteúdo
+da Web em tempo real. Se o administrador de TI desabilitar a pesquisa na Web, a alternância
+Conteúdo da Web não estará disponível para o usuário do Microsoft 365 Copilot como parte
+do chat de trabalho e a pesquisa na Web será desabilitada.
+Se um usuário do Microsoft 365 Copilot desativar a alternância Conteúdo da Web no chat de
+trabalho, o conteúdo da Web não será incluído nas respostas do Copilot.
+Os usuários do Microsoft 365 Copilot podem gerenciar a pesquisa na Web no chat de trabalho
+seguindo estas etapas:
+1. Selecione o menu no canto superior direito da tela no Microsoft 365 Copilot ao usar o
+chat de trabalho.
+2. Desative a alternância Conteúdo da Web.
+Last updated on 25/02/2026
+７ Observação
+A definição de privacidade para experiências ligadas opcionais disponíveis para os
+utilizadores nas aplicações do Microsoft 365 (por exemplo, no Word, Excel ou Teams) não
+tem qualquer efeito na disponibilidade da pesquisa na Web. Por exemplo, se um utilizador
+desativar as experiências ligadas opcionais, a pesquisa na Web ainda pode estar
+disponível para o utilizador.
+FAQ sobre a utilização de IA de forma
+responsável no Microsoft 365 Copilot
+Um sistema de IA inclui não apenas a tecnologia, mas também as pessoas que a utilizam, as
+pessoas afetadas por ela e o ambiente em que é implantado. As FAQs de IA Responsáveis da
+Microsoft destinam-se a ajudá-lo a compreender como funciona a tecnologia de IA, as
+escolhas que os proprietários e os utilizadores do sistema podem fazer para influenciar o
+desempenho e o comportamento do sistema e a importância de pensar em todo o sistema,
+incluindo a tecnologia, as pessoas e o ambiente. Você pode usar as Perguntas frequentes sobre
+IA responsável para entender melhor os sistemas e recursos de IA específicos que a Microsoft
+desenvolve.
+As FAQs de IA responsáveis fazem parte de um esforço mais amplo para pôr em prática os
+nossos princípios de IA. Para saber mais, veja Princípios de IA da Microsoft .
+Microsoft 365 Copilot contém uma lista crescente de funcionalidades condicionadas por IA.
+Para saber mais sobre as capacidades e o impacto de funcionalidades específicas, selecione um
+artigo na lista.
+FAQ sobre Ajustes do Copilot no Microsoft 365
+FAQ do Flow Builder no Microsoft 365 Copilot
+FAQ do App Builder no Microsoft 365 Copilot
+Last updated on 01/03/2026
+Funcionalidades condicionadas por IA
+Card de aplicações: Microsoft 365 Copilot
+Os cartões de Aplicação e Plataforma da Microsoft destinam-se a ajudá-lo a compreender
+como funciona a nossa tecnologia de IA, as escolhas que os proprietários das aplicações
+podem fazer que influenciam o desempenho e o comportamento das aplicações e a
+importância de considerar toda a aplicação, incluindo a tecnologia, as pessoas e o ambiente.
+Os cartões de aplicação são criados para aplicações de IA e os cartões de plataforma são
+criados para serviços de plataforma de IA. Estes recursos podem suportar o desenvolvimento
+ou a implementação das suas próprias aplicações e podem ser partilhados com utilizadores ou
+intervenientes afetados pelas mesmas.
+Como parte do seu compromisso com a IA responsável, a Microsoft cumpre seis princípios
+fundamentais : equidade, fiabilidade e segurança, privacidade e segurança, inclusão,
+transparência e responsabilidade. Estes princípios estão incorporados no Standard de IA
+Responsável , que orienta as equipas na conceção, criação e teste de aplicações de IA. Os
+cartões de Aplicação e Plataforma desempenham um papel fundamental na operacionalização
+destes princípios ao oferecer transparência em torno das capacidades, utilizações pretendidas
+e limitações. Para obter mais informações, os leitores são encorajados a explorar o Relatório de
+Transparência de IA Responsável da Microsoft e o Código de Conduta dos Serviços de IA
+empresarial da Microsoft (para organizações) ou a secção Conduta do Código no Contrato de
+Serviços Microsoft (para indivíduos), ambos descrevendo como interagir com a IA de forma
+responsável.
+Microsoft 365 Copilot é uma ferramenta de produtividade com tecnologia de IA que ajuda a
+melhorar a sua criatividade, produtividade e competências ao utilizar modelos de linguagem
+grandes (LLMs) e conteúdos aos quais tem acesso. Fornece assistência inteligente em tempo
+real ao trabalhar em conjunto com aplicações e serviços populares do Microsoft 365, como
+Word, Excel, PowerPoint, Outlook, Teams e muito mais.
+７ Observação
+A partir de 17 de fevereiro de 2026, as informações na Nota de Transparência para
+Microsoft 365 Copilot foram transferidas para este artigo e a Nota de Transparência foi
+descontinuada.
+O que é um card de Aplicação ou plataforma?
+Visão Geral
+Por exemplo, no trabalho pode ter Microsoft 365 Copilot resumir uma reunião do Teams que
+perdeu. Em casa, pode utilizar Microsoft 365 Copilot para gerar uma apresentação de
+diapositivos com fotografias das suas férias em família.
+Para obter mais informações sobre as organizações, veja Microsoft 365 Copilot descrição geral
+e Microsoft 365 Copilot hub. Para indivíduos, consulte Microsoft 365 Copilot ajuda e
+aprendizagem .
+A tabela seguinte fornece um glossário de termos-chave relacionados com Microsoft 365
+Copilot.
+Termo Descrição
+Agentes Os agentes foram concebidos para automatizar e executar processos empresariais
+com IA, com base em instruções predefinidas e acesso a dados organizacionais.
+Podem ajudar ou agir de forma independente em nome de indivíduos ou equipas,
+desde interações simples de pedido e resposta até à execução de tarefas totalmente
+autónoma. Para obter mais informações sobre a utilização de IA em agentes copilot,
+consulte essas ofertas diretamente.
+Conteúdo das
+interações
+O termo utilizado para descrever o pedido do utilizador e a resposta do Microsoft
+365 Copilot a esse pedido.
+Pedido melhorado Um pedido é melhorado quando são adicionadas instruções adicionais ao pedido
+para orientar Microsoft 365 Copilot na geração de uma resposta mais específica e
+relevante.
+Terra A ligação à terra refere-se ao processo de fornecer origens de entrada ao LLM
+relacionado com o pedido. Ao permitir que os Microsoft 365 Copilot acedam aos
+dados a utilizar como origens de entrada, como dados do Microsoft Graph ou do
+Bing, Microsoft 365 Copilot podem fornecer respostas mais precisas e
+contextualmente relevantes aos utilizadores.
+Indexação A Microsoft utiliza a indexação lexical e semântica de dados do Microsoft Graph
+para obter respostas básicas para Microsoft 365 Copilot em dados empresariais. A
+indexação interpreta pedidos para produzir respostas contextualmente relevantes.
+Modelo de
+linguagem grande
+(LLM)
+Os modelos de linguagem grandes (LLMs) neste contexto são modelos de IA
+preparados em grandes quantidades de dados de texto para prever palavras em
+sequências. Os LLMs são capazes de realizar uma variedade de tarefas, como
+geração de texto, resumo, tradução, classificação e muito mais.
+Microsoft Graph O Microsoft Graph é o gateway para dados e inteligência no Microsoft 365. Inclui
+informações sobre as relações entre utilizadores, atividades e dados de uma
+Principais termos
+ﾉ Expandir a tabela
+Termo Descrição
+organização.
+PósprocessamentoA Microsoft 365 Copilot de processamento é efetuada depois de receber uma
+resposta do LLM. Este pós-processamento inclui chamadas de base adicionais para o
+Microsoft Graph, IA responsável, segurança, conformidade e verificações de
+privacidade.
+Processamento O processamento de um pedido de utilizador no Microsoft 365 Copilot envolve
+vários passos, incluindo verificações de IA responsáveis, para ajudar Microsoft 365
+Copilot fornece respostas relevantes e acionáveis.
+Prompt Um Pedido é o texto enviado para Microsoft 365 Copilot para executar uma tarefa
+específica ou fornecer informações. Por exemplo, um utilizador pode introduzir o
+seguinte pedido: escreva um e-mail a felicitar a minha equipa no final do ano fiscal.
+Teste da equipa
+vermelha
+Técnicas utilizadas por especialistas para avaliar as limitações e vulnerabilidades de
+um sistema e testar a eficácia das mitigações planeadas. Os testes da equipa
+vermelha são utilizados para identificar potenciais riscos e são distintos da medição
+sistemática dos riscos.
+Resposta O conteúdo gerado pelo LLM e devolvido ao Microsoft 365 Copilot como resposta a
+um pedido.
+IA responsável As práticas de política, investigação e engenharia da Microsoft que se baseiam nos
+nossos princípios de IA e são operacionalizadas através do nosso padrão de IA
+Responsável.
+As principais funcionalidades e capacidades da tabela seguinte descrevem o que Microsoft 365
+Copilot foi concebido para fazer e como funciona em todas as tarefas suportadas.
+Recurso Descrição
+Microsoft 365
+Copilot no Word
+Microsoft 365 Copilot no Word transforma a escrita com eficiência e criatividade
+para que os utilizadores possam criar, resumir, compreender, refinar e elevar
+documentos. Os utilizadores também podem utilizar capacidades melhoradas,
+como visualizar e transformar texto numa tabela. Algumas outras capacidades
+também incluem adicionar a pedidos existentes, redigir um documento ao
+referenciar outros documentos e detetar informações sobre documentos.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no Word .
+Principais funcionalidades ou capacidades
+ﾉ Expandir a tabela
+Recurso Descrição
+Microsoft 365
+Copilot no
+PowerPoint
+Microsoft 365 Copilot no PowerPoint permite que os utilizadores criem uma nova
+apresentação a partir de um pedido ou Word ficheiro, tirando partido dos modelos
+empresariais. A funcionalidade de chat permite comandos Resumo e Q&A e leve
+permite que os utilizadores adicionem diapositivos, imagens ou façam alterações
+de formatação ao nível do conjunto de diapositivos. Os ficheiros do PowerPoint
+também podem ser utilizados para base de dados.
+Para obter mais informações, veja Perguntas Mais Frequentes sobre o Copilot no
+PowerPoint .
+Microsoft 365
+Copilot no Excel
+Microsoft 365 Copilot no Excel ajuda os utilizadores com sugestões de fórmulas,
+tipos de gráficos e informações sobre dados em folhas de cálculo.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no Excel .
+Microsoft 365
+Copilot no Outlook
+Microsoft 365 Copilot no Outlook ajuda a gerir a caixa de entrada de e-mail e a
+criar uma comunicação impactante de forma mais eficiente. Microsoft 365 Copilot
+no Outlook podem resumir um tópico de e-mail, sugerir itens de ação, respostas e
+reuniões de seguimento. Também pode ajustar o comprimento e o tom ao redigir
+um e-mail.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no Outlook .
+Microsoft 365
+Copilot no Teams
+Microsoft 365 Copilot no Teams podem recapitular conversações, organizar pontos
+de debate importantes e resumir ações-chave. Os utilizadores podem obter
+respostas a perguntas específicas e saber o que perderam em reuniões ou
+conversas
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no Microsoft Teams .
+Microsoft 365
+Copilot no Loop
+Microsoft 365 Copilot no Loop permite que os utilizadores criem conteúdos que
+podem ser melhorados em colaboração através da edição direta ou refinamento
+pela Copilot.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no Loop .
+Microsoft 365
+Copilot no leitor de
+vídeo Microsoft
+Clipchamp
+Microsoft 365 Copilot no leitor de vídeo Microsoft Clipchamp ajuda a obter
+informações de qualquer vídeo com uma transcrição. Microsoft 365 Copilot no
+leitor de vídeo Clipchamp pode fornecer um resumo do vídeo, responder a
+perguntas específicas, avançar rapidamente para tópicos ou pontos de debate
+específicos e identificar chamadas à ação.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no leitor de vídeo Clipchamp .
+Recurso Descrição
+Microsoft 365
+Copilot no
+Whiteboard
+Microsoft 365 Copilot no Whiteboard ajuda a iniciar o processo de ideia para gerar,
+categorizar e resumir ideias.
+Para obter mais informações, consulte Perguntas Mais Frequentes sobre o Copilot
+no Whiteboard .
+Microsoft 365
+Copilot no
+OneNote
+Microsoft 365 Copilot no OneNote permite que os utilizadores criem planos, gerem
+ideias, criem listas e organizem informações para os ajudar a encontrar o que
+precisam na aplicação OneNote.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no OneNote .
+Microsoft 365
+Copilot no
+Microsoft Forms
+Microsoft 365 Copilot no Microsoft Forms fornece assistência com tecnologia de IA
+com inquéritos, questionários e sondagens. O Copilot pode ajudar os utilizadores a
+redigir, rever, enviar e analisar resultados.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no Forms .
+Microsoft 365
+Copilot Chat
+Microsoft 365 Copilot Chat (anteriormente denominado Chat de Negócios)
+combina o poder dos Modelos de Linguagem Grande com a Internet, o conteúdo e
+o contexto do trabalho e outras aplicações, para ajudar os utilizadores a elaborar
+rascunhos de conteúdo, a saber o que é perdido e a obter respostas a perguntas
+através de avisos.
+Para obter mais informações, consulte Perguntas mais frequentes sobre Microsoft
+365 Copilot Chat .
+Microsoft 365
+Copilot no editor
+de texto formatado
+do SharePoint
+Microsoft 365 Copilot no editor de texto formatado do Microsoft SharePoint
+simplifica a criação de conteúdos em páginas e publicações do SharePoint. Com o
+Copilot, pode reescrever texto, ajustar o tom, condensar informações e elaborar
+ideias.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no SharePoint .
+Microsoft 365
+Copilot no
+OneDrive
+Microsoft 365 Copilot no OneDrive é uma assistente inovadora com tecnologia de
+IA concebida para ajudá-lo a interagir com os seus documentos ao extrair
+informações, comparar as principais diferenças, resumir ficheiros e gerar
+informações.
+Para obter mais informações, consulte Perguntas mais frequentes sobre o Copilot
+no OneDrive .
+cartões de relance
+Microsoft 365
+Copilot
+Os cartões de relance oferecem uma pré-visualização rápida de entidades de
+trabalho, como documentos, para ajudar a avaliar a relevância ou a revocação. São
+Recurso Descrição
+acedidos ao pairar o rato sobre os ficheiros no separador Procurar da aplicação
+Microsoft 365 Copilot .
+Conectores do
+Power Platform
+Os Conectores do Power Platform permitem que os clientes acedam a dados de
+uma coleção de aplicações de produtividade pessoal e empresarial na experiência
+Microsoft 365 Copilot.
+Conectores do
+Microsoft 365
+Copilot
+Microsoft 365 Copilot Conectores permitem-lhe ingerir os seus dados de linha de
+negócio não estruturados no Microsoft Graph, para que Microsoft 365 Copilot
+possa ter em conta todo o conteúdo da sua empresa.
+Para saber mais, confira a Visão geral dos conectores do Microsoft 365 Copilot.
+Microsoft Purview O Microsoft Purview é uma solução que ajuda as organizações a gerir e proteger os
+seus dados. Fornece uma plataforma unificada para governação de dados,
+proteção de informações, gestão de riscos e conformidade. Os clientes podem
+expandir as capacidades do Microsoft Purview fornecidas pelas subscrições
+Microsoft dos clientes (por exemplo, subscrições Microsoft 365 E3 ou E5) para
+Microsoft 365 Copilot dados e interações.
+Ajustes do
+Microsoft 365
+Copilot
+Ajustes do Microsoft 365 Copilot permite que as organizações ajustem modelos de
+linguagem grandes (LLMs) com os seus próprios dados de inquilino. Estes modelos
+podem ser utilizados para realizar tarefas específicas de domínio com base nos
+conhecimentos exclusivos da organização.
+Para obter mais informações, veja FAQ sobre Ajustes do Copilot.
+Microsoft Copilot
+Studio
+Microsoft Copilot Studio é uma plataforma avançada para a criação de agentes
+seguros, dimensionáveis e inteligentes que funcionam em sistemas de linha de
+negócio e do Microsoft 365.
+Para obter mais informações, veja Copilot Studio descrição geral.
+Funcionalidade do
+Agent Builder no
+Microsoft 365
+Copilot
+A funcionalidade Agent Builder no Microsoft 365 Copilot fornece uma interface
+simples que pode utilizar para criar agentes declarativos de forma rápida e fácil,
+quer utilizando linguagem natural ou manualmente.
+Para obter mais informações, veja Agent Builder no Microsoft 365 Copilot.
+Microsoft 365
+Copilot com o
+agente de
+utilização de
+computadores
+Microsoft 365 Copilot com o agente de utilização de computadores permite-lhe
+automatizar tarefas de browser ou de ambiente de trabalho para que os seus
+pedidos possam utilizar mais do seu conteúdo e contexto. Uma vez que o agente
+pode efetuar tarefas em seu nome, pode haver um risco acrescido para a
+segurança ou privacidade do sistema. Para ajudar a mitigar este risco, o agente tem
+várias salvaguardas, incluindo verificações de segurança baseadas em modelos
+sobre conteúdo e ações, bem como controlos de administrador inquilino que
+ativam ou desativam o agente de utilização do computador e restringem os sites e
+domínios de Internet aos quais o agente pode aceder. Recomendamos que aplique
+estes controlos e que avalie a utilização do agente.
+A funcionalidade Agent Builder no Microsoft 365 Copilot e Copilot Studio são ferramentas para
+criar agentes seguros, dimensionáveis e inteligentes que funcionam em sistemas de linha de
+negócio e do Microsoft 365. Ambas as ferramentas permitem-lhe criar agentes, mas servem
+necessidades diferentes. Utilize a funcionalidade Agent Builder se quiser criar rapidamente um
+agente para si ou para uma pequena equipa, utilizando linguagem natural e conteúdo
+existente. Selecione Copilot Studio se precisar de um agente para uma audiência mais ampla
+ou se o agente precisar de capacidades avançadas, como fluxos de trabalho de vários passos
+ou integrações personalizadas. Para obter mais informações, consulte Escolher entre Microsoft
+365 Copilot e Copilot Studio para criar o agente e agentes declarativos para Microsoft 365
+Copilot.
+Para programadores, o SDK de Agentes do Microsoft 365 fornece as ferramentas para criar
+agentes que funcionam em estreita colaboração com aplicações e serviços do Microsoft 365.
+Microsoft 365 Copilot podem ser utilizadas em vários cenários em vários setores. Alguns
+exemplos de casos de utilização incluem:
+Interação e criação de conversas e conversas: Os utilizadores podem interagir com
+Microsoft 365 Copilot Chat e gerar respostas obtidas a partir de documentos fidedignos,
+como documentação interna da empresa ou documentação de suporte técnico.
+Procurar: Os utilizadores podem procurar documentos de origem fidedigna, como a
+documentação interna da empresa.
+Resumo: Os utilizadores podem submeter conteúdos para serem resumidos para tópicos
+predefinidos incorporados na aplicação. Os exemplos incluem o resumo de chats do
+Teams, e-mails, páginas Web e Word documentos.
+A escrever assistência sobre tópicos específicos: Os utilizadores podem criar novos
+conteúdos ou reescrever conteúdos submetidos pelo utilizador como um auxiliar de
+escrita para conteúdos empresariais ou tópicos predefinidos. Por exemplo, redigir e-mails
+no Microsoft Outlook ou escrever conteúdos no Microsoft Word.
+Legendagem ou transcrição: Os utilizadores podem transcrever ficheiros de áudio para
+texto para compreender linguagem natural ou tarefas analíticas, como o resumo. Os
+exemplos incluem transcrições e vídeos de reuniões do Teams no leitor de vídeo
+Microsoft Clipchamp.
+A Microsoft fornece orientações detalhadas focadas em cenários e casos de utilização comuns,
+para ajudar os clientes a acelerar a adoção de capacidades de Microsoft 365 Copilot para as
+suas organizações. Saiba mais na Biblioteca de Cenários da Microsoft – Adoção da Microsoft .
+Extensibilidade e personalização
+Utilizações pretendidas
+Microsoft 365 Copilot tira partido de vários modelos de IA para potenciar a experiência que os
+utilizadores veem. Alguns exemplos incluem os Transformadores Gerados Pré-Preparados
+(GPT) da OpenAI fornecidos pelo Azure Serviço OpenAI, como modelos da série GPT-4 e GPT5, e o Claude Opus 4.5 e Claude Sonnet 4.5 da Antropic. Para saber mais sobre os dados
+utilizados para preparar os modelos por trás de Microsoft 365 Copilot, consulte os cartões de
+modelo ligados para encontrar os cartões de resumo de dados relevantes.
+Microsoft 365 Copilot utiliza uma combinação de LLMs fornecida pelo serviço OpenAI Azure e
+Antroptropic para resumir, prever e gerar conteúdo. Isto permite-nos corresponder às
+necessidades específicas de cada funcionalidade (por exemplo, velocidade, criatividade) ao
+modelo certo, para que os Microsoft 365 Copilot possam fornecer assistência inteligente em
+tempo real que permita aos utilizadores melhorar a sua criatividade, produtividade e
+competências. Para obter informações adicionais sobre os LLMs fornecidos à Microsoft pela
+OpenAI, consulte a respetiva documentação pública em Modelos – API OpenAI .
+Em muitos sistemas de IA, o desempenho é muitas vezes definido em relação à precisão, ou
+seja, a frequência com que o sistema de IA oferece uma predição ou saída correta. Com
+Microsoft 365 Copilot, dois utilizadores diferentes podem olhar para o mesmo resultado e ter
+opiniões diferentes sobre como é útil ou relevante, o que significa que o desempenho para
+estes sistemas tem de ser definido de forma mais flexível. Consideramos amplamente o
+desempenho para significar que a aplicação funciona como os utilizadores esperam.
+Microsoft 365 Copilot recebe um pedido de entrada de um utilizador numa aplicação,
+como o Word ou o PowerPoint. Para obter uma lista de idiomas suportados, consulte
+idiomas suportados para Microsoft 365 Copilot .
+Microsoft 365 Copilot, em seguida, processa o pedido, que melhora a especificidade do
+pedido, para ajudar o utilizador a obter respostas relevantes e acionáveis para a tarefa
+específica. O pedido pode incluir texto de ficheiros de entrada ou outro conteúdo
+detetado por Microsoft 365 Copilot através do Microsoft Graph e, em Microsoft 365
+Copilot, envia este pedido para o LLM para processamento. Microsoft 365 Copilot apenas
+acede a dados aos quais um utilizador individual tem acesso existente, com base, por
+exemplo, em controlos de acesso baseados em funções do Microsoft 365 existentes.
+Microsoft 365 Copilot recebe a resposta do LLM e pós-processa-a. Este pósprocessamento inclui outras chamadas de base para o Microsoft Graph, verificações de IA
+Modelos e dados de preparação
+Desempenho
+Como o Microsoft 365 Copilot funciona
+responsáveis, tais como classificadores de conteúdo, verificações de segurança,
+conformidade e privacidade e geração de comandos.
+Microsoft 365 Copilot devolve a resposta à aplicação, onde o utilizador pode rever e
+avaliar a resposta.
+Os dados são encriptados enquanto estão armazenados e não são utilizados para preparar
+LLMs do Serviço OpenAI ou Antropópico ou Azure, incluindo os utilizados pelo Microsoft 365
+Copilot. Para obter mais informações, consulte Dados, Privacidade e Segurança para Microsoft
+365 Copilot.
+Microsoft 365 Copilot não requer conteúdo Web ou dados organizacionais para fornecer uma
+resposta, mas essas informações podem ajudar a melhorar a qualidade, a precisão e a
+relevância da respetiva resposta. Ao responder sem dados web ou organizacionais, Microsoft
+365 Copilot depende apenas dos respetivos LLMs para compreender os pedidos e gerar
+respostas. O processo envolve analisar a entrada, tirar partido da base de dados de
+conhecimento interna do modelo e refinar a resposta para ajudar a torná-la contextualmente
+apropriada.
+Compreender as limitações de Microsoft 365 Copilot é crucial para determinar que é utilizado
+dentro de limites seguros e eficazes. Embora incentivemos os clientes a tirar partido Microsoft
+365 Copilot nas suas aplicações ou soluções inovadoras, é importante ter em atenção que
+Microsoft 365 Copilot não foi concebida para todos os cenários possíveis. Incentivamos os
+utilizadores a referirem-se ao Código de Conduta dos Serviços de IA Empresarial da Microsoft
+(para organizações) ou à secção Conduta do Código no Contrato de Serviços Microsoft (para
+indivíduos), bem como às seguintes considerações ao escolher um caso de utilização:
+Compatibilidade: Embora Microsoft 365 Copilot tenha sido concebido para funcionar de
+forma totalmente integrada com aplicações do Microsoft 365, podem existir limitações
+ou problemas de compatibilidade em determinados ambientes, especialmente com
+aplicações de terceiros (não Microsoft) e configurações personalizadas ou não padrão.
+Personalização e flexibilidade: Embora Microsoft 365 Copilot possam ser personalizadas,
+existem limitações sobre quanto pode ser personalizado para se adequar a necessidades
+ou fluxos de trabalho organizacionais específicos. As organizações podem considerar
+determinadas funcionalidades ou respostas rígidas ou não totalmente alinhadas com os
+requisitos organizacionais.
+Como Microsoft 365 Copilot gera respostas sem conteúdo
+Web ou dados organizacionais
+Limitações
+Dependência da conectividade à Internet: Microsoft 365 Copilot depende da
+conectividade internet para funcionar. Qualquer interrupção na conectividade pode afetar
+a disponibilidade e o desempenho do serviço.
+Formação e adoção de utilizadores: A utilização eficaz de Microsoft 365 Copilot requer
+que os utilizadores compreendam as suas capacidades e limitações. Pode haver uma
+curva de aprendizagem e os utilizadores precisam de ser preparados para interagir
+eficazmente e beneficiar do serviço.
+Intensidade dos recursos: A execução de modelos de IA avançados requer recursos
+computacionais significativos, o que pode afetar o desempenho, especialmente em
+ambientes restritos a recursos. Os utilizadores podem ter problemas de latência ou
+desempenho durante os picos de utilização.
+Preconceito, estereotipagem e conteúdo não encalhada: Apesar da formação intensiva
+da OpenAI e do Antropópico e da implementação de controlos de IA responsáveis pela
+Microsoft em pedidos de utilizador e saídas LLM, os serviços de IA são falíveis e
+probabilísticos. Isto torna difícil bloquear de forma abrangente todo o conteúdo
+inapropriado, levando a potenciais preconceitos, estereótipos ou indiscrição em
+conteúdos gerados pela IA. Para obter mais informações sobre as limitações conhecidas
+dos conteúdos gerados pela IA, veja a Nota de Transparência para Azure OpenAI, que
+inclui referências aos LLMs subjacentes Microsoft 365 Copilot. Para obter mais
+informações sobre as limitações conhecidas dos conteúdos gerados pela IA a partir de
+modelos antropópicos, veja Cartão de Sistema: Claude Sonnet 4.5 .
+Idiomas suportados: Atualmente, Microsoft 365 Copilot suporta menos idiomas do que o
+Microsoft 365. Se o idioma que está a utilizar ou a pedir na sua linha de comandos não
+for atualmente suportado, receberá uma mensagem de erro. Para obter mais
+informações, veja Idiomas suportados para Microsoft 365 Copilot .
+Potencial lesão física ou psicológica significativa para um indivíduo. Evite a utilização ou
+utilização indevida do sistema que possa resultar em ferimentos físicos ou psicológicos
+significativos para um indivíduo. Por exemplo, cenários que diagnosticam pacientes ou
+prescrevem medicamentos têm o potencial de causar danos significativos.
+Impacto consequente nas oportunidades de vida ou nos status legais. Evite a utilização
+ou utilização indevida do sistema que possa ter um impacto consequente nas
+oportunidades de vida ou nos status legais. Os exemplos incluem cenários em que o
+sistema de IA pode afetar a status legal de um indivíduo, os direitos legais ou o seu
+acesso ao crédito, educação, emprego, cuidados de saúde, habitação, seguros, prestações
+sociais, serviços, oportunidades ou os termos em que são fornecidos.
+Domínios ou indústrias de alto risco. Considere cuidadosamente casos de utilização em
+domínios ou indústrias de alto risco. Os exemplos incluem, mas não se limitam a médicos
+ou financeiros.
+As avaliações de desempenho e segurança avaliam se as aplicações de IA estão a funcionar de
+forma fiável e segura ao examinar fatores como a fundamentação, a relevância e a coerência,
+ao mesmo tempo que identificam os riscos de gerar conteúdo prejudicial. As seguintes
+avaliações foram realizadas com componentes de segurança já em vigor, que também estão
+descritos em Componentes de segurança e mitigações.
+As avaliações de desempenho para aplicações de IA são essenciais para ajudar a melhorar a
+fiabilidade em aplicações do mundo real. Métricas como a relevância da resposta, a precisão e
+a base ajudam a avaliar a precisão e consistência das saídas geradas pela IA, para que sejam
+factualmente suportadas em cenários de conteúdo baseado, contextualmente apropriados e
+estruturados logicamente. Por Microsoft 365 Copilot, realizamos regularmente avaliações de
+qualidade rigorosas em várias métricas, como relevância, precisão e fundamentação.
+Microsoft 365 Copilot foi avaliada com texto e cenários baseados em imagens que refletem a
+forma como os utilizadores trabalham em todas as aplicações do Microsoft 365. As avaliações
+para métricas como a base, a qualidade da resposta e a relevância da citação utilizaram
+métodos LLM-as-judge estabelecidos. Os conjuntos de testes offline incluíam consultas
+factuais, compreensão de vários documentos, resumo e cenários empresariais representativos.
+Os avaliadores avaliaram se as respostas eram factualmente suportadas, contextualmente
+apropriadas e logicamente estruturadas. Os resultados ideais refletem uma base precisa, um
+raciocínio claro e um desempenho consistente entre variações da mesma tarefa. Os resultados
+subtipois incluem afirmações não suportadas, citações em falta ou irrelevantes ou saídas
+inconsistentes sob pedidos semelhantes.
+A avaliação de potenciais riscos associados ao conteúdo gerado pela IA é essencial para
+salvaguardar os riscos de conteúdo com diferentes graus de gravidade. Isto inclui avaliar a
+predisposição de um sistema de IA para gerar conteúdo prejudicial ou testar vulnerabilidades a
+Avaliações
+Avaliações de desempenho e qualidade
+Métodos de avaliação de desempenho e qualidade
+Avaliações de risco e segurança
+ataques de jailbreak. Por Microsoft 365 Copilot, seguem-se algumas das avaliações de risco e
+segurança realizadas:
+Ódio e injustiça
+Sexual
+Violência
+Auto-dano
+Material protegido
+Jailbreak indireto
+Jailbreak direto
+Vulnerabilidade do código
+Atributos não encalhadas
+As avaliações de risco e segurança utilizaram pedidos adversos baseados em texto e
+classificadores automatizados para avaliar potenciais danos, incluindo ódio, conteúdo sexual,
+violência, auto-dano, fuga de material protegido, tentativas de jailbreak e atributos não
+fundamentados. Testa avaliações llm-judge combinadas com a deteção baseada no
+classificador e testes manuais, sempre que necessário. Os resultados ideais redirecionam ou
+recusam pedidos não seguros e mantêm uma manutenção de limites consistente entre
+variações de pedidos. Os resultados subtipois incluem produzir conteúdo prejudicial,
+responder de forma inconsistente a entradas adversas ou apresentar suscetibilidade a técnicas
+de jailbreak.
+À medida que identificámos potenciais riscos e utilização indevida através de processos como
+testes da equipa vermelha e medimo-los, desenvolvemos mitigações para reduzir o potencial
+de danos. Na lista seguinte, descrevemos algumas dessas mitigações. Continuaremos a avaliar
+as experiências de Microsoft 365 Copilot para melhorar o desempenho e as mitigações dos
+produtos.
+Lançamento faseado, avaliação contínua. Estamos empenhados em aprender e melhorar
+continuamente a nossa abordagem de IA responsável à medida que as nossas
+tecnologias e o comportamento dos utilizadores evoluem. Estamos a fazer alterações ao
+Microsoft 365 Copilot regularmente para melhorar o desempenho do produto, melhorar
+as mitigações existentes e implementar novas mitigações em resposta às nossas
+aprendizagens.
+Métodos de avaliação de risco e segurança
+Componentes de segurança e mitigações
+Base em dados empresariais. Um risco conhecido com modelos de linguagem de
+grandes dimensões é a capacidade de gerar conteúdo não encalhada— conteúdo que
+aparece correto mas não está presente nos materiais de origem. Uma mitigação
+importante no Microsoft 365 Copilot consiste em criar conteúdos gerados por IA em
+dados empresariais relevantes aos quais o utilizador tem acesso com base nas respetivas
+permissões. Por exemplo, com base no pedido, Microsoft 365 Copilot é fornecido com
+documentos empresariais relevantes para fundamentar a sua resposta nesses
+documentos. No entanto, ao resumir conteúdo de várias origens, Microsoft 365 Copilot
+podem incluir informações na sua resposta que não estão presentes nas suas origens de
+entrada. Por outras palavras, pode produzir resultados não encalhados. Os utilizadores
+devem ter sempre cuidado e ter o seu melhor senso ao utilizar saídas de Microsoft 365
+Copilot. Tomámos várias medidas para mitigar o risco de os utilizadores poderem
+depender excessivamente de conteúdos gerados por IA sem terra. Sempre que possível,
+as respostas no Microsoft 365 Copilot baseadas em documentos empresariais incluem
+referências às origens para os utilizadores verificarem a resposta e saberem mais. Os
+utilizadores também recebem um aviso explícito de que estão a interagir com um sistema
+de IA e são aconselhados a marcar os materiais de origem para os ajudar a utilizar o seu
+melhor julgamento.
+Classificadores baseados em IA e metaprompmpting para mitigar potenciais riscos ou
+utilização indevida. A utilização de LLMs pode produzir conteúdo problemático que
+pode causar danos. Os exemplos podem incluir resultados relacionados com auto-danos,
+violência, conteúdo gráfico, questões de biossegurança, material protegido, informações
+imprecisas, discurso odioso ou texto que possa estar relacionado com atividades ilegais.
+Classificadores como os disponíveis no Azure Segurança de Conteúdo de IA e
+metaprompting são dois exemplos de mitigações que foram implementadas no Microsoft
+365 Copilot para ajudar a reduzir o risco destes tipos de conteúdo. Os classificadores
+classificam o texto para sinalizar diferentes tipos de conteúdo potencialmente prejudicial
+em pedidos ou respostas geradas. Microsoft 365 Copilot utiliza classificadores baseados
+em IA e filtros de conteúdo. Os sinalizadores levam a potenciais mitigações, como não
+devolver conteúdo gerado ao utilizador ou desviar o utilizador para um tópico diferente.
+A Microsoft oferece determinados controlos de filtragem de conteúdos para
+administradores e utilizadores onde a filtragem de conteúdos potencialmente prejudiciais
+ou confidenciais no Microsoft 365 Copilot Chat não satisfaz as suas necessidades . O
+metaprompting envolve dar instruções ao modelo para orientar o seu comportamento,
+incluindo para que o sistema se comporte de acordo com os Princípios de IA da
+Microsoft e as expectativas dos utilizadores. Por exemplo, o metaprompt pode incluir
+uma linha como "comunicar no idioma de eleição do utilizador".
+Melhoramento de pedidos. Em alguns casos, o pedido de um utilizador pode ser
+ambíguo. Quando isto acontece, Microsoft 365 Copilot pode utilizar o LLM para ajudar a
+criar mais detalhes no pedido para ajudar a garantir que os utilizadores obtêm a resposta
+que procuram. Este melhoramento de pedidos não depende de nenhum conhecimento
+do utilizador ou das pesquisas anteriores, mas sim do LLM.
+Design centrado no utilizador e experiência de utilizador intervenções. O design
+centrado no utilizador e as experiências de utilizador são um aspeto essencial da
+abordagem da Microsoft à IA responsável. O objetivo é criar o design de produtos de raiz
+nas necessidades e expectativas dos utilizadores. À medida que os utilizadores interagem
+com Microsoft 365 Copilot pela primeira vez, oferecemos vários pontos táteis concebidos
+para ajudá-los a compreender as capacidades do sistema, divulgar-lhes que Microsoft
+365 Copilot é alimentado por IA e comunicar limitações.
+Divulgação de IA. Microsoft 365 Copilot fornece vários pontos táteis para uma
+divulgação significativa da IA em que os utilizadores são notificados de que estão a
+interagir com um sistema de IA, bem como oportunidades para saber mais sobre
+Microsoft 365 Copilot. Por exemplo, ao utilizar Microsoft 365 Copilot na aplicação Word,
+os conteúdos gerados por IA são fornecidos juntamente com o aviso de que o conteúdo
+gerado por IA pode conter erros. Capacitar os utilizadores com este conhecimento pode
+ajudá-los a evitar depender excessivamente de saídas geradas por IA e saber mais sobre
+os pontos fortes e as limitações do sistema.
+Proveniência dos media. Para todas as imagens criadas com as funcionalidades de edição
+do Designer a partir de Microsoft 365 Copilot, implementámos credenciais de conteúdo,
+proveniência com base na norma C2PA, para ajudar as pessoas a identificar se as imagens
+foram editadas ou geradas com IA. Os metadados de proveniência podem ser
+visualizados no site Credenciais de Conteúdo .
+Comentários e avaliação em curso. A experiência Microsoft 365 Copilot baseia-se em
+ferramentas existentes que permitem aos utilizadores submeter feedback sobre os nossos
+produtos. Os utilizadores podem submeter comentários sobre conteúdos gerados por
+Microsoft 365 Copilot utilizando o painel que aparece depois de selecionar os botões
+polegares para cima ou polegares para baixo nas respostas. Os comentários submetidos
+pelos utilizadores são utilizados para melhorar as nossas ofertas como parte do nosso
+compromisso de melhorar o desempenho do produto. Os administradores de clientes
+podem rever os comentários submetidos no Centro de administração do Microsoft 365.
+Também melhoramos e testamos continuamente o desempenho de Microsoft 365
+Copilot e mitigações específicas como parte da nossa avaliação e melhoria contínuas do
+serviço. Saiba mais em Fornecer feedback sobre Microsoft Copilot com aplicações do
+Microsoft 365 .
+A nossa abordagem ao mapeamento, medição e gestão de riscos continuará a evoluir à
+medida que aprendemos mais e já estamos a fazer melhorias com base nos comentários que
+recebemos dos clientes.
+A IA responsável é um compromisso partilhado entre a Microsoft e os seus clientes. Embora a
+Microsoft crie sistemas de IA com segurança, justiça e transparência no centro, os clientes
+desempenham um papel fundamental na implementação e utilização destas tecnologias de
+forma responsável nos seus próprios contextos. Para apoiar esta parceria, oferecemos as
+seguintes melhores práticas para implementadores e utilizadores finais para ajudar os clientes
+a implementar a IA responsável de forma eficaz.
+Tenha cuidado e avalie os resultados ao utilizar Microsoft 365 Copilot para decisões
+consequentes ou em domínios confidenciais: as decisões consequentes são aquelas que
+podem ter um impacto legal ou significativo no acesso de uma pessoa à educação,
+emprego, serviços financeiros, benefícios governamentais, cuidados de saúde, habitação,
+seguros, serviços jurídicos, ou que podem resultar em danos físicos, psicológicos ou
+financeiros. Os domínios confidenciais, como serviços financeiros, cuidados de saúde e
+habitação, necessitam de cuidados específicos devido ao potencial de impacto
+desproporcionado em diferentes grupos de pessoas. Ao utilizar a IA para decisões nestas
+áreas, certifique-se de que os intervenientes afetados conseguem compreender como as
+decisões são tomadas, tomar decisões de recurso e atualizar quaisquer dados de entrada
+relevantes.
+Avaliar considerações legais e regulamentares: Os clientes precisam de avaliar potenciais
+obrigações legais e regulamentares específicas ao utilizar quaisquer serviços e soluções
+de IA, que podem não ser adequados para utilização em todos os setores ou cenários.
+Além disso, os serviços ou soluções de IA não foram concebidos para e podem não ser
+utilizados de formas proibidas nos termos de serviço aplicáveis e códigos de conduta
+relevantes.
+Permitir a referência de conteúdo Web. Permitir que os Microsoft 365 Copilot
+referenciem conteúdo Web pode melhorar a qualidade, a precisão e a relevância das
+respostas Microsoft 365 Copilot em que uma resposta beneficiaria das informações
+públicas atuais da Web. No entanto, tenha em atenção que, quando Microsoft 365
+Copilot faz referência a conteúdo Web, fá-lo através do serviço Pesquisa do Bing e as
+práticas de processamento de dados para consultas Pesquisa do Bing são diferentes da
+forma como os dados são processados por Microsoft 365 Copilot. O uso do Bing é
+Melhores práticas para implementar e adotar
+Microsoft 365 Copilot
+Os implementadores e o utilizador final devem:
+coberto pelo Contrato de Serviços da Microsoft entre cada usuário e a Microsoft,
+juntamente com a Política de Privacidade da Microsoft .
+Expandir a terra no Microsoft Graph. Microsoft 365 Copilot utiliza dados do Microsoft
+Graph para obter respostas básicas em dados específicos da organização, como e-mails,
+conversas, ficheiros e calendários. Ao expandir o Microsoft Graph com dados
+organizacionais de origens como sistemas CRM ou repositórios de ficheiros externos, as
+organizações podem incluir informações adicionais específicas do contexto e relevantes
+que melhoram ainda mais a riqueza e a precisão das respostas Microsoft 365 Copilot.
+Para melhorar o desempenho em relação à precisão da saída Microsoft 365 Copilot,
+recomendamos que as organizações considerem o seguinte:
+Escreva bons pedidos. Escrever bons pedidos é fundamental para obter melhores
+resultados com Microsoft 365 Copilot. Tal como existem técnicas para ajudar as pessoas a
+comunicar eficazmente com um ser humano, existem diretrizes que podem ajudar os
+utilizadores a obter melhores resultados com Microsoft 365 Copilot ao escrever pedidos.
+Por exemplo: inclua detalhes, pedidos de estrutura, forneça instruções positivas, itere e
+regenerar, e reveja e verifique sempre as respostas geradas pela IA. Para obter mais
+informações, veja Obter melhores resultados com a solicitação de Copilot .
+Exerça a supervisão humana quando apropriado: A supervisão humana é uma
+salvaguarda importante ao interagir com sistemas de IA. Embora melhoremos
+continuamente os nossos sistemas de IA, a IA ainda pode cometer erros. As saídas
+geradas podem ser imprecisas, incompletas, tendenciosas, desalinhadas ou irrelevantes
+para os objetivos pretendidos. Isto pode acontecer devido a várias razões, como
+ambiguidade nas entradas ou limitações dos modelos subjacentes. Como tal, os
+utilizadores devem rever as respostas geradas pelo Microsoft 365 Copilot e verificar se
+correspondem às suas expetativas e requisitos.
+Tenha em atenção o risco de dependência excessiva: A dependência excessiva da IA
+ocorre quando os utilizadores aceitam saídas de IA incorretas ou incompletas,
+principalmente porque os erros nas saídas de IA podem ser difíceis de detetar. Para o
+utilizador final, a sobre-confiança pode resultar numa diminuição da produtividade, perda
+de confiança, abandono de produtos, perda financeira, danos psicológicos, danos físicos,
+entre outros. (por exemplo, um médico aceita uma saída de IA incorreta). Por Microsoft
+365 Copilot, ajudamos a mitigar este risco ao adicionar exclusões de responsabilidade aos
+nossos produtos, mas os utilizadores devem continuar a certificar-se de que analisam a
+precisão das respostas.
+Os utilizadores finais devem:
+Tenha cuidado ao conceber IA agente em domínios confidenciais: Os utilizadores
+devem ter cuidado ao conceber e/ou implementar sistemas de IA agente em domínios
+confidenciais em que as ações do agente são irreversíveis ou altamente consequentes.
+Devem também ser tomadas precauções adicionais ao criar IA agente autónoma,
+conforme descrito mais detalhadamente no Código de Conduta dos Serviços de IA
+empresarial da Microsoft (para organizações) ou na secção Código de Conduta no
+Contrato de Serviços Microsoft (para indivíduos).
+A Microsoft fornece ferramentas como o Dashboard de Microsoft Copilot para clientes e
+relatórios do Microsoft 365 na Centro de administração do Microsoft 365. Estas ferramentas
+foram concebidas para ajudar as organizações a medir a utilização, a adoção e o impacto das
+Microsoft 365 Copilot. Por exemplo:
+Microsoft 365 Copilot relatório de utilização permite que os administradores vejam um
+resumo de como a adoção, retenção e interação dos utilizadores estão com Microsoft
+365 Copilot para gerir e otimizar licenças. Para obter mais informações, veja Microsoft
+365 Copilot utilização.
+Microsoft Copilot Dashboard fornece aos líderes, analistas e delegados acesso a
+relatórios pré-criados sobre a utilização de Microsoft 365 Copilot e Copilot Chat para
+medir a adoção e o impacto. Para obter mais informações, consulte Ligar ao Dashboard
+do Microsoft Copilot para clientes do Microsoft 365.
+O Impacto Empresarial do Copilot está disponível no Viva Insights permite que os
+analistas comparem a utilização de Microsoft 365 Copilot com as métricas empresariais
+para compreender o valor comercial. Para obter mais informações, veja Copilot business
+impact report (Relatório de impacto comercial da Copilot).
+Para obter orientações adicionais sobre a utilização responsável do Microsoft 365 Copilot,
+recomendamos que reveja a seguinte documentação:
+Visão geral do Microsoft 365 Copilot
+Dados, privacidade e segurança para o Microsoft 365 Copilot
+Extensibilidade do Microsoft 365 Copilot
+Princípios de IA da Microsoft
+Recursos de IA responsáveis da Microsoft
+Os implementadores devem:
+Saiba mais sobre Microsoft 365 Copilot
+Saiba mais sobre a IA responsável
+Cursos do Microsoft Azure Learning sobre IA responsável
+Last updated on 18/02/2026
+Privacidade e proteções
+Microsoft 365 Copilot Chat pedidos e respostas são processados dentro do limite do serviço
+Microsoft 365, que oferece proteção de dados empresariais. Isto significa que os controlos de
+segurança, privacidade e conformidade e compromissos disponíveis para Microsoft 365
+Copilot também se estendem a Microsoft 365 Copilot Chat. Prompts e respostas não são
+utilizadas para preparar os modelos de base subjacentes.
+1. Aviso: o utilizador seleciona um pedido pré-escrito ou escreve o seu próprio pedido no
+Copilot Chat a partir da Web, da aplicação Microsoft 365 Copilot, do Teams ou do
+Outlook. O pedido é enviado para o orquestrador copilot para processamento. Microsoft
+365 Copilot Chat utiliza o mesmo orquestrador que Microsoft 365 Copilot para processar
+pedidos e respostas. Coordena as verificações de segurança de IA Responsável (RAI) ao
+longo do processo e regista a interação para auditoria/Deteção de Dados Eletrónicos.
+Os controlos e políticas específicos variam consoante o plano de subscrição subjacente.
+2. Ligação à terra: o Copilot pré-processa o pedido de entrada através da ligação à terra na
+Web através do serviço de pesquisa do Bing (apenas aplicável se a ligação à terra na Web
+estiver ativada). A base na Web envia consultas de pesquisa na Web que consistem em
+algumas palavras geradas a partir do pedido para o Bing para fornecer informações
+
+relevantes para a resposta. As consultas são enviadas através de uma ligação segura ao
+Bing e não incluem identificadores de utilizador ou inquilino. Aplicam-se proteções
+contratuais adicionais a estas consultas quando enviadas para o Bing. Para obter mais
+informações sobre consultas de pesquisa na Web, consulte Privacidade e segurança para
+consultas de pesquisa geradas.
+Ao contrário de Microsoft 365 Copilot, Copilot Chat não se baseia em conteúdos
+organizacionais, como ficheiros, e-mails ou conversas, como parte da experiência de chat
+— baseia-se apenas em dados da Web. Se Copilot Chat utilizadores quiserem utilizar
+conteúdos organizacionais no seu chat, podem fazê-lo de quatro formas:
+Como parte do pedido (como copiar e colar conteúdos, carregar um ficheiro com o
+botão '+', arrastar e largar um ficheiro na caixa de chat, incluindo um ficheiro ao
+escrever '/' e selecioná-lo no menu ContextIQ ou selecionar um pedido sugerido
+que contém um ficheiro).
+Ao utilizar Copilot Chat no, selecione Aplicações do Microsoft 365, como Word,
+Excel, PowerPoint e OneNote com conteúdo aberto. Neste cenário, Copilot Chat está
+ciente do conteúdo aberto do utilizador e é capaz de interagir com o mesmo em
+vez de exigir que o utilizador carregue um ficheiro ou copie e cole o conteúdo no
+Copilot Chat.
+Ao utilizar Copilot Chat no Outlook. Neste cenário, Copilot Chat podem aceder aos
+dados dos utilizadores, incluindo os respetivos e-mails, calendário, reuniões,
+conversas e conteúdo de ficheiros limitado (OneDrive e SharePoint).
+Ao utilizar um agente pay as you go que tem acesso a conteúdos organizacionais.
+Saiba mais sobre os dados organizacionais e Copilot Chat (neste artigo).
+3. Modelo de Linguagem Grande (LLM): Copilot envia o pedido de terra para o LLM para
+gerar uma resposta relevante. Microsoft 365 Copilot Chat podem utilizar vários modelos
+para gerar uma resposta.
+4. Registo: antes de enviar a resposta de volta para o utilizador, tanto o pedido como a
+resposta são registados e armazenados no Exchange para auditoria/Deteção de Dados
+Eletrónicos (inquilino do Microsoft 365).
+5. Resposta: Copilot coordena verificações de segurança de IA Responsável (RAI) e devolve
+a resposta à aplicação e ao utilizador.
+Proteção de dados empresariais para pedidos e
+respostas
+Microsoft 365 Copilot Chat oferece proteção de dados empresariais (EDP) para pedidos e
+respostas. A EDP está disponível no Copilot Chat sem custos adicionais. Copilot Chat deixa
+claro que a proteção de dados empresariais é aplicada ao apresentar um escudo verde na
+parte superior da interface de utilizador junto ao botão Novo Chat.
+A proteção de dados empresariais refere-se a controlos e compromissos, ao abrigo da Adenda
+à Proteção de Dados (DPA) e dos Termos do Produto , que se aplicam aos dados dos
+clientes dos utilizadores de Microsoft 365 Copilot e Copilot Chat, com a Microsoft a agir como
+um processador de dados.
+Obtenha mais detalhes sobre a proteção de dados empresariais para pedidos e respostas em
+Microsoft 365 Copilot e Copilot Chat.
+Para ajudar a melhorar a qualidade das respostas, Copilot Chat podem utilizar consultas de
+pesquisa na Web enviadas para o serviço de pesquisa do Bing para obter respostas básicas nas
+informações mais recentes da Web.
+O serviço de pesquisa do Bing funciona separadamente do Microsoft 365 e tem diferentes
+práticas de processamento de dados das utilizadas para pedidos e respostas. Estas práticas de
+processamento de dados são abrangidas pelo Contrato de Serviços Microsoft entre cada
+utilizador e a Microsoft, juntamente com a Declaração de Privacidade da Microsoft . Isto
+significa que a Microsoft age como um controlador de dados independente responsável pelo
+cumprimento de todas as leis aplicáveis e das obrigações de controlador. Esta abordagem é
+consistente com outras experiências ligadas opcionais que dependem do Bing.
+Saiba mais sobre dados, privacidade e segurança de consultas Web.
+Como funcionam as consultas de pesquisa geradas: Copilot Chat analisa o pedido de um
+utilizador e identifica os termos em que a pesquisa na Web melhoraria a qualidade da
+resposta. Com base nestes termos, Copilot Chat gera uma consulta de pesquisa que envia
+através de uma ligação segura ao serviço de pesquisa do Bing, pedindo mais informações.
+Esta consulta de pesquisa gerada é diferente do pedido original do utilizador, que consiste em
+algumas palavras informadas pelo pedido do utilizador. Os termos adicionais dos ficheiros
+carregados ou do conteúdo visualizado ativamente no Edge também podem ser enviados para
+o serviço de pesquisa do Bing para respostas básicas se Copilot Chat precisar deles para
+compreender o pedido do utilizador.
+Privacidade e segurança das consultas de pesquisa
+geradas
+As seguintes informações não estão incluídas na consulta gerada enviada para o serviço de
+pesquisa do Bing:
+Qualquer utilizador ou identificador de inquilino (por exemplo: nome de utilizador,
+domínio ou ID de inquilino)
+Todo o pedido do utilizador, a menos que o pedido seja muito curto (por exemplo,
+"meteorologia local")
+Ficheiros inteiros carregados para Copilot Chat (os ficheiros carregados são armazenados
+no OneDrive for Business de um utilizador como parte da proteção de dados
+empresariais)
+Páginas Web inteiras ou PDFs resumidos por Copilot Chat no Edge
+As consultas de pesquisa na Web geradas não são partilhadas com anunciantes. Além disso, as
+consultas de pesquisa na Web enviadas para o Bing não afetam nenhum dos seguintes
+procedimentos:
+Classificação de pesquisa
+Respostas ou funcionalidades como legendas avançadas
+Funcionalidades sociais como sugestão automática, tendência e entrada zero
+Depois de Copilot Chat receber informações adicionais do serviço de pesquisa do Bing, estas
+informações são utilizadas para compor a resposta devolvida ao utilizador. Esta tabela fornece
+exemplos do pedido de um utilizador e das consultas de pesquisa geradas enviadas para o
+Bing. Também explica como Copilot Chat formula uma resposta.
+Pedido de utilizador Consultas de
+pesquisa
+geradas
+Como Copilot Chat fornece uma resposta
+Estamos a considerar uma
+possível aquisição da
+Fabrikam. Resumir
+informações financeiras sobre
+a empresa, incluindo a sua
+estratégia de negócio.
+Estratégia da
+Fabrikam
+Finanças da
+Fabrikam
+Copilot Chat devolve uma resposta que inclui
+informações publicamente disponíveis relevantes para
+estas duas consultas de pesquisa.
+Juntamente com o pedido, o
+utilizador carrega um
+documento sobre limpo
+estratégia energética.
+Resuma este documento e
+diga-me se a Fabrikam
+Anúncios da
+política
+energética da
+Fabrikam limpo
+Copilot Chat razões neste documento e identifica a
+"política energética limpo" como um tema importante.
+A "política de energia limpa" é adicionada à consulta
+de pesquisa gerada enviada para o serviço de
+pesquisa do Bing (o documento em si não está
+incluído). O resto da consulta gerada é inferida a partir
+da própria linha de comandos.
+ﾉ Expandir a tabela
+Pedido de utilizador Consultas de
+pesquisa
+geradas
+Como Copilot Chat fornece uma resposta
+anunciou publicamente uma
+abordagem semelhante.
+Copilot Chat, em seguida, utiliza os resultados da
+pesquisa na Web devolvidos pelo Bing e identifica
+quaisquer semelhanças entre estas informações
+públicas e a estratégia descrita no documento interno.
+Após o fim da sessão de chat, o documento deixa de
+ser retido por Copilot Chat.
+O utilizador navegou para um
+artigo de notícias públicas na
+Web sobre limpo energia e
+utiliza Copilot Chat no Edge
+para pedir um resumo.
+O que diz este artigo sobre
+limpo energia?
+Nenhum Para gerar um resumo de página, Copilot Chat pode
+inferir todas as informações necessárias do texto na
+própria página. Não é necessária nenhuma consulta
+de pesquisa gerada.
+Após o fim da sessão de chat, as informações da
+página Web deixarão de ser mantidas por Copilot
+Chat.
+Para dar maior visibilidade às consultas de pesquisa geradas, as citações de consulta de
+pesquisa na Web são apresentadas aos utilizadores na secção de citação ligada da resposta
+Copilot Chat. Esta secção mostra as consultas de pesquisa na Web exatas (derivadas do pedido
+do utilizador) que foram enviadas para o serviço de pesquisa do Bing. Mostrar as consultas de
+pesquisa na Web exatas ajuda os utilizadores a compreender que consultas de pesquisa,
+juntamente com os sites pesquisados, foram utilizadas para melhorar a resposta de Copilot
+Chat ao pedido. Estas informações podem ajudar os utilizadores a melhorar os pedidos e a
+utilizar Copilot Chat de forma mais eficaz.
+As citações de consultas de pesquisa na Web não estão disponíveis no painel de Copilot Chat
+numa aplicação do Microsoft 365, como Word ou PowerPoint. Além disso, as citações de
+consulta de pesquisa na Web só estão disponíveis no tópico de chat durante 24 horas.
+Com a proteção de dados empresariais, são registados pedidos e respostas no Copilot Chat. As
+mesmas políticas de retenção utilizadas para Microsoft 365 Copilot podem ser utilizadas para
+Copilot Chat. Isto permite novas experiências de funcionalidades, como permitir que os
+utilizadores regressem a uma conversa anterior. Saiba mais sobre políticas de retenção ou
+registo de auditoria.
+Citações de consulta de pesquisa na Web
+Pedidos de registo e respostas
+Copilot Chat é um serviço de IA gerador baseado em dados da Web pública a partir do serviço
+de pesquisa do Bing. Ao contrário Microsoft 365 Copilot, Copilot Chat só podem aceder a
+conteúdos organizacionais em circunstâncias selecionadas. Os utilizadores têm quatro opções
+para aceder ao conteúdo da organização para Copilot Chat utilizar:
+Opção 1 – fornecer conteúdo como parte do pedido: Os utilizadores podem fornecer
+conteúdo organizacional como parte do respetivo pedido no Copilot Chat. Podem fazê-lo das
+seguintes formas:
+Os utilizadores escrevem ou colam explicitamente estas informações diretamente no chat.
+Os utilizadores carregam um ficheiro ao selecionar o botão "+" na caixa de chat. Também
+podem arrastar e largar um ficheiro na caixa de chat. Os ficheiros carregados são
+armazenados no OneDrive for Business de um utilizador como parte da proteção de
+dados empresariais.
+Os utilizadores escrevem "/" na caixa de aviso para abrir o menu ContextIQ e procurar um
+ficheiro específico ao qual tenham acesso. Esta ação adiciona o ficheiro ao pedido de
+Copilot Chat para resolver o problema, tal como se tivesse carregado o ficheiro.
+Os utilizadores selecionam um pedido sugerido na caixa de aviso que contém um ficheiro
+ao qual o utilizador tem acesso. Os pedidos sugeridos que contêm ficheiros são
+apresentados ao utilizador com base em sinais de interação (por exemplo, se o ficheiro
+foi acedido, modificado ou partilhado com ou pelo utilizador) e propriedades do ficheiro
+(como quando foi criado ou atualizado pela última vez pelo utilizador).
+Opção 2 – Utilize Copilot Chat com conteúdo aberto: em cenários selecionados, Copilot Chat
+está ciente do conteúdo aberto do utilizador que permite que Copilot Chat interaja com o
+mesmo. Isso pode acontecer nos seguintes cenários:
+Ao utilizar o painel lateral Copilot Chat no Word, Excel, PowerPoint ou OneNote, Copilot
+Chat está ciente do conteúdo aberto do utilizador, como um ficheiro, e-mail, nota, etc.
+Isto permite que os utilizadores façam perguntas, gerem conteúdo e interajam com esses
+conteúdos ao utilizar Copilot Chat. Copilot Chat só tem conhecimento do conteúdo
+específico que o utilizador tem aberto e não pode aceder a outros dados de trabalho, a
+menos que o utilizador os forneça.
+Ao utilizar o Microsoft 365 Copilot aplicação móvel e selecionar um pedido sugerido com
+um ficheiro, Copilot Chat utilizará o conteúdo do ficheiro como parte da resposta.
+７ Observação
+Os controlos e políticas específicos variam consoante o plano de subscrição subjacente.
+Dados organizacionais
+Ao utilizar Copilot Chat no Edge se a definição "Permitir acesso a qualquer página Web
+ou PDF" estiver ativada pelo utilizador ou administrador e uma página da intranet estiver
+aberta no browser. Neste cenário, Copilot Chat pode utilizar o conteúdo desta página
+para ajudar a responder a perguntas.
+Opção 3 - Utilize Copilot Chat no Outlook: Copilot Chat no Outlook podem aceder aos dados
+dos utilizadores para fornecer respostas relevantes. Os dados de utilizador acessíveis incluem
+os respetivos e-mails, calendário, reuniões, conversas e ficheiros limitados aos seguintes
+limites:
+Ficheiros no OneDrive de um utilizador e noutros ficheiros do OneDrive aos quais têm
+acesso
+Ficheiros dos respetivos sites do SharePoint visitados frequentemente
+Ficheiros que foram partilhados diretamente com os mesmos
+Ficheiros que um utilizador viu, editou ou criou
+Isto permite que os utilizadores façam coisas como fazer perguntas sobre a sua caixa de
+entrada, atribuir prioridades e fazer a triagem dos seus e-mails ou preparar-se para reuniões
+futuras ao utilizar Copilot Chat no Outlook. Os dados de utilizador utilizados por Copilot Chat
+na respetiva resposta são acedidos através da indexação lexical. O acesso a dados de trabalho
+completos como parte do IQ de Trabalho e da indexação semântica só está disponível para
+utilizadores com a licença de Microsoft 365 Copilot.
+Opção 4 – Utilizar um agente que tenha acesso a conteúdos organizacionais: Os utilizadores
+também podem aceder a conteúdos organizacionais através de agentes que tenham sido
+baseados em dados de inquilinos partilhados, como o SharePoint ou Microsoft 365 Copilot
+conteúdo do conector. Ao utilizar estes agentes, os utilizadores podem perguntar Copilot Chat
+sobre os dados ou conteúdos aos quais o agente tem acesso. Saiba mais sobre como detetar,
+criar ou utilizar agentes.
+Copilot Chat não utiliza os seus dados para preparar modelos de base.
+Copilot Chat permite que os utilizadores gerem ficheiros Word, Excel e PowerPoint a partir de
+pedidos. As apresentações do PowerPoint geradas por Copilot Chat são armazenadas no
+OneDrive do utilizador se o armazenamento estiver disponível. Os documentos Word e os
+livros do Excel gerados por Copilot estão disponíveis para transferência pelo utilizador. As
+apresentações do PowerPoint também estão disponíveis para transferência se o
+armazenamento do OneDrive não estiver disponível.
+Gerar ficheiros
+A publicação de blogue de 21 de maio de 2018 da Microsoft descreve o nosso compromisso
+com a conformidade com o RGPD e como a Microsoft ajuda as empresas e outras
+organizações a cumprirem as suas próprias obrigações do RGPD. Com a proteção de dados
+empresariais, Copilot Chat suporta o RGPD. Obtenha mais detalhes sobre o RGPD ao utilizar
+produtos e serviços Microsoft.
+Microsoft 365 Copilot Chat chamadas para o LLM são encaminhadas para os datacenters mais
+próximos da região, mas também podem chamar para outras regiões onde está disponível
+maior capacidade quando a utilização é especialmente elevada.
+Para os utilizadores da União Europeia (UE), Copilot Chat tem salvaguardas adicionais para
+cumprir a Fronteira dos Dados da UE. O tráfego da UE permanece dentro da Fronteira dos
+Dados da UE, enquanto o tráfego mundial pode ser enviado para a UE e para outros países ou
+regiões para processamento de LLM.
+Microsoft 365 Copilot Chat compromissos de residência dos dados estão descritos nos Termos
+do Produto Microsoft e na Adenda à Proteção de Dados .
+As consultas de pesquisa na Web enviadas de Copilot Chat para o Bing não estão em
+conformidade com o EUDB. Veja mais informações sobre como a Microsoft processa as
+consultas de pesquisa geradas.
+Last updated on 05/02/2026
+Regulamento Geral sobre a Proteção de Dados
+(RGPD)
+Limite de Dados da UE (EUDB)

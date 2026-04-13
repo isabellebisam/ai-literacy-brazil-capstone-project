@@ -1,0 +1,2552 @@
+Política de Privacidade
+Explorar a política
+O que é a Política de Privacidade e o que ela aborda?
+Quais informações coletamos?
+Como usamos suas informações?
+Como suas informações são compartilhadas nos Produtos da
+Meta ou com parceiros integrados?
+Como compartilhamos informações com terceiros?
+Como as Empresas da Meta trabalham em conjunto?
+Como você pode gerenciar ou excluir suas informações e exercer
+seus direitos?
+Por quanto tempo mantemos suas informações?
+Como transferimos as informações?
+Como respondemos a solicitações legais, cumprimos a legislação
+aplicável e prevenimos danos?
+Como você saberá que a Política foi alterada?
+Aviso de privacidade para residentes nos Estados Unidos
+Como entrar em contato com a Meta em caso de dúvidas
+Por que e como tratamos suas informações
+Outras políticas
+Termos de Serviço
+Política de Cookies
+O que é a Política de Privacidade e o que ela
+aborda?
+Em vigor em 16 de dezembro de 2025
+Leia o Aviso de Privacidade Regional dos Estados Unidos para obter mais detalhes
+sobre como tratamos Informações Pessoais e como exercer os seus direitos.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 1/97
+Destaques
+A Política de Privacidade explica como coletamos, usamos e compartilhamos suas informações. Ela também descreve como as armazenamos e
+como elas são protegidas durante transferências.
+A Política de Privacidade também informa você sobre os seus direitos
+Esta Política de Privacidade se aplica ao que chamamos de Produtos da
+Meta ou Produtos. Nossos produtos incluem Facebook, Instagram, Messenger e IA na Meta.
+A Política também é aplicável para o Meta Quest se você entra com uma
+conta da Meta
+Nós, da Meta, queremos que você saiba quais informações coletamos e como as
+usamos e compartilhamos. É por essa razão que recomendamos a leitura da nossa
+Política de Privacidade. Isso facilita o uso dos Produtos da Meta[1] da maneira certa
+para você.
+Na Política de Privacidade, explicamos como coletamos, usamos, compartilhamos,
+retemos e transferimos informações. Explicamos também quais são seus direitos.
+Cada seção desta Política apresenta exemplos úteis em uma linguagem simples
+para que nossas práticas sejam fáceis de entender. Além disso, adicionamos links
+para recursos em que você pode saber mais sobre tópicos de privacidade do seu
+interesse.
+Para nós, é importante que você saiba como controlar sua privacidade. Por isso,
+também mostramos onde gerenciar suas informações nas configurações dos Produtos da Meta que você usa. Você pode atualizar essas configurações para personalizar sua experiência.
+Leia abaixo a Política na íntegra.
+Quais Produtos esta Política abrange? [1]
+Saiba mais sobre como gerenciar sua privacidade na Central de
+Privacidade
+1
+Quais Produtos esta Política abrange?
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 2/97
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+Quais informações coletamos?
+Destaques
+Nesta Política, listamos os tipos de informações que coletamos. Veja alguns
+importantes: Coletamos:
+As informações que você nos fornece ao se cadastrar nos nossos Produtos
+e criar um perfil, como endereço de email, telefone ou idade
+O que você faz nos nossos Produtos. Isso inclui o que você clica ou curte,
+seus posts e suas fotos, suas conversas com a IA na Meta e as mensagens
+que você envia. Em alguns Produtos, você pode usar mensagens criptografadas de ponta a ponta. Saiba mais.
+Quem são seus amigos ou seguidores e o que eles fazem nos nossos
+Produtos
+Informações sobre o telefone, o computador ou o tablet que você usa nos
+nossos Produtos, como o modelo do dispositivo e a versão do app que você
+está usando
+Informações dos parceiros[2] sobre o que você faz dentro ou fora dos nossos Produtos. Isso inclui outros sites que você acessa, apps que usa ou jogos online que você joga.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 3/97
+As informações que coletamos e tratamos sobre você dependem do seu uso dos
+nossos Produtos[3]. Por exemplo, coletamos informações diferentes se você vende
+móveis no Marketplace ou se pede para a IA na Meta escrever uma piada para
+você. Quando você usa nossos Produtos, coletamos algumas informações sobre
+você, mesmo que não tenha uma conta[4].
+Estas são as informações que coletamos:
+Sua atividade e as informações que você fornece
+Nos nossos Produtos[3], você pode enviar mensagens, tirar fotos e gravar vídeos, comprar ou vender itens, entre outros. Chamamos de “atividade” tudo o
+que você pode fazer nos nossos Produtos. Coletamos sua atividade nos nossos Produtos e as informações que você nos fornece[5], como as seguintes:
+O conteúdo criado, como posts, comentários ou áudios.
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz. Saiba
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 4/97
+mais[6] sobre o que coletamos desses recursos e como usamos as informações da câmera em máscaras, filtros, avatares e efeitos.
+As mensagens enviadas e recebidas, incluindo o conteúdo, sujeitas às leis
+aplicáveis. Em alguns Produtos, você pode usar mensagens criptografadas
+de ponta a ponta. Saiba mais sobre como funciona a criptografia de ponta a
+ponta.
+Os metadados[7] sobre conteúdo e mensagens, sujeitos às leis aplicáveis.
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens. Saiba mais.[8]
+Os tipos de conteúdo, incluindo anúncios, que você vê ou com o qual interage e o modo como faz isso.
+Os apps e recursos usados e quais ações você realiza neles. Veja
+exemplos[9].
+As compras ou outras transações que você realiza, como nas nossas experiências de finalização da compra da Meta, incluindo as informações de cartão de crédito. Saiba mais[10]
+.
+As hashtags usadas.
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos.
+Sua foto ou selfie de vídeo, se você a fornecer quando entrar em contato conosco para obter suporte para conta.
+Saiba mais sobre como controlar quem vê seu conteúdo e o que é conteúdo
+público.
+Informações com proteções especiais
+Você pode optar por fornecer informações sobre sua religião, sua orientação
+sexual, suas preferências políticas, sua saúde, sua origem racial ou étnica,
+suas crenças filosóficas ou sua filiação sindical. Esses e outros tipos de informações podem ter proteções especiais de acordo com a legislação de sua
+jurisdição.
+Os amigos, os seguidores e outras conexões
+As informações coletadas sobre amigos, seguidores e outras conexões
+Coletamos informações sobre amigos, seguidores, grupos, contas, Páginas do
+Facebook e outros usuários e comunidades com quem você tem conexão ou
+interage dentro e fora dos Produtos da Meta[3]. Isso inclui a forma como você
+interage com eles nos nossos Produtos e com quais você interage mais.
+Informações que coletamos sobre contatos e conexões
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 5/97
+Também coletamos as informações dos seus contatos ou conexões, incluindo
+nome e endereço de email ou telefone, caso você as carregue ou importe de
+um dispositivo[11], como ao sincronizar uma agenda de contatos.
+Se você não usa os Produtos da Meta ou os usa sem uma conta, suas informações ainda podem ser coletadas. Saiba mais sobre como a Meta usa as informações de contato carregadas pelos titulares das contas.
+Saiba como carregar e excluir contatos no Facebook e no Messenger ou como
+conectar a lista de contatos do seu dispositivo no Instagram.
+As informações que coletamos ou inferimos sobre você com base na ativi‐
+dade de outras pessoas
+Coletamos informações sobre você com base na atividade de outras pessoas.
+Veja alguns exemplos[12].
+Também inferimos informações sobre você com base na atividade de outras
+pessoas. Por exemplo:
+Podemos sugerir um amigo para você por meio do recurso Pessoas que
+você talvez conheça do Facebook ou do Encontrar pessoas do Instagram,
+se ambos aparecerem em uma lista de contatos ou conexões que alguém
+carregar.
+Levamos em consideração se seus amigos pertencem a um grupo quando
+sugerimos que você participe dele.
+Informações de apps, de navegadores e de dispositivos
+Coletamos e recebemos informações de e sobre os diferentes dispositivos[11]
+que você usa, além do modo como faz isso.
+As informações sobre dispositivos que coletamos e recebemos incluem as
+seguintes:
+O dispositivo e o software usados e outras características do dispositivo.
+Veja exemplos[13].
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Identificadores que diferenciam o seu dispositivo dos de outros usuários, incluindo identificações de dispositivos da família. Veja exemplos[14]
+.
+Sinais do seu dispositivo. Veja exemplos[15].
+As informações que você compartilhou conosco pelas configurações do dispositivo, como localização por GPS, acesso à câmera, fotos e metadados
+relacionados[16]
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 6/97
+As informações sobre a rede com a qual você conecta seu dispositivo e sobre a conexão, incluindo seu endereço de IP[17]
+. Veja mais exemplos[18].
+Algumas informações relacionadas a localizaçãomesmo se os serviços de
+localização estão desativados nas configurações do seu dispositivo. Isso inclui usar endereços de IP para estimar sua localização geral.
+As informações sobre o desempenho dos nossos Produtos no seu dispositivo. Saiba mais[19]
+.
+As informações de cookies e tecnologias semelhantes. Saiba mais.[20]
+Informações de parceiros, fornecedores e outros terceiros
+Que tipo de informações coletamos ou recebemos?
+Coletamos e recebemos informações de parceiros[21], fornecedores de mensuração, fornecedores de marketing e outros terceiros[22] sobre diversas informações e atividades dentro e fora dos nossos Produtos[3]
+.
+Veja alguns exemplos de informações que recebemos sobre você:
+As informações sobre o dispositivo[11]
+Os sites acessados e os dados de cookies, como por meio dos Plugins Sociais ou do Pixel da Meta
+Os apps usados
+Os jogos que você joga
+As compras e as transações que você faz nos nossos Produtos pelas experiências de finalização da compra que não são da Meta
+Seus dados demográficos, como nível de escolaridade
+Os anúncios vistos e o modo como você interage com eles
+Como você usa os produtos e serviços de nossos parceiros e terceiros, online ou pessoalmente
+Nossos parceiros[2] também compartilham conosco informações como seu endereço de email, cookies[20] e ID do dispositivo de publicidade. Isso nos ajuda
+a associar suas atividades à sua conta, caso tenha uma.
+Recebemos essas informações independentemente de você ter ou não feito login ou ter ou não uma conta nos nossos Produtos. Saiba mais sobre como conectamos as informações dos nossos parceiros com a sua conta.
+Os parceiros também compartilham conosco as comunicações que têm com
+você caso eles peçam o fornecimento de serviços para a empresa deles, como
+ajudá-los a gerenciar as próprias comunicações. Para saber como uma em3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 7/97
+presa trata ou compartilha suas informações, leia a política de privacidade dela
+ou entre em contato com a empresa.
+Assuma o controle
+Sua atividade fora das tecnologias da Meta
+Como coletamos ou recebemos essas informações dos nossos parceiros?
+Os parceiros usam nossas Ferramentas para Empresas, integrações e tecnologias do Audience Network da Meta para compartilhar informações conosco.
+Esses parceiros coletam suas informações quando você acessa o site ou o
+app deles ou usa os serviços que eles oferecem ou por meio de outras empresas ou organizações com as quais eles trabalham. Exigimos que nossos parceiros tenham o direito de coletar, usar e compartilhar suas informações antes
+de passá-las para nós.
+O que acontecerá se você não permitir nossa coleta de de‐
+terminadas informações?
+Algumas informações são necessárias para que nossos Produtos funcionem. Outras informações são opcionais, mas, sem elas, é possível que a qualidade da sua
+experiência seja afetada.
+Saiba mais[23]
+E se as informações coletadas não identificam nenhuma
+pessoa?
+Em alguns casos, terceiros desidentificam, agregam ou anonimizam informações.
+Assim, elas deixam de identificar qualquer pessoa antes de serem disponibilizadas
+para nós. Usamos essas informações conforme descrito abaixo sem tentar reidentificar as pessoas.
+Assuma o controle
+Gerencie as informações que coletamos sobre você
+2
+Parceiro
+Uma pessoa, empresa, organização ou órgão que usa os nossos Produtos ou
+se integra a eles para anunciar, comercializar ou fornecer suporte para seus
+produtos e serviços.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 8/97
+3
+Quais Produtos esta Política abrange?
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+4
+Informações que coletamos e recebemos se você usa
+ou interage com nossos Produtos, mas não tem uma
+conta
+Mesmo se você não tiver uma conta, você pode usar os Produtos da Meta[3]
+ou interagir com eles. Coletaremos informações como:
+Registros do navegador e do app sobre suas visitas a conteúdo público,
+como Páginas e vídeos do Facebook
+Informações básicas sobre dispositivos[11] que baixaram nossos apps,
+como modelo e sistema operacional
+Também recebemos informações com cookies e tecnologias similares, como o
+Pixel da Meta ou Plugins Sociais, quando você acessa outros sites e apps que
+usam as Ferramentas para Empresas ou outros Produtos da Meta. Leia mais
+sobre as informações que recebemos de parceiros, fornecedores e outros terceiros nesta política e em nossa Política de Cookies.
+Exemplos de motivos pelos quais coletamos e recebemos
+informações
+Segurança dos nossos Produtos
+Por exemplo, coletamos informações para monitorar tentativas de ataques a
+nossos sistemas, como sobrecarregar nossos servidores com tráfego. Além
+disso, se identificarmos alguém sem uma conta tentando carregar muitas pági3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 9/97
+nas, pode ser que essa pessoa esteja tentando fazer raspagem no nosso site,
+o que é uma violação dos nossos termos. Dessa maneira, poderemos tomar
+medidas para impedir que isso ocorra.
+Segurança e integridade
+Podemos tomar medidas de acordo com nossos Padrões da Comunidade em
+relação a alguém sem uma conta que esteja interagindo com Produtos da
+Meta. Por exemplo, podemos compartilhar informações com as autoridades
+policiais caso haja, no nosso entendimento, um risco real de morte ou lesões
+corporais iminentes.
+Publicidade
+Por exemplo, também é possível ver anúncios para os Produtos das Empresas da Meta mostrados por meio do Meta Audience Network quando você
+acessa outros apps caso não seja possível reconhecer você como usuário cadastrado nos Produtos da Meta.
+Desempenho
+Por exemplo, coletamos informações quando as pessoas usam nossos Produtos, mesmo as que não têm uma conta, para mensurar a velocidade de carregamento das nossas páginas em países diferentes e se elas estão funcionando corretamente. Isso nos ajuda a identificar e corrigir problemas com as
+redes locais.
+5
+Informações fornecidas por você
+Por exemplo, quando você cria uma conta do Facebook, é necessário dar algumas informações, como senha e endereço de email ou telefone. É possível
+adicionar outros dados à conta, como uma foto do perfil ou informações de
+pagamento.
+Também coletamos informações fornecidas quando você:
+cria seu avatar;
+preenche um formulário;
+fala conosco.
+6
+O que coletamos no nosso recurso de Câmera
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 10/97
+José gosta de usar o recurso de Câmera do Instagram para tirar fo‐
+tos do seu jardim de flores. Coletamos informações sobre como
+José usa o recurso de Câmera. Por exemplo, se ele escolher usar um
+efeito de plano de fundo na foto que ele está prestes a tirar, coleta‐
+mos informações da câmera para que possamos aplicar o efeito à
+foto.
+Como funcionam os filtros, os efeitos, as máscaras e os
+avatares
+Se você usa nossa câmera ou permite o acesso a fotos e vídeos, é
+possível adicionar filtros, efeitos, máscaras ou avatares em determi‐
+nados Produtos da Meta. Alguns desses recursos processam partes
+do rosto ou do corpo exibidas no enquadramento da câmera, na foto
+ou no vídeo. É assim que esses recursos conseguem encaixar uma
+máscara corretamente sobre os olhos, o nariz e a boca. As informa‐
+ções que usamos para esse processo são usadas para criar o re‐
+curso. Elas não são usadas para identificar você.
+O que coletamos nos recursos ativados por voz
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 11/97
+Renê dá um comando ao Assistente de voz da Meta, para que ele
+tire uma foto nos óculos inteligentes. Um indicador visual mostra
+que o Assistant está ativado e ouvindo o comando de Renê. Coleta‐
+mos essa interação por voz, o que inclui qualquer som de fundo pre‐
+sente quando Renê diz o comando. Coletada a interação, podemos
+oferecer e, dependendo das configurações de Renê, aprimorar o re‐
+curso Assistant.
+7
+Metadados
+Informações sobre o próprio conteúdo, como o local em que a foto foi tirada
+ou a data em que um arquivo foi criado.
+Informações sobre a própria mensagem, como o tipo de mensagem ou a
+data e a hora em que foi enviada.
+8
+Informações que você ou outras pessoas trocam com a
+IA na Meta
+Em todos os Produtos das Empresas da Meta, você pode interagir com os recursos e as experiências de IA generativa da Meta, chamados coletivamente
+de IA na Meta.
+Coletamos informações quando você ou outras pessoas usam ou trocam informações com a IA na Meta, como:
+Comandos que podem incluir perguntas, mensagens, mídia e outras informações que você ou outras pessoas compartilham ou enviam para a IA na
+Meta
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 12/97
+Respostas e outras informações que você recebe da IA na Meta. Às vezes,
+elas são fornecidas com a ajuda de nossas integrações de IA
+Ações que você solicita à IA na Meta para realizar, como personalizar o conteúdo ou os anúncios que você vê
+Feedback que você dá à IA na Meta sobre suas respostas
+9
+Apps e recursos que você usa e como usa
+Por exemplo, registramos:
+Apps, posts, vídeos, anúncios, jogos, Lojas e outro conteúdo visto ou com
+os quais você interage nos nossos Produtos.
+Quais recursos você acessa em nossos produtos de mensagens
+Quando você usa Plugins Sociais, o Login do Facebook, o histórico de links
+do navegador no app ou o preenchimento automático
+Informações sobre os sites que você visita ou com os quais interage quando
+você usa o navegador no app. Saiba mais.
+10
+Compras ou outras transações.
+Coletamos informações quando você usa nossos Produtos para comprar ou
+vender itens ou fazer ou receber transações financeiras.
+Alguns exemplos:
+Compras em um jogo online.
+Doações para a campanha de arrecadação de fundos de um amigo.
+Compras no Marketplace, em Lojas ou em grupos.
+Pagamentos ou compras feitos usando o Meta Pay ou outras experiências
+de finalização de compra da Meta
+Transferências de dinheiro para amigos e familiares (quando disponíveis).
+O que coletamos nas transações
+Quando você usa nossos Produtos para comprar ou vender itens ou fazer ou
+receber transações financeiras, incluindo pagamentos usando o Meta Pay ou
+no Marketplace, em Lojas ou em grupos, ou quando você usa outras experiên3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 13/97
+cias de finalização da compra da Meta, coletamos informações sobre sua
+compra ou outras transações financeiras, como:
+Número do cartão de crédito ou de débito e outras informações de sua
+conta bancária.
+Dados de cobrança, de envio e de contato.
+Itens comprados e a quantidade deles.
+Outras informações da conta e de autenticação.
+Por que coletamos essas informações
+Coletamos e armazenamos essas informações para facilitar sua compra, o recebimento de pagamentos e outras transações financeiras, para personalizar
+sua experiência em nossos Produtos, para publicidade e para permitir que
+você acesse e veja seu histórico de pagamentos e transações, onde estiverem
+disponíveis. E, dependendo de suas escolhas, armazenamos essas informações para proporcionar experiências de pagamento e transações financeiras
+mais rápidas e fáceis.
+Mais informações na Política de Privacidade
+Como usamos suas informações?
+Como respondemos a solicitações legais, cumprimos a legislação
+aplicável e prevenimos danos?
+11
+Dispositivo
+Os dispositivos incluem computadores, smartphones, hardware, TVs conectadas, Meta Quest e outros dispositivos conectados pela web.
+12
+Quando coletamos informações de acordo com a ativi‐
+dade de outras pessoas
+Por exemplo, coletamos informações sobre você nos Produtos da Meta
+quando outras pessoas:
+compartilham ou comentam uma foto em que marcaram você;
+enviam uma mensagem a você;
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 14/97
+convidam você para participar de uma conversa;
+carregam suas informações de contato ou conexão, como uma agenda de
+contatos ou lista de seguidores;
+convidam você para jogar;
+conectam-se com você, por exemplo, como um amigo ou seguidor;
+bloqueiam ou denunciam você.
+fornecem informações sobre você para a IA na Meta, incluindo mensagens
+e conteúdo que você compartilhou. Veja exemplos[8].
+13
+Qual dispositivo você está usando e outras característi‐
+cas do dispositivo
+As informações que coletamos sobre o dispositivo são as seguintes:
+O tipo do dispositivo
+Os dados sobre o sistema operacional
+Os dados sobre hardware e software
+Marca e modelo
+O nível da bateria
+A intensidade do sinal
+O armazenamento disponível
+O tipo de navegador
+O nome e o tipo dos apps e dos arquivos
+Plugins
+14
+Os identificadores que diferenciam o seu dispositivo
+dos demais
+Entre os identificadores que coletamos estão as identificações dos dispositivos, dos anunciantes da plataforma móvel ou de jogos, de apps ou de contas
+usadas. Também coletamos as identificações de dispositivo da família ou ou3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 15/97
+tros identificadores únicos dos Produtos das Empresas da Meta associados ao
+mesmo dispositivo ou conta.
+15
+Os sinais do dispositivo
+Os sinais dos dispositivos incluem GPS, sinais de Bluetooth, pontos de acesso
+de Wi-Fi nas imediações, beacons e torres de antena de celular.
+16
+Metadados relacionados
+Por exemplo, se você nos der permissão para acessar o rolo da câmera do
+seu dispositivo, coletaremos metadados. Esses metadados são de suas fotos
+e vídeos e incluem data e hora em que foram criados. Usamos essas informações para lembrar você de quando há, por exemplo, novas fotos para
+carregar.
+17
+Endereço IP
+Significa “endereço do protocolo de internet”. É um número único atribuído a
+um dispositivo, como um smartphone ou um computador, que permite a comunicação dele pela internet. Os números são atribuídos de acordo com diretrizes padrão ou protocolos.
+Assim como você precisa de um endereço de correspondência para receber
+uma carta de um amigo, seu dispositivo precisa de um endereço IP para receber informações na internet.
+18
+As informações sobre a rede à qual você conecta seu
+dispositivo e sua conexão com a internet
+As informações sobre a rede e a conexão incluem as seguintes:
+Nome da operadora de celular ou do provedor de serviços de Internet (ISP)
+Idioma
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 16/97
+Fuso horário
+Número do celular
+Endereço IP
+Velocidade de download e conexão
+Capacidade de rede
+Informações sobre outros dispositivos nas imediações ou na sua rede
+Hotspots de Wi-Fi aos quais você se conecta usando nossos Produtos
+Coletamos essas informações para tornar sua experiência ainda melhor. Por
+exemplo, se sabemos que seu smartphone e sua TV estão conectados à
+mesma rede, podemos ajudar você a usá-lo para controlar um stream de vídeo na TV.
+Mais informações na Política de Privacidade
+Como usamos suas informações?
+19
+Informações sobre o desempenho dos nossos Produtos
+no seu dispositivo
+Coletamos informações do dispositivo para prevenir, diagnosticar, solucionar
+problemas e corrigir erros e bugs. Essas informações incluem: tempo de funcionamento do app, modelo do dispositivo usado e outros dados de desempenho e diagnóstico.
+20
+Informações de cookies e tecnologias semelhantes
+Cookies são pequenos trechos de texto usados para armazenar informações
+em navegadores da web. Usamos cookies e tecnologias semelhantes, inclusive os dados que armazenamos no navegador da web ou no dispositivo,
+identificadores associados ao dispositivo e outros softwares, Plugins Sociais e
+o Pixel da Meta. Eles nos ajudam a oferecer, proteger e aprimorar nossos Produtos, seja personalizando conteúdo, mensurando e aprimorando anúncios e
+viabilizando uma experiência mais segura.
+Coletamos informações dos cookies armazenados em seu dispositivo, inclusive configurações e IDs de cookies.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 17/97
+Leia nossa Política de Cookies da Meta
+21
+Tipos de parceiros
+Parceiros
+Nossos parceiros[2] usam nossos Produtos, incluindo nossas Ferramentas
+para Empresas e outras tecnologias que permitem que empresas anunciem ou
+ofereçam suporte para os produtos delas. As Ferramentas para Empresas
+também ajudam nossos parceiros a entender e mensurar como as pessoas
+usam os produtos e serviços deles e o desempenho dos anúncios. Por exemplo, elas podem colocar uma das nossas Ferramentas para Empresas, o Pixel
+da Meta, no site delas. Ou podem usar as ferramentas do Audience Network
+da Meta para monetizar os apps com a exibição de anúncios de empresas que
+anunciam no Facebook.
+Parceiros integrados
+Os Parceiros integrados[24] também usam nossos Produtos, em específico as
+tecnologias que ajudam você a se conectar a eles. Por exemplo, é possível
+entrar no app ou no site deles com o Login do Facebook. Ou você pode jogar
+o jogo deles no Facebook, o que chamamos de integração, porque é possível
+jogar sem sair do nosso app.
+Quem são nossos parceiros e parceiros integrados?
+Veja alguns exemplos:
+Anunciantes
+As empresas e as pessoas que usam nossos Produtos para vender ou oferecer produtos e serviços
+Os publishers (como sites ou apps) e os seus fornecedores
+Desenvolvedores de apps
+Os desenvolvedores de jogos
+Os fabricantes de dispositivos, provedores de serviço de internet e operadoras de celular
+Plataformas de comércio eletrônico
+22
+Outros terceiros dos quais obtemos informações
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 18/97
+Alguns órgãos, pessoas, empresas e organizações compartilham informações
+com a Meta, mas não necessariamente usam nossos Produtos. Coletamos e
+recebemos informações desses outros terceiros[25], incluindo o seguinte:
+Fontes disponíveis publicamente, como artigos acadêmicos e fóruns
+públicos
+Colegas do setor, como outras plataformas online e empresas de tecnologia
+Fornecedores de marketing e de publicidade e provedores de dados, que
+têm o direito de nos fornecer suas informações
+Empresas ou organizações que fornecem conteúdo, incluindo vídeos, fotos
+e áudios
+Autoridades
+Autoridades governamentais
+Grupos profissionais e sem fins lucrativos, como ONGs e instituições de
+caridade
+Instituições acadêmicas e de pesquisa, como universidades, grupos de pesquisa sem fins lucrativos e círculos de reflexão
+Fontes públicas de terceiros
+Obtemos conjuntos de dados de fontes publicamente disponíveis, instituições
+de pesquisa, provedores de dados e grupos profissionais e sem fins lucrativos.
+Usamos esses conjuntos de dados para fazer o seguinte:
+Detectar e deter a extração de dados que viole nossos termos.
+Tomar outras medidas para promover a segurança, a integridade e a proteção dos nossos Produtos, dos nossos usuários, do público, bem como dos
+nossos colaboradores e da nossa propriedade.
+Aprimorar nossas tecnologias de IA e apoiar a pesquisa e o desenvolvimento de produtos em IA, como traduções, visão computacional, entendimento de conteúdo, processamento de linguagem natural e ferramentas
+para pessoas e empresas criarem conteúdo.
+Realizar análises.
+Interagir com participantes de pesquisas que escolherem participar de conversas adicionais.
+Mais informações na Política de Privacidade
+Como usamos suas informações?
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 19/97
+23
+O que acontecerá se você não permitir a nossa coleta
+de determinadas informações
+Por exemplo, se você não informar seu endereço de email, seu telefone ou
+sua idade, não será possível criar uma conta para você usar nossos Produtos.
+Caso você escolha não adicionar amigos no Facebook, seu Feed não mostrará fotos nem atualizações de status dos amigos.
+24
+Parceiro integrado
+Um parceiro que usa tecnologias que ajudam você a se conectar a ele em
+nossos Produtos, incluindo plugins, login, experiências de finalização da compra, jogos instantâneos e outras integrações semelhantes
+25
+Terceiros
+Uma pessoa, empresa, organização ou órgão que não faz parte das empresas
+da Meta.
+Como usamos suas informações?
+Destaques
+Estas são algumas maneiras como usamos suas informações:
+Personalizamos sua experiência, sugerindo reels para assistir, comunidades
+para participar ou fornecendo respostas mais relevantes da IA na Meta
+Aprimoramos nossos Produtos aplicando informações sobre a finalidade
+com a qual você os usa e o que mais está acontecendo no seu dispositivo
+quando o nosso app falha.
+Trabalhamos para prevenir comportamentos prejudiciais e manter as pessoas em segurança nos nossos Produtos
+Enviamos mensagens sobre os Produtos que você usa ou sobre Produtos
+dos quais poderia gostar, se você nos permitir.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 20/97
+Fazemos pesquisas para o bem das pessoas do mundo inteiro, como para
+fazer avançar a tecnologia ou ajudar em uma crise.
+Usamos as informações coletadas para lhe proporcionar uma experiência personalizada, incluindo anúncios, junto com as outras finalidades explicadas em detalhes
+abaixo.
+Para algumas dessas finalidades, recorremos às informações dos nossos
+Produtos[26] e dos seus dispositivos[27]. As informações que usamos para essas finalidades são tratadas automaticamente por nossos sistemas. Porém, em alguns
+casos, também realizamos uma análise manual[28] para acessar e analisar suas
+informações.
+Em certos casos, para usarmos menos informações relacionadas a usuários individuais, desidentificamos ou agregamos as informações, ou as anonimizamos para
+que elas não identifiquem você. Usamos essas informações da mesma forma que
+usamos as suas, conforme descrito nesta seção.
+Estas são as maneiras como usamos suas informações:
+Para oferecer, personalizar e aprimorar nossos Produtos
+Usamos as informações que temos para fornecer e aprimorar nossos Produtos[29].
+Isso inclui o seguinte:
+ver se nossos Produtos estão funcionando corretamente, como solucionar problemas e consertá-los quando não estiverem funcionando
+personalizar recursos, de conteúdo e de recomendações, como o Feed do Facebook, o Feed do Instagram, a IA na Meta, os Stories e os anúncios.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 21/97
+Usamos as informações com proteções especiais que você escolhe fornecer para
+esses fins, mas não para lhe mostrar anúncios.
+Leia mais sobre como usamos as informações para oferecer, personalizar e aprimorar nossos Produtos:
+Como mostramos anúncios e outros conteúdos patrocinados ou
+comerciais
+Ao usar nossos Produtos, você vê anúncios e conteúdos patrocinados ou comerciais, como classificados de produtos no recurso Lojas. A Meta personaliza
+seus anúncios em todos os Produtos das Empresas da Meta. Você também vê
+anúncios mostrados por meio do Audience Network da Meta ou conteúdo comercial quando você acessa outros apps. Usamos suas informações para exibir anúncios pagos por anunciantes, empresas e organizações. Queremos que
+tudo o que você vê seja interessante e útil.
+Para decidirmos o que mostrar a você e outras pessoas, usamos informações
+suas que estão à nossa disposição, como as seguintes:
+As informações do perfil
+Sua atividade dentro e fora dos nossos Produtos, incluindo informações que
+recebemos pelos cookies e por tecnologias similares, de acordo com as
+configurações
+Conteúdos que você cria ou com os quais você interage no Facebook e no
+Instagram
+Interações com a IA na Meta
+As informações que inferimos sobre você, como tópicos que podem ser do
+seu interesse
+As informações sobre amigos, seguidores ou outras conexões, incluindo as
+atividades e os interesses deles
+Veja alguns exemplos.[30]
+Também usamos informações que foram desidentificadas, agregadas ou anonimizadas para que não mais identifiquem indivíduos, para mostrar anúncios a
+você.
+Saiba mais sobre algumas das formas por meio das quais mostramos anúncios que podem ser interessantes para você, incluindo o uso de aprendizado
+de máquina.
+Assuma o controle
+Saiba mais sobre como os anúncios funcionam
+Gerenciar as preferências de anúncios
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 22/97
+Como usamos as informações para aprimorar os Produtos da
+Meta
+Estamos sempre tentando melhorar os Produtos da Meta e criar novos com os
+recursos que você deseja. As informações que coletamos sobre você nos ajudam a saber como fazer isso.
+Por exemplo, usamos as informações coletadas para fazer o seguinte:
+Desenvolver e melhorar novos produtos e recursos;
+Criar e testar produtos e recursos novos para ver se eles funcionam;
+Coletar feedback sobre ideias para produtos ou recursos
+Realizar pesquisas e outros estudos sobre o que podemos melhorar nos
+produtos e nas marcas da Meta
+Como usamos as informações relacionadas à localização
+Usamos informações relacionadas à localização que você nos permite receber
+caso você ative os serviços de localização nas configurações do dispositivo.
+Isso inclui, por exemplo, sua localização por GPS e, dependendo do sistema
+operacional, outros sinais do dispositivo[31].
+Também recebemos e usamos algumas informações relacionadas à localização, mesmo que os serviços de localização estejam desativados. Isso inclui o
+seguinte:
+Endereços IP[32], que usamos para estimar sua localização geral. Podemos
+usar endereços IP para estimar sua localização específica caso isso seja
+necessário para proteger você e outras pessoas.
+Sua atividade e a de outras pessoas nos nossos Produtos, como check-ins
+e eventos
+Informações fornecidas diretamente a nós, como quando você insere sua cidade atual no perfil ou seu endereço no Marketplace
+Usamos essas informações, como a localização atual, o local onde você mora,
+os lugares que gosta de frequentar e as empresas e as pessoas que estão por
+perto, para realizar o seguinte, conforme descrito na seção “Como usamos
+suas informações?” da Política:
+Oferecer, personalizar e aprimorar nossos Produtos, incluindo anúncios,
+para você e outras pessoas. Veja um exemplo[33].
+Detectar atividades suspeitas e proteger sua conta. Saiba como.[34]
+Assuma o controle
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 23/97
+Como gerenciar suas configurações de localização do Facebook
+Como ativar ou desativar os serviços de localização do Instagram
+Gerenciar as configurações de localização
+Para promover a segurança, a proteção e a integridade
+Usamos as informações coletadas para proteger as pessoas e oferecer Produtos
+seguros.
+Saiba mais
+Para oferecer serviços de mensuração, análise e negócios
+Muitas pessoas contam com nossos Produtos para administrar ou promover suas
+empresas ou compartilhar conteúdo. Nós as ajudamos a avaliar se os anúncios e
+outros conteúdos, produtos e serviços estão funcionando.
+Saiba mais
+Para nos comunicar com você
+Nós entramos em contato com as informações que você nos fornece, como as inseridas no seu perfil.
+Saiba mais
+Para pesquisar e inovar pelo bem social
+Usamos as informações que temos, assim como aquelas dos pesquisadores e dos
+conjuntos de dados de fontes disponíveis publicamente, de grupos profissionais e
+de grupos sem fins lucrativos, para realizar e apoiar pesquisas.
+Saiba mais
+Promover a segurança, a proteção e a integridade
+Abaixo estão algumas das formas como promovemos a segurança, a proteção
+e a integridade. Nós nos empenhamos para fazer o seguinte:
+Verificar contas, identidade e atividades. Saiba mais sobre como você pode
+escolher verificar sua conta ou identidade por meio da tecnologia de reconhecimento facial.
+Encontrar e resolver violações dos nossos termos e políticas. Em alguns casos, as decisões que tomamos sobre violações passam pela análise do Comitê de Supervisão. Ao examinarem nossas decisões, eles podem usar informações que temos. Saiba mais sobre como o Comitê de Supervisão trata
+as informações.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 24/97
+Investigar atividade suspeita. Saiba mais sobre a análise facial e sobre
+como ajudamos a proteger você e outras pessoas contra falsificação e uso
+indevido de identidade.
+Detectar, prevenir e combater comportamentos prejudiciais ou ilegais
+Identificar e combater disparidades e preconceito racial contra comunidades
+historicamente marginalizadas
+Detectar e prevenir spam e outras experiências ruins
+Detectar quando alguém precisa de ajuda e prestar apoio
+Detectar e impedir ameaças ao nosso pessoal e aos nossos bens
+Manter a integridade dos nossos Produtos
+Saiba mais sobre como nos empenhamos em manter a Meta um lugar seguro
+para todos.
+Assuma o controle
+Segurança da conta
+Oferecer serviços de mensuração, análise e negócios
+Para prestarmos serviços de mensuração e de análise, usamos as informações que coletamos sobre você por meio das suas contas nos nossos
+Produtos.
+Nossos serviços de mensuração e de análise ajudam nossos parceiros[35] e
+usuários a entender o seguinte:
+Quantas pessoas veem e interagem com os respectivos produtos, serviços
+ou conteúdos, como posts, vídeos, Páginas, classificados, Lojas e anúncios
+(incluindo aqueles mostrados em apps com o Audience Network da Meta)
+Quantas pessoas interagem com o conteúdo, os sites, os apps e os serviços
+Quais tipos de pessoas[36] interagem com o conteúdo ou usam os serviços
+A maneira como as pessoas usam os produtos e os serviços dos nossos
+parceiros para se conectarem com Produtos da Meta, o desempenho da conexão e das redes e a experiência dos usuários com elas
+Também usamos as informações que coletamos para fornecer serviços
+comerciais.
+Mais informações na Política de Privacidade
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 25/97
+Como compartilhamos informações com parceiros, fornecedores, provedores de serviços e outros terceiros?
+Comunicação com você
+Nós nos comunicamos com você de várias maneiras, Por exemplo:
+Enviamos mensagens sobre os Produtos que sabemos que você usa pelo
+email cadastrado na sua conta
+Dependendo das suas configurações, enviamos comunicações de marketing sobre Produtos de que você pode gostar
+Solicitamos sua participação em pesquisas de acordo com a maneira como
+você usa, por exemplo, nossos Produtos
+Informamos você sobre as nossas políticas e termos de serviço
+Quando você entra em contato conosco para tirar dúvidas, respondemos ao
+seu email
+Facilitamos a comunicação com o suporte ao cliente quando você nos diz,
+diretamente ou por terceiros[37], que tem dúvidas ou preocupações sobre os
+nossos Produtos.
+Também usamos informações sobre como você interage com as nossas mensagens, como ao abrir um email que lhe enviamos. Isso nos ajuda a saber qual
+é a melhor forma de entrar em contato com você e se nossas comunicações
+são úteis.
+Assuma o controle
+Preferências de comunicação
+Pesquisar e inovar pelo bem social
+Pesquisamos e inovamos para ajudar as pessoas no mundo inteiro. Entre as
+nossas metas, estão as seguintes:
+Contribuir para o bem social em áreas de interesse público
+Fazer avançar a tecnologia
+Melhorar a segurança, a saúde e o bem-estar
+Veja alguns exemplos das nossas pesquisas:
+Analisamos informações sobre aonde vão grupos de pessoas durante crises. Isso ajuda as organizações humanitárias a prestar apoio aos lugares
+certos.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 26/97
+Trabalhamos com pesquisadores independentes para entender melhor os
+possíveis impactos das redes sociais em eleições e processos democráticos
+Temos colaborado com acadêmicos e especialistas do setor para melhorar o
+acesso à internet e a qualidade dela em áreas rurais
+Apoiamos pesquisas em áreas como inteligência artificial e machine
+learning
+Saiba mais sobre os nossos programas de pesquisa
+Mais informações na Política de Privacidade
+Por que e como tratamos suas informações
+26
+Uso de informações nos nossos Produtos
+Usamos informações entre suas contas nos nossos Produtos para:
+Personalizar anúncios para você e outras pessoas. Saiba mais.
+Mensurar o desempenho desses anúncios. Saiba mais.
+Fornecer recursos, conteúdo e sugestões mais personalizados em nossos
+Produtos. Veja exemplos[38].
+Contar pessoas com mais precisão e entender como elas usam os nossos
+Produtos.
+Ajudar a manter seguros você e as outras pessoas. Saiba mais.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 27/97
+Se você adicionar diferentes contas à mesma Central de Contas, também usaremos suas informações para oferecer experiências conectadas e melhorar a
+sua experiência nas contas. Veja um exemplo.[39]
+Assuma o controle
+Como adicionar ou excluir contas na sua Central de Contas
+Gerenciar contas
+27
+Por que usamos informações entre os dispositivos
+Usamos suas informações entre dispositivos[40] para podermos oferecer a
+você uma experiência mais personalizada. Por exemplo, podemos mostrar um
+anúncio no seu smartphone e, mais tarde, você pode usar seu notebook para
+clicar no anúncio e comprar o produto. Com a combinação dessas informações entre seus dispositivos, conseguimos entender os anúncios que são mais
+relevantes para você e ajudar as empresas a mensurar o desempenho do
+anúncio.
+28
+Análise manual
+Exemplos de quando usamos análise manual
+Nossos analistas nos ajudam a promover segurança, proteção e integridade
+em nossos Produtos. Por exemplo, os analistas podem procurar e remover
+conteúdo que viole nossos termos e nossas políticas e manter conteúdo
+que não os viole. O trabalho deles complementa nossa tecnologia de detecção de violações.
+Quando nossos algoritmos detectam que uma pessoa pode estar precisando de ajuda, um analista avalia o post dela e oferece apoio, se
+necessário.
+Também usamos a análise manual com o objetivo de examinar conteúdo e
+treinar nossos algoritmos para fazê-lo da mesma maneira que uma pessoa
+faria. Isso melhora o nosso tratamento automático, o que nos ajuda a aprimorar os nossos produtos.
+Quem analisa as informações
+Nossos analistas trabalham na Meta, para as Empresas da Meta ou para um
+prestador de serviços[41] de confiança. Exigimos que todos os analistas com
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 28/97
+acesso às suas informações cumpram os padrões de privacidade e de
+segurança.
+Saiba mais sobre como a Meta prioriza conteúdo para análise manual.
+29
+Quais Produtos esta Política abrange?
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+30
+Sua atividade nos nossos Produtos
+Por exemplo, Roberto está em uma padaria local e faz check-in no
+Facebook. Mais tarde, poderemos mostrar a ele anúncios no Insta‐
+gram de outras padarias locais.
+Sua atividade em sites e apps de terceiros, dependendo das
+suas configurações
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 29/97
+Por exemplo, Júlia compra um par de sapatos em uma loja de calça‐
+dos online ou em uma conversa virtual com um vendedor de sapa‐
+tos. O vendedor compartilha conosco a atividade de Júlia usando
+nossas Ferramentas para Empresas, sujeitas aos nossos Termos das
+Ferramentas para Empresas.
+Mais tarde, Júlia vê um anúncio no Instagram sobre um desconto
+que terá na próxima compra de sapatos na loja online.
+Se ela não quiser mais ver anúncios dessa loja de calçados, poderá
+ocultá-los na Configuração de anunciantes. Caso não queira mais
+ver anúncios baseados na atividade dela em outros sites e apps, po‐
+derá desativar essa configuração nas configurações de anúncios
+Tópicos que podem ser do seu interesse
+Por exemplo, Paulo curte várias Páginas do Facebook sobre músi‐
+cos famosos. Por isso, acreditamos que ele tem interesse em
+música.
+Com base nisso, podemos mostrar um anúncio de uma loja de dis‐
+cos local ou um post de música online.
+Paulo pode gerenciar os interesses dele nos Tópicos de anúncios.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 30/97
+Suas conexões
+Por exemplo, a amiga de Sílvia curte uma conta do Instagram de
+uma exposição de arte local. Com base na atividade da amiga dela,
+podemos mostrar a Sílvia um anúncio da exposição de arte.
+31
+Outros sinais que recebemos do dispositivo
+Recebemos do dispositivo diversos tipos de sinais de sistemas operacionais
+diferentes. Esses sinais incluem conexões Bluetooth ou Wi-Fi nas imediações.
+32
+Endereço IP
+Significa “endereço do protocolo de internet”. É um número único atribuído a
+um dispositivo, como um smartphone ou um computador, que permite a comunicação dele pela internet. Os números são atribuídos de acordo com diretrizes padrão ou protocolos.
+Assim como você precisa de um endereço de correspondência para receber
+uma carta de um amigo, seu dispositivo precisa de um endereço IP para receber informações na internet.
+33
+Personalização de anúncios para você e outras pessoas
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 31/97
+Por exemplo, Marcos está indo viajar e quer localizar uma rede pú‐
+blica e gratuita no aeroporto com o recurso Encontrar Redes Wi-Fi.
+Ele ativou os Serviços de localização no dispositivo dele e permitiu
+que o app do Facebook acessasse a localização para que pudésse‐
+mos usar as informações de GPS dele a fim de ajudá-lo a encontrar
+as redes públicas de Wi-Fi mais relevantes. Também usamos essas
+informações para lhe mostrar anúncios de empresas locais próximas
+ao aeroporto.
+Depois, Marcos desativa os serviços de localização antes de pousar.
+Assim, não coletamos mais suas informações de GPS. Mais tarde,
+em sua viagem, ele abre o app do Facebook. Dessa forma, podemos
+usar o endereço IP recebido para estimar a localização geral de Mar‐
+cos e lhe mostrar anúncios de empresas nas imediações.
+34
+Ajudando a manter sua conta segura
+Por exemplo, usamos informações sobre as localizações das quais você normalmente acessa sua conta, combinadas com outras informações, para detectar atividade suspeita. Assim, se detectarmos uma tentativa de entrada em sua
+conta em uma nova localização, poderemos confirmar se é realmente você.
+35
+Parceiro
+Uma pessoa, empresa, organização ou órgão que usa os nossos Produtos ou
+se integra a eles para anunciar, comercializar ou fornecer suporte para seus
+produtos e serviços.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 32/97
+36
+Informações que disponibilizamos sobre diversos tipos
+de pessoas
+Por exemplo, podemos informar um anunciante de que mulheres de 25 a 34
+anos que moram em Madri e gostam de engenharia de software viram o anúncio dele.
+37
+Terceiros
+Uma pessoa, empresa, organização ou órgão que não faz parte das empresas
+da Meta.
+38
+Fornecendo recursos, conteúdo e sugestões mais per‐
+sonalizados em nossos Produtos
+Por exemplo, podemos fazer o seguinte:
+Preencher automaticamente informações de cadastro (como telefone) por
+meio de um Produto da Meta quando você se cadastra em outro Produto.
+Permitir que outras pessoas vejam e pesquisem seu nome e sua foto do
+perfil nos nossos Produtos e se comuniquem com você.
+Mostrar em um só lugar todas as interações com o conteúdo que você postou em Produtos diferentes.
+39
+Usando suas informações se você adicionar contas à
+mesma Central de Contas
+Por exemplo, se você segue seu time favorito no Instagram, será mais fácil sugerir que siga a Página desse time no Facebook.
+Saiba mais sobre como usamos informações entre contas quando você adiciona contas à mesma Central de Contas.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 33/97
+40
+Dispositivo
+Os dispositivos incluem computadores, smartphones, hardware, TVs conectadas, Meta Quest e outros dispositivos conectados pela web.
+41
+Prestador de Serviços
+Uma pessoa, empresa, organização ou órgão que fornece serviços à Meta ou
+para nossos usuários em nome da Meta. Por exemplo, nossos prestadores de
+serviços desempenham atividades como investigar atividades suspeitas e fornecer suporte aos clientes.
+Como suas informações são compartilhadas nos
+Produtos da Meta ou com parceiros integrados?
+Destaques
+Você pode escolher compartilhar informações em nossos Produtos ou com
+parceiros integrados.
+Lembre-se de compartilhar somente com pessoas de confiança.
+Você pode decidir usar um produto que se integre com um dos nossos, por
+exemplo quando você usa o Login do Facebook para entrar em um serviço
+de música ou em um site de compras.
+Se esse for o caso, a organização em questão lhe solicitará receber algumas informações sobre você, como seu endereço de email ou seu
+aniversário.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 34/97
+Nos Produtos da Meta
+Saiba mais sobre os diferentes casos em que suas informações podem ser compartilhadas nos nossos Produtos[42]:
+Pessoas e contas com quem você compartilha e se comunica
+Às vezes, ao compartilhar e se comunicar pelos nossos Produtos, você pode
+escolher o público[43] daquilo que compartilha.
+Quando você interage com pessoas ou empresas, elas podem ver o seguinte:
+O que você compartilha com elas
+Por exemplo, o público selecionado pode ver quando você realiza as seguintes
+ações:
+Compartilha um post que você escreveu
+Compartilha uma foto ou um vídeo
+Cria um story
+Compartilha um artigo de notícias
+Adiciona informações ao perfil
+O que você comunica com elas
+As pessoas com quem você interage podem ver o que você envia para elas.
+Portanto, se você envia para uma pessoa ou empresa uma mensagem no
+Messenger ou no Instagram, essa pessoa ou empresa pode ler a mensagem
+enviada.
+Parte da sua atividade
+As pessoas e as empresas também podem ver parte da sua atividade nos nossos Produtos, o que inclui as seguintes situações:
+Quando você comenta os posts de outras pessoas ou reage a eles
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 35/97
+Quando você interage com anúncios ou outros conteúdos patrocinados ou
+comerciais, como ao deixar um comentário ou uma curtida
+Quando você permite que o conteúdo que você compartilhou sobre um produto em uma Loja seja compartilhado nos nossos Produtos
+Quando você vê o story da pessoa ou da empresa no Facebook ou no
+Instagram
+Quando você conecta um novo dispositivo da Meta, como os óculos inteligentes, à sua conta
+Quando você está online
+Alguns dos nossos Produtos podem oferecer configurações que permitem que
+outras pessoas vejam quando você está online nos nossos Produtos, como o
+status online. Em alguns casos, também oferecemos configurações que permitem que outras pessoas vejam quando você está online em uma seção específica de um dos nossos Produtos (como uma conversa, um jogo ou um evento)
+ou quando foi a última vez que você usou um deles.
+Saiba como atualizar seu status online no Facebook e no Messenger ou seu
+status de atividade no Instagram.
+Quando você interage com um usuário supervisionado
+Algumas contas são supervisionadas[44]. Quando você interage com um usuário supervisionado, o pai, a mãe ou o responsável dele pode ver algumas de
+suas atividades e informações. Isso pode incluir informações como seu nome
+de usuário, sua foto de perfil e se o usuário supervisionado bloqueou você. Em
+alguns Produtos, o usuário supervisionado pode informar o pai, a mãe ou o
+responsável se ele denunciar você.
+Conteúdo que outras pessoas compartilham ou recompartilham
+sobre você
+Quem pode ver ou recompartilhar seu conteúdo
+As pessoas do seu público podem ver seu conteúdo e compartilhá-lo com outras pessoas que não fazem parte do seu público tanto dentro quanto fora dos
+nossos Produtos. Por exemplo, quando você compartilha um post ou envia
+uma mensagem para amigos específicos, eles podem baixar o conteúdo, tirar
+uma captura de tela dele ou recompartilhá-lo com qualquer pessoa dentro ou
+fora dos nossos Produtos.
+Quando você comenta em um post ou reage a uma foto, qualquer pessoa com
+acesso a um desses dois pode ver o comentário ou reação que você deixou.
+Isso pode incluir pessoas com as quais você não tem conexão. A pessoa que
+compartilhou o post também pode alterar o público a qualquer momento depois
+de você interagir com ele.
+Quando outros interagem com a IA na Meta, eles podem compartilhar informações sobre você, incluindo mensagens e conteúdo que você compartilhou[45]
+.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 36/97
+Como as informações sobre você podem ser compartilhadas
+As pessoas que usam nossos Produtos podem compartilhar informações sobre
+você com o público de preferência delas. Por exemplo, elas podem fazer o
+seguinte:
+Compartilhar uma foto ou vídeo de você em um post, comentário, story, vídeo do Reels ou mensagem
+Mencionar você em um post ou story
+Marcar você em um post, comentário, story ou localização
+Compartilhar detalhes sobre você em um post, story ou mensagem
+Caso você se sinta desconfortável com o que as outras pessoas compartilharam sobre você nos nossos Produtos, por exemplo no Facebook, é sempre
+possível denunciar posts e stories.
+Assuma o controle
+Remover uma marcação de uma foto ou post no Facebook
+Remover uma marcação de uma foto ou vídeo no Instagram
+Gerenciar marcações
+Conteúdo público
+Qual conteúdo é público?
+Algumas das suas informações e atividades são sempre públicas. Isso inclui:
+Nome;
+Nome de usuário do Facebook e do Instagram;
+Foto do perfil;
+Atividade em grupos públicos, Páginas do Facebook e canais;
+Atividade em conteúdo público; Por exemplo, seu comentário, sua classificação ou avaliação no Marketplace ou em uma conta pública do Instagram; e
+Avatares
+Outros conteúdos podem ser definidos como Públicos, incluindo posts, fotos e
+vídeos postados em seu perfil, Stories ou Reels.
+Quem pode ver o conteúdo público?
+Quando o conteúdo é público, qualquer pessoa dentro dos nossos Produtos
+pode vê-lo, inclusive, em alguns casos, fora deles e sem uma conta.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 37/97
+Por exemplo, caso você comente algo no Marketplace, em uma Página do Facebook ou em uma conta pública do Instagram ou deixe uma classificação ou
+uma avaliação, qualquer pessoa pode ver isso. É possível que o conteúdo
+apareça em qualquer um dos nossos Produtos ou que qualquer pessoa o veja,
+inclusive fora dos nossos Produtos.
+Onde é possível compartilhar conteúdo público?
+Nós, você e as pessoas que usam nossos Produtos podemos enviar conteúdo
+público (como sua foto do perfil ou informações compartilhadas em uma Página do Facebook ou em uma conta pública do Instagram) para qualquer pessoa dentro ou fora dos nossos Produtos. Por exemplo, os usuários conseguem
+compartilhar esse conteúdo em um fórum público ou ele pode aparecer em resultados de pesquisa na internet ou em nossas ferramentas de pesquisa.
+Também é possível ver, acessar, recompartilhar, ou baixar conteúdo público
+com serviços de terceiros, como os seguintes:
+APIs
+A mídia, como a TV
+Outros apps e sites conectados com nossos Produtos
+Mecanismos de pesquisa Saiba mais[46].
+Os mecanismos de busca e outros terceiros usam essas informações de
+acordo com seus próprios termos e políticas, não os da Meta.
+Assuma o controle
+Informações públicas no Facebook
+Como tornar privada uma conta pública no Instagram
+Gerenciar informações públicas
+Com parceiros integrados
+Você pode escolher se conectar com parceiros integrados[47] que usam nossos
+Produtos. Nesse caso, eles recebem informações sobre você e sua atividade.
+Os parceiros integrados podem acessar as informações públicas nos nossos Produtos. Saiba mais sobre outras informações que eles recebem e o modo como tratam suas informações:
+Quando você usa um produto ou um serviço de um parceiro
+integrado
+As informações recebidas automaticamente
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 38/97
+Quando você usa um produto ou um serviço de um parceiro integrado, ele
+pode acessar o seguinte:
+Seus posts ou seus compartilhamentos nesses produtos ou serviços
+A finalidade do seu uso
+As informações de e sobre o dispositivo usado
+As configurações de idioma que você escolheu em nossos Produtos
+Veja exemplos[48] de quando um parceiro integrado pode receber suas
+informações.
+As informações recebidas com a sua permissão
+Às vezes, os parceiros integrados pedem permissão para acessar algumas informações da sua conta do Facebook, do Instagram ou do Messenger. Na solicitação, eles explicam quais informações gostariam de acessar e permitem
+que você as compartilhe ou não.
+No Facebook, isso inclui, por exemplo, endereço de email, cidade natal e aniversário. No Instagram, isso inclui conteúdo, como fotos e vídeos, que você
+compartilhou na sua conta quando ela foi alterada para privada.
+Saiba o que acontece se você compartilha sua lista de amigos ou se eles compartilham a deles.[49]
+Registramos automaticamente quando você recebe uma solicitação de um parceiro integrado para acessar suas informações. Essas solicitações são separadas do acesso a Apps e Sites gerenciados nas configurações de anúncios do
+seu Facebook ou do seu Instagram ou nas configurações do seu dispositivo
+móvel.
+Por quanto tempo eles podem acessar suas informações
+Os apps ou os sites em que você entrou com o Login do Facebook ou que estão conectados à sua conta do Instagram podem acessar suas informações
+não públicas nos Produtos da Meta, a menos que constatemos que você não
+usou o app ou o site nos últimos 90 dias. Embora o acesso de um app às suas
+informações tenha expirado, ele ainda tem a capacidade de reter informações
+compartilhadas anteriormente.
+Recomendamos que você acesse periodicamente as suas configurações de
+Apps e de Sites para verificar quais deles continuam tendo acesso às suas informações pelo Login do Facebook ou pelo Instagram.
+Assuma o controle
+Como gerenciar apps e sites no Facebook
+Como gerenciar apps e sites no Instagram
+Gerenciar apps e sites
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 39/97
+Quando você interage com o conteúdo de outra pessoa em um
+produto ou um serviço de um parceiro integrado
+Os parceiros integrados recebem informações sobre a sua atividade quando
+você interage com outros usuários do Facebook, do Instagram ou do Messenger enquanto eles estão usando produtos ou serviços do parceiro integrado.
+Por exemplo, um gamer faz uma transmissão ao vivo no Facebook com o app
+de um Parceiro. Em seguida, você deixa um comentário na transmissão. Por
+fim, o desenvolvedor do app recebe informações sobre o seu comentário.
+Como os parceiros integrados tratam suas informações
+Os parceiros integrados tratam as informações compartilhadas de acordo com
+os termos e políticas deles e não da Meta. Leia a política de privacidade desses Parceiros nos sites ou apps deles para saber como recebem e tratam suas
+informações. Em alguns casos, eles usam um prestador de serviços separado
+para receber e tratar suas informações.
+Mais recursos
+Como a Meta analisa os apps que se integram aos nossos Produtos
+Assuma o controle
+Saiba mais sobre os públicos.
+Gerenciar apps e sites
+42
+Quais Produtos esta Política abrange?
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 40/97
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+43
+Escolhendo um público
+No Facebook, o público pode ser composto do seguinte:
+As pessoas dentro e fora do Facebook.
+Seus amigos e outras conexões, como os amigos das pessoas marcadas.
+Uma lista personalizada de pessoas.
+Você.
+Os membros de uma comunidade, como um grupo.
+No Instagram, é possível definir o público dos seus compartilhamentos. Para
+fazer isso, basta escolher entre uma conta privada ou pública. Com uma conta
+privada, apenas os seguidores aprovados veem o que você compartilha.
+Agora, com uma conta pública, qualquer pessoa, dentro ou fora dos nossos
+Produtos, inclusive se não tem uma conta, pode ver seus posts e outros conteúdos no Instagram. Para restringir o público do conteúdo, basta bloquear a
+visualização de contas individuais. Também é possível criar uma lista de amigos próximos para alguns conteúdos que somente as pessoas daquela lista
+podem ver.
+Assuma o controle
+Configurações de público
+As configurações de público são diferentes das permissões de app
+Suas configurações de público são diferentes das permissões dadas a apps e
+sites individuais para que eles acessem suas informações. Leia nossa política
+sobre como compartilhar informações com os parceiros integrados.
+44
+Supervisão
+A supervisão fornece aos supervisores escolhidos por um adolescente, como
+pai, mãe e responsável, ferramentas e insights para ajudar a dar suporte à
+conta do adolescente.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 41/97
+45
+Informações que você ou outras pessoas trocam com a
+IA na Meta
+Em todos os Produtos das Empresas da Meta, você pode interagir com os recursos e as experiências de IA generativa da Meta, chamados coletivamente
+de IA na Meta.
+Coletamos informações quando você ou outras pessoas usam ou trocam informações com a IA na Meta, como:
+Comandos que podem incluir perguntas, mensagens, mídia e outras informações que você ou outras pessoas compartilham ou enviam para a IA na
+Meta
+Respostas e outras informações que você recebe da IA na Meta. Às vezes,
+elas são fornecidas com a ajuda de nossas integrações de IA
+Ações que você solicita à IA na Meta para realizar, como personalizar o conteúdo ou os anúncios que você vê
+Feedback que você dá à IA na Meta sobre suas respostas
+46
+Mecanismos de pesquisa
+Você pode acessar suas configurações de privacidade para controlar se os
+mecanismos de pesquisa podem mostrar seu perfil ou fotos e vídeos públicos
+em resultados de pesquisa fora da Meta. Alguns conteúdos públicos ainda podem ser acessados por meio de mecanismos de pesquisa, por exemplo:
+Se você postar com seu público ou perfil definido como Público,
+Se você postar em Páginas ou contas públicas, dependendo das configurações dessa conta,
+Se o seu conteúdo público for recompartilhado por uma conta profissional
+no Instagram.
+47
+Parceiro integrado
+Um parceiro que usa tecnologias que ajudam você a se conectar a ele em
+nossos Produtos, incluindo plugins, login, experiências de finalização da com3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 42/97
+pra, jogos instantâneos e outras integrações semelhantes
+48
+Quando um parceiro integrado pode receber suas
+informações
+Por exemplo, você pode usar seu login do Facebook para jogar on‐
+line com os seus amigos da rede social. O desenvolvedor do jogo re‐
+cebe automaticamente informações sobre a sua atividade no jogo.
+Quando um parceiro integrado pode receber suas
+informações
+Ou você pode usar o botão Curtir, do Facebook, em um artigo pos‐
+tado em um site de notícias. O desenvolvedor do site recebe auto‐
+maticamente informações sobre sua curtida no artigo dele.
+49
+Compartilhando listas de amigos
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 43/97
+Quando você compartilha sua lista de amigos
+Se você usar seu login do Facebook para entrar em um app, o desenvolvedor
+dele poderá solicitar acesso à sua lista de amigos do Facebook. Veja o que
+acontece se você permitir que o desenvolvedor do app veja essas listas:
+Ele verá e acessará uma lista dos seus amigos do Facebook que usam o
+mesmo app e deram ao app permissão para acessar a lista de amigos deles. Por esse processo, ele não poderá acessar informações que não sejam
+públicas sobre seus amigos ou seguidores. Observe que o desenvolvedor
+do app receberá mais informações sobre seus amigos se eles escolherem
+compartilhá-las. Eles podem compartilhá-las fornecendo as informações diretamente ou dando ao desenvolvedor permissão para acessar informações
+das contas deles.
+Você aparecerá nas listas de amigos que os seus amigos do Facebook podem compartilhar com o mesmo app. Você tem a opção de remover essa
+permissão, ou todo o app, se posteriormente decidir que não deseja compartilhar a sua lista de amigos com um app ou que não deseja aparecer em
+outras listas de amigos compartilhadas com esse app.
+Quando seus amigos compartilham a lista de amigos deles
+Seus amigos têm a opção de compartilhar as listas de amigos deles com desenvolvedores de apps por meio do Login do Facebook. Entretanto, seus amigos não podem usar o Login do Facebook para compartilhar informações suas
+não públicas.
+Como compartilhamos informações com
+terceiros?
+Destaques
+Nós compartilhamos certas informações com:
+Anunciantes que veiculam anúncios em nossos Produtos
+Empresas que contratamos para comercializar nossos Produtos
+Empresas que contratamos para prestar serviço, como oferecer atendimento ao cliente ou realizar pesquisas
+Pesquisadores que as utilizam para realizar atividades como inovar, aprimorar a tecnologia ou melhorar a segurança das pessoas
+Não vendemos suas informações e jamais o faremos.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 44/97
+Não vendemos suas informações para ninguém e jamais o faremos. Também exigimos que os parceiros[50] e outros terceiros[51] sigam regras sobre como usar e divulgar as informações fornecidas.
+Aqui estão mais detalhes sobre as pessoas com quem compartilhamos
+informações:
+Parceiros
+Anunciantes e publishers do Audience Network
+Anunciantes
+Aos anunciantes fornecemos relatórios sobre o número e os tipos de pessoas
+que veem e interagem com seus anúncios e seu conteúdo comercial. Esses
+relatórios incluem informações sobre os dados demográficos e os interesses
+gerais das pessoas que interagem com o anúncio de um anunciante ou conteúdo comercial. Assim, os anunciantes podem conhecer melhor os respectivos públicos. Veja um exemplo[52]
+.
+Aos anunciantes e seus fornecedores, a Meta também oferece informações
+sobre o seguinte:
+Anúncios e conteúdo comercial com os quais as pessoas interagem, se
+houver
+Quando as pessoas interagiram com os anúncios e o conteúdo comercial
+Onde o anúncio ou conteúdo comercial foi mostrado (como no Instagram ou
+no Facebook)
+Nós também confirmamos quais anúncios ou conteúdo comercial dos que você
+visualizou levaram você a realizar uma ação junto a um anunciante, como baixar um app do anunciante. No entanto, não compartilhamos com esses anunciantes e seus fornecedores informações que, por si só, possam ser usadas
+para identificar ou contatar você, como nome ou endereço de email, a menos
+que você nos dê permissão[53].
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 45/97
+Publishers do Audience Network e seus fornecedores
+Com o Audience Network da Meta, os anunciantes podem publicar anúncios
+conosco que serão veiculados em outros apps e sites fora da Meta.
+Para ajudarmos a mostrar a você os anúncios nos apps e sites deles, compartilhamos informações com publishers que usam o Audience Network, e também com fornecedores que facilitam esse uso. Por exemplo, compartilhamos o
+seguinte:
+Quantas pessoas veem e interagem com anúncios nos apps dos publishers
+Informações relacionadas ou em resposta a uma solicitação do publisher
+para exibir um anúncio no seu app.
+No entanto, não compartilhamos com esses publishers e seus fornecedores informações que, por si só, possam ser usadas para identificar ou contatar você,
+como seu nome ou endereço de email, a menos que você nos dê
+permissão[53].
+Os parceiros que usam nossos serviços de análise
+As pessoas contam com nossos Produtos[54], como contas empresariais, ferramentas profissionais e Páginas do Facebook, para administrar e promover os
+negócios. As empresas usam nossos serviços de análise para entender melhor
+como as pessoas estão usando os respectivos conteúdos, recursos, produtos
+e serviços.
+Para fornecer esses serviços, usamos as informações que coletamos sobre
+você. Nós colocamos essas informações em relatórios agregados, de forma
+que os parceiros possam verificar o desempenho dos respectivos conteúdos,
+recursos, produtos e serviços e possam entender coisas como a experiência
+dos usuários com esses conteúdos, produtos e serviços.
+Esses relatórios agregam informações como as seguintes:
+Quantas pessoas interagiram com os conteúdos, os produtos ou os serviços
+de nossos parceiros
+Os dados demográficos e os interesses gerais[52] das pessoas que interagiram com o conteúdo
+A maneira como as pessoas usam os produtos e os serviços dos nossos
+parceiros para se conectarem com Produtos da Meta e o desempenho da
+conexão e das redes
+Os anunciantes também recebem outras informações. Leia nossa Política sobre como compartilhamos informações com os anunciantes.
+Os Parceiros que oferecem bens ou serviços nos nossos Produtos
+e plataformas de serviços comerciais
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 46/97
+Quando você realiza uma transação[55] ou compartilha informações com um
+vendedor, um criador de conteúdo, uma campanha de arrecadação de fundos,
+uma instituição de caridade, um prestador de serviços de pagamento ou uma
+plataforma de serviços comerciais[56], compartilhamos informações com eles e
+qualquer prestador que atue em nome deles.
+De acordo com a interação de vocês, eles recebem o seguinte:
+Informações para concluir sua transação, como informações sobre o pedido
+e o pagamento, bem como as informações de contato e de envio
+Informações para ajudar a garantir a segurança da transação, como informações sobre o seu dispositivo ou sobre a conexão
+Qualquer informação exigida pela regulamentação aplicável
+Outras informações que você opte por compartilhar com eles
+Por exemplo, se você fizer uma compra em uma loja do Instagram usando a finalização da compra, a loja receberá informações para concluir sua transação.
+Isso pode incluir os itens do seu pedido, os seus detalhes de contato e as informações de envio. Se a loja usar um provedor de serviços de pagamento,
+como o PayPal, para facilitar a transação, o provedor receberá o valor da transação, uma descrição da transação (para que ela apareça na fatura do seu
+cartão de crédito) e as informações do seu cartão de pagamento, como o
+nome do titular do cartão, o número do cartão, sua data de validade e o endereço de cobrança. Saiba mais sobre os pagamentos no Instagram.
+Parceiros integrados
+Quando você usa os produtos ou os serviços dos parceiros integrados, eles
+podem receber informações sobre você e sua atividade. Leia a Política.
+Fornecedores
+Fornecedores de mensuração
+Nós não criamos todas as mensurações e relatórios de análise por conta
+própria.
+Compartilhamos informações (como se as pessoas viram um anúncio ou interagiram com ele) com nossos parceiros de mensuração[57], que as agregam
+ou compilam para oferecer os relatórios.
+Por exemplo, um anunciante pode pedir ajuda a um fornecedor de mensuração
+para descobrir o impacto que os anúncios veiculados no Facebook tiveram sobre as vendas dele. Para isso, o fornecedor de mensuração compara informações que temos sobre cliques nos anúncios do Facebook do anunciante com
+as informações que o anunciante tem sobre compras de produtos. Em se3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 47/97
+guida, o fornecedor de mensuração cria e disponibiliza relatórios agregados
+que mostram ao anunciante o desempenho dos anúncios dele.
+Fornecedores de marketing
+Compartilhamos informações sobre você com fornecedores de marketing[58].
+Por exemplo, compartilhamos o seu identificador de dispositivo ou outros identificadores com fornecedores de marketing. Assim, eles nos ajudam a exibir
+anúncios mais pertinentes aos seus interesses.
+Os fornecedores de marketing apoiam nossos esforços de marketing e de publicidade da seguinte maneira:
+Veiculando nossos anúncios na internet, inclusive em dispositivos móveis,
+desktop e TVs conectadas.
+Rastreando e categorizando sua atividade online e em apps para celular.
+Fornecendo informações sobre os seus interesses e as interações que você
+tem com a comunidade e a publicidade.
+Esses fornecedores de marketing nos ajudam a entender quem pode achar
+nossa publicidade mais relevante para os próprios interesses e qual dos nossos produtos pode interessar a você. É possível usar essas informações para
+personalizar quais anúncios mostramos para você. Os fornecedores de marketing também usam essas informações para mensurar a resposta aos nossos
+esforços de marketing e a eficácia da nossa publicidade.
+Saiba mais[59] sobre como gerenciar os anúncios da Meta que você vê fora de
+nossos Produtos.
+Prestadores de serviços
+Prestadores de serviços
+Os prestadores de serviços oferecem serviços que nos permitem disponibilizar
+nossos Produtos a você. Compartilhamos as informações que temos sobre
+você para receber esses serviços, os quais incluem os seguintes:
+Investigar atividade suspeita
+Detectar e interromper ameaças ao nosso pessoal e aos nossos bens
+Facilitar os pagamentos
+Oferecer suporte ao cliente
+Aprimorar a funcionalidade dos nossos Produtos
+Fornecer serviços de infraestrutura técnica
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 48/97
+Analisar como nossos Produtos são usados
+Realizar pesquisas
+Comercializar e promover nossos Produtos
+Terceiros
+Pesquisadores externos
+Oferecemos informações para pesquisadores externos. Com elas, eles podem
+realizar pesquisas que fomentam conhecimento e inovação e promover segurança, proteção e integridade.
+As metas das pesquisas incluem apoiar o seguinte:
+Nossos negócios ou nossa missão
+O bem social. Saiba mais.
+O avanço tecnológico
+A segurança dos nossos Produtos
+O interesse público
+A saúde e o bem-estar
+Ao compartilhar informações com pesquisadores externos, garantimos a proteção da privacidade dos nossos usuários. Saiba mais sobre as pesquisas que
+apoiamos que preservam a privacidade.
+Integrações de IA
+Os modelos de IA generativa que fazem nossos recursos funcionarem podem
+não ter as informações mais completas ou recentes. Por exemplo, isso significa que se você perguntar à Meta AI sobre o placar da partida de futebol de
+ontem, ele pode não saber a resposta correta. É por isso que trabalhamos com
+outros parceiros selecionados, como provedores de mecanismos de busca. Às
+vezes, compartilhamos determinadas informações com esses parceiros para
+que possamos trazer as informações mais relevantes.
+Saiba mais sobre como compartilhamos suas informações com esses parceiros selecionados
+Outros terceiros
+Também compartilhamos informações com outros terceiros[51] em resposta a solicitações legais para cumprir a legislação aplicável ou evitar danos. Leia a Política.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 49/97
+E se vendermos ou transferirmos toda ou parte da nossa empresa a alguém, em alguns casos cederemos ao novo dono suas informações como parte da transação,
+mas somente conforme permitido por lei.
+50
+Parceiro
+Uma pessoa, empresa, organização ou órgão que usa os nossos Produtos ou
+se integra a eles para anunciar, comercializar ou fornecer suporte para seus
+produtos e serviços.
+51
+Terceiros
+Uma pessoa, empresa, organização ou órgão que não faz parte das empresas
+da Meta.
+52
+Dados demográficos e interesses gerais
+Por exemplo, uma loja de bicicletas cria uma Página no Facebook e quer veicular um anúncio para quem esteja em Porto Alegre e tenha interesse em ciclismo. Para determinamos se uma pessoa se encaixa nesse público, vemos
+se ela curtiu, por exemplo, uma Página sobre bicicletas. Depois, as pessoas
+desse público podem ver o anúncio da loja de bicicletas.
+Nas preferências de anúncio, é possível ver e remover os interesses atribuídos a você.
+Feito isso, a loja de bicicletas pode ver relatórios que mostram estatísticas
+agregadas sobre o público que vê os anúncios e o desempenho deles. Os relatórios mostrariam ao anunciante, por exemplo, estatísticas de que a maioria
+das pessoas que viu o anúncio ou clicou nele:
+era do sexo feminino;
+tinha entre 25 e 34 anos;
+acessou o anúncio com o smartphone.
+53
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 50/97
+Quando você pode nos dar permissão
+Por exemplo, você pode solicitar mais informações de uma empresa clicando
+no anúncio dela no Feed do Facebook e enviando um formulário com seu
+nome e suas informações de contato. Dessa forma, o anunciante receberá as
+informações que você forneceu.
+54
+Quais Produtos esta Política abrange?
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+55
+Transações que você pode realizar
+Assinatura de conteúdo premium
+Compra, venda ou uso de produtos
+Compra, venda ou uso de serviços
+Doação para instituições beneficentes
+56
+Plataformas de serviços comerciais
+As plataformas de serviços comerciais oferecem uma gama de serviços comerciais, inclusive os seguintes:
+Pagamentos
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 51/97
+Marketing
+Envio
+Ferramentas de engajamento com o cliente
+57
+Fornecedor de mensuração
+Um terceiro que cria relatórios para ajudar anunciantes a entender o desempenho do conteúdo e dos anúncios deles. Esses relatórios também mensuram se
+as pessoas realizaram alguma ação após ver o anúncio.
+58
+Fornecedor de marketing
+Um terceiro que ajuda a comercializar ou anunciar a Meta e os nossos Produtos, mensura a eficácia das nossas próprias campanhas de marketing e realiza pesquisa de publicidade
+59
+Gerenciar os anúncios que você vê em nossos Produtos
+Acesse suas preferências de anúncios.
+Gerenciar os anúncios da Meta que você vê em nossos
+Produtos
+Anunciamos nossos próprios produtos e serviços em plataformas de anúncios
+não relacionadas à Meta. Usamos fornecedores de marketing para veicular esses anúncios. Se usarmos sua atividade em nossos Produtos para personalizar esses anúncios, você poderá recusar esse tipo de uso.
+Se você tiver uma conta:
+Acesse suas preferências de anúncios para recusar.
+Se você não tiver uma conta:
+Você pode usar a plataforma de recusa do setor Digital Advertising Alliance
+no seu navegador da web. Se você mora no Canadá, é possível usar a plataforma de recusa Digital Advertising Alliance of Canada. Determinados blo3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 52/97
+queadores de anúncios e ferramentas para restringir cookies podem interferir na sua capacidade de recusar.
+Verifique as configurações do seu dispositivo móvel. Fabricantes de dispositivos oferecem diferentes maneiras de recusar.
+Como as Empresas da Meta trabalham em
+conjunto?
+Destaques
+A Meta é proprietária do Facebook, do Instagram, do Messenger, do Meta
+Quest e dos outros Produtos cobertos por esta Política
+A Meta também é proprietária das Empresas da Meta, que incluem o
+WhatsApp
+Às vezes compartilhamos informações entre essas Empresas
+Fazemos isso para elaborar novos recursos ou experiências compartilhadas
+entre diferentes produtos.
+Também compartilhamos informações, como seu nome e endereço de
+email, para facilitar a verificação de suas contas e detectar atividades suspeitas. Isso nos ajuda a manter suas contas em segurança.
+Fazemos parte das Empresas da Meta que oferecem os Produtos delas. Os Produtos das Empresas da Meta incluem todos os Produtos da Meta[60] cobertos por esta
+Política e outros produtos, como o WhatsApp, entre outros.
+Compartilhamos as informações coletadas, a infraestrutura, os sistemas e a tecnologia com as outras Empresas da Meta. Saiba mais sobre como transferimos informações para outros países.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 53/97
+Também tratamos as informações recebidas sobre você de outras Empresas da
+Meta de acordo com os termos e políticas delas e conforme permitido pelas leis
+aplicáveis. Em alguns casos, a Meta atua como prestadora de serviços[61] para outras Empresas da Meta. Atuamos em nome dessas empresas e de acordo com as
+instruções e os termos delas.
+Por que compartilhamos informações entre as Empresas
+da Meta
+Os Produtos da Meta compartilham informações com outras Empresas dela para os
+seguintes fins:
+Promover a segurança, a proteção e a integridade e cumprir as leis aplicáveis
+Personalizar ofertas, anúncios e outros conteúdos patrocinados ou comerciais
+Desenvolver, fornecer e personalizar recursos e integrações
+Entender como as pessoas usam os Produtos das Empresas da Meta e interagem com eles
+Veja alguns exemplos[62] de razões por que compartilhamos os dados.
+Mais recursos
+Leia as políticas de privacidade das outras Empresas da Meta
+60
+Quais Produtos esta Política abrange?
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+61
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 54/97
+Prestador de Serviços
+Uma pessoa, empresa, organização ou órgão que fornece serviços à Meta ou
+para nossos usuários em nome da Meta. Por exemplo, nossos prestadores de
+serviços desempenham atividades como investigar atividades suspeitas e fornecer suporte aos clientes.
+62
+Por que compartilhamos informações entre as Empre‐
+sas da Meta
+Promoção da segurança, da proteção e da integridade e cumprimento da
+lei aplicável
+Por exemplo, compartilhamos informações com as Empresas da Meta que disponibilizam produtos e serviços financeiros para ajudá-las a promover a segurança, a proteção e a integridade e a cumprir a lei aplicável. Isso inclui:
+Cumprir as obrigações legais delas.
+Ajudar a manter seguros você e as outras pessoas.
+Realizar verificação de conta.
+Investigar atividades suspeitas.
+Criar análises.
+Para esses fins, podemos compartilhar seu nome, seu endereço de email,
+seus amigos e outras informações da conta com as Empresas da Meta.
+Desenvolver e oferecer recursos e integrações
+Por exemplo, caso esteja disponível no seu país, é possível usar determinadas integrações que conectam suas experiências no WhatsApp com outros
+Produtos das Empresas da Meta. Com essas integrações, você pode fazer o
+seguinte:
+Usar sua conta do Meta Pay para pagar por itens no WhatsApp
+Conversar com amigos em outros Produtos das Empresas da Meta, como
+os óculos inteligentes, conectando a sua conta do WhatsApp
+Também compartilhamos informações com as Empresas da Meta para apoiar
+a inovação. Por exemplo, seus vídeos podem ajudar a treinar nossos produtos
+para que reconheçam objetos, como árvores, ou ações, como um cachorro
+correndo atrás de uma bola. Eles também podem ajudar a treinar ferramentas
+que permitem que pessoas e empresas criem conteúdo, como imagens e vídeos. Essa tecnologia é usada para nos ajudar a oferecer novos produtos ou
+recursos no futuro.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 55/97
+Entender como as pessoas usam nossos produtos
+Contamos o número de usuários únicos, usuários ativos mensais e usuários
+ativos diários nos nossos produtos. Essas informações nos ajudam a entender
+a comunidade que usa nossos produtos e a compartilhar publicamente tendências importantes sobre como nossos produtos são usados.
+Como você pode gerenciar ou excluir suas infor‐
+mações e exercer seus direitos?
+Destaques
+Você tem o direito de visualizar e baixar as informações que temos sobre
+você
+Você pode usar as configurações desta seção para gerenciar sua
+privacidade
+Você também pode excluir sua conta ou informações específicas da conta,
+se desejar
+Oferecemos abaixo uma variedade de ferramentas para visualizar, gerenciar, baixar
+e excluir suas informações. Você também pode gerenciar suas informações acessando as configurações dos Produtos que você usa. É possível que você tenha
+também outros direitos de privacidade previstos pelas leis aplicáveis.
+Para exercer seus direitos, acesse nossas Centrais de Ajuda, as configurações no
+Facebook e no Instagram e as configurações do dispositivo.
+Fazer uma verificação de privacidade
+Fazer uma verificação de privacidade
+Ver e gerenciar suas informações
+Acessar suas informações
+Atividade fora da Meta
+Preferências de anúncios [63]
+Gerenciar seus dados
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 56/97
+Transferir, baixar ou excluir as suas informações
+Transferir suas informações [64]
+Baixar suas informações
+Excluir suas informações ou sua conta [65]
+Saiba mais sobre como a privacidade funciona no Facebook, no Instagram e na
+Central de Ajuda do Facebook. Se tiver dúvidas sobre esta política, entre em contato conosco, conforme descrito abaixo. Em alguns países, talvez você também
+possa entrar em contato com o Encarregado da Proteção dos Dados da Meta Platforms, Inc. Dependendo da sua jurisdição, pode ser que você consiga contatar diretamente a Autoridade de Proteção de Dados (“DPA”, na sigla em inglês) local.
+63
+Gerenciar os anúncios que você vê em nossos Produtos
+Acesse suas preferências de anúncios.
+Gerenciar os anúncios da Meta que você vê em nossos
+Produtos
+Anunciamos nossos próprios produtos e serviços em plataformas de anúncios
+não relacionadas à Meta. Usamos fornecedores de marketing para veicular esses anúncios. Se usarmos sua atividade em nossos Produtos para personalizar esses anúncios, você poderá recusar esse tipo de uso.
+Se você tiver uma conta:
+Acesse suas preferências de anúncios para recusar.
+Se você não tiver uma conta:
+Você pode usar a plataforma de recusa do setor Digital Advertising Alliance
+no seu navegador da web. Se você mora no Canadá, é possível usar a plataforma de recusa Digital Advertising Alliance of Canada. Determinados bloqueadores de anúncios e ferramentas para restringir cookies podem interferir na sua capacidade de recusar.
+Verifique as configurações do seu dispositivo móvel. Fabricantes de dispositivos oferecem diferentes maneiras de recusar.
+64
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 57/97
+Transferir suas informações
+Em certos casos, e sujeito à legislação aplicável, você tem o direito de transferir suas informações.
+65
+Excluir suas informações ou sua conta
+Para excluir suas informações, você pode:
+Localizar e excluir informações específicas. Oferecemos ferramentas
+que você pode usar para excluir determinadas informações. Por exemplo,
+para excluir conteúdo que você postou na sua conta, basta clicar no botão
+Excluir. Também é possível usar ferramentas, como registro de atividades,
+no Facebook para enviar uma grande quantidade de conteúdo para a lixeira. Quando você exclui conteúdo, outros usuários não podem vê-lo mais.
+Acesse a Central de Ajuda do Facebook ou a Central de Ajuda do Instagram
+para saber o que acontece quando você exclui conteúdo ou o envia para a
+lixeira.
+Excluir permanentemente sua conta. Caso você exclua sua conta do Facebook ou do Instagram, nós excluímos suas informações, incluindo posts,
+como fotos e atualizações de status, a menos que seja necessário manter
+essas informações, conforme descrito em “Por quanto tempo mantemos
+suas informações?”. Quando sua conta for excluída permanentemente,
+você não conseguirá reativá-la nem recuperar informações, incluindo o conteúdo postado.
+Quanto tempo leva para excluir suas informações?
+Caso você solicite a exclusão da sua conta ou do seu conteúdo, isso pode demorar até 90 dias após o início do processo de exclusão da conta ou após o
+recebimento de um pedido de exclusão de conteúdo. Excluídas as informações, podemos levar mais 90 dias para removê-las dos nossos sistemas de
+backup e de recuperação de desastres.
+Se você deixa o conteúdo excluído na lixeira do Facebook ou na pasta Excluídos recentemente do Instagram, o processo de exclusão começa automaticamente em 30 dias. Também é possível iniciar o processo de exclusão imediatamente excluindo o conteúdo da lixeira ou da pasta Excluídos recentemente.
+Por quanto tempo mantemos suas informações?
+Destaques
+Retemos as informações pelo tempo necessário para fornecer um recurso
+ou serviço
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 58/97
+Mas você pode solicitar que suas informações sejam excluídas
+Faremos isso a não ser que tenhamos que retê-las por outro motivo, como
+por motivos legais
+Mantemos as informações pelo tempo necessário para oferecer nossos Produtos,
+cumprir as obrigações legais ou proteger nossos interesses ou os de outras pessoas. Decidimos por quanto tempo precisamos delas conforme o caso. Consideramos os seguintes fatores para tomar uma decisão:
+Se precisamos das informações para operar ou oferecer nossos Produtos. Por
+exemplo, precisamos reter alguns dos seus dados para manter sua conta. Saiba
+mais[66].
+O recurso para o qual usamos essas informações e como ele funciona. Por
+exemplo, as mensagens enviadas no modo temporário do Messenger são retidas
+por menos tempo do que as normais. Saiba mais[67].
+Durante quanto tempo precisamos reter as informações para cumprir certas obrigações legais. Veja alguns exemplos[68]
+.
+Se precisamos dessas informações para outros fins legítimos, como evitar danos; investigar possíveis violações dos nossos termos ou políticas; promover a
+segurança, a proteção e a integridade; ou proteger a nós mesmos, incluindo nossos direitos, nossa propriedade ou nossos produtos
+Em alguns casos, e por razões específicas, manteremos as informações por um período prolongado. Leia nossa Política[69] sobre os casos em que podemos reter
+suas informações.
+66
+Se precisarmos das informações para operar ou ofere‐
+cer nossos Produtos
+Por exemplo, mantemos informações do perfil, fotos postadas (e não excluídas) e informações de segurança enquanto sua conta está ativa.
+Quando você pesquisa algo no Facebook, mantemos o histórico da sua pesquisa até você limpá-la do registro de atividades ou excluir sua conta. Após a
+limpeza de uma pesquisa ou a exclusão da sua conta, você não verá mais a
+pesquisa, e ela será excluída[70].
+Mas, independentemente disso, no prazo de seis meses da sua pesquisa, excluiremos informações sobre ela que não sejam necessárias para mostrar seu
+histórico de pesquisa, como informações sobre o dispositivo usado ou sua
+localização.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 59/97
+67
+O recurso para o qual usamos essas informações e como ele
+funciona
+Por exemplo, Beatriz está planejando uma festa surpresa para Dori‐
+val. Com o modo temporário ativado, ela envia à Cíntia os detalhes
+da festa pelo Messenger para que a mensagem desapareça. A men‐
+sagem não aparecerá mais para Beatriz quando ela sair da conversa.
+Já Cíntia verá a mensagem somente a primeira vez que abrir a
+conversa.
+Depois que ela ler a mensagem, o conteúdo será excluído depois de
+uma hora. Se Cíntia nunca a ler, a mensagem será excluída depois de
+14 dias.
+68
+Quanto tempo precisamos reter as informações para
+cumprir certas obrigações legais
+Por exemplo, retemos as informações pelo tempo necessário para responder
+ao seguinte:
+Uma solicitação ou obrigação legal, incluindo obrigações das Empresas da
+Meta ou para cumprir a lei aplicável
+Uma investigação do governo
+Uma ação judicial, uma denúncia, um litígio ou ações regulatórias
+69
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 60/97
+Por que podemos manter suas informações por mais
+tempo
+Suas informações, incluindo dados de transações financeiras relacionados a
+compras ou transferências de dinheiro feitas em nossos Produtos, podem ser
+preservadas e acessadas por um período mais longo caso estejam relacionadas ao seguinte:
+Uma solicitação ou obrigação legal, incluindo obrigações das Empresas da
+Meta ou para cumprir a lei aplicável
+Uma investigação do governo
+Uma investigação de possíveis violações dos nossos termos ou políticas.
+Evitar danos.
+Fins de segurança, proteção e integridade
+Proteger-nos, incluindo nossos direitos, nossa propriedade ou nossos
+Produtos.
+Se for necessário em relação a uma ação judicial, denúncia, litígio ou ações
+regulatórias.
+Veja alguns exemplos[71].
+Em alguns casos, podemos preservar suas informações com base nas razões
+acima mesmo depois que você solicitar a exclusão da sua conta ou de algum
+dos seus conteúdos. Também podemos manter informações de contas que foram desativadas e conteúdo que foi removido por violação dos nossos termos
+e políticas.
+70
+Excluir suas informações ou sua conta
+Para excluir suas informações, você pode:
+Localizar e excluir informações específicas. Oferecemos ferramentas
+que você pode usar para excluir determinadas informações. Por exemplo,
+para excluir conteúdo que você postou na sua conta, basta clicar no botão
+Excluir. Também é possível usar ferramentas, como registro de atividades,
+no Facebook para enviar uma grande quantidade de conteúdo para a lixeira. Quando você exclui conteúdo, outros usuários não podem vê-lo mais.
+Acesse a Central de Ajuda do Facebook ou a Central de Ajuda do Instagram
+para saber o que acontece quando você exclui conteúdo ou o envia para a
+lixeira.
+Excluir permanentemente sua conta. Caso você exclua sua conta do Facebook ou do Instagram, nós excluímos suas informações, incluindo posts,
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 61/97
+como fotos e atualizações de status, a menos que seja necessário manter
+essas informações, conforme descrito em “Por quanto tempo mantemos
+suas informações?”. Quando sua conta for excluída permanentemente,
+você não conseguirá reativá-la nem recuperar informações, incluindo o conteúdo postado.
+Quanto tempo leva para excluir suas informações?
+Caso você solicite a exclusão da sua conta ou do seu conteúdo, isso pode demorar até 90 dias após o início do processo de exclusão da conta ou após o
+recebimento de um pedido de exclusão de conteúdo. Excluídas as informações, podemos levar mais 90 dias para removê-las dos nossos sistemas de
+backup e de recuperação de desastres.
+Se você deixa o conteúdo excluído na lixeira do Facebook ou na pasta Excluídos recentemente do Instagram, o processo de exclusão começa automaticamente em 30 dias. Também é possível iniciar o processo de exclusão imediatamente excluindo o conteúdo da lixeira ou da pasta Excluídos recentemente.
+71
+Exemplos do motivo pelo qual mantemos suas
+informações
+Atender a uma solicitação legal
+Por exemplo, podemos manter suas informações após a exclusão da sua
+conta quando recebermos uma solicitação legal válida, como ordem de preservação ou mandado de busca, em relação à sua conta.
+Cumprir a lei aplicável
+Por exemplo, preservamos determinadas informações sobre compras ou transações associadas a uma conta, de acordo com as obrigações contábeis da
+Meta.
+Fins de segurança, proteção e integridade
+Por exemplo, se desativarmos uma conta por violação dos nossos termos ou
+políticas, manteremos as informações sobre tal usuário para evitar que ele
+abra uma nova conta.
+Também podemos manter algumas das informações da sua conta como parte
+da nossa análise de atividade suspeita. Isso inclui qualquer atividade suspeita
+associada aos nossos produtos financeiros, como suspeita de lavagem de dinheiro ou de financiamento de terrorismo.
+Litígio
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 62/97
+Podemos manter suas informações se julgarmos necessário por motivos relacionados a uma ação judicial ou reclamação. Por exemplo, talvez seja necessário nos defendermos em processos judiciais de uma alegação relacionada
+às suas informações.
+Como transferimos as informações?
+Destaques
+Como nós conectamos pessoas no mundo inteiro, precisamos transferir informações no mundo inteiro também
+Quando fazemos isso, seguimos os regulamentos internacionais para manter as suas informações em segurança
+Por que as informações são transferidas para outros países?
+Compartilhamos as informações que coletamos globalmente, tanto internamente, em nossos escritórios e data centers, quanto externamente, com nossos parceiros[72]
+, fornecedores de mensuração[73], prestadores de serviços[74]
+e outros terceiros[75]. Como a Meta é internacional, com usuários, parceiros e
+funcionários no mundo inteiro, as transferências são necessárias por vários
+motivos, incluindo os seguintes:
+Para podermos operar e oferecer os serviços declarados nos termos do Produto da Meta[76] que você está usando e desta Política. Isso inclui permitir
+que você compartilhe informações e se conecte com a família e os amigos
+no mundo inteiro.
+Para corrigirmos, analisarmos e aprimorarmos nossos Produtos.
+Para onde as informações são transferidas?
+Suas informações serão transferidas ou transmitidas para os seguintes lugares
+ou armazenadas e tratadas neles:
+Locais onde temos infraestrutura e data centers, incluindo os Estados Unidos, a Irlanda, a Dinamarca e a Suécia, entre outros.
+Países onde os Produtos das Empresas da Meta estão disponíveis.
+Outros países onde nossos parceiros, fornecedores, prestadores de serviços e outros terceiros estão localizados fora do seu país de residência, para
+os fins descritos nesta Política.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 63/97
+Como protegemos suas informações?
+Contamos com mecanismos apropriados[77] para transferências internacionais
+de dados.
+Também aplicamos proteções apropriadas sempre que transferimos suas informações. Por exemplo, criptografamos as informações quando elas estão em
+trânsito por redes públicas para protegê-las contra acesso não autorizado.
+72
+Parceiro
+Uma pessoa, empresa, organização ou órgão que usa os nossos Produtos ou
+se integra a eles para anunciar, comercializar ou fornecer suporte para seus
+produtos e serviços.
+73
+Fornecedor de mensuração
+Um terceiro que cria relatórios para ajudar anunciantes a entender o desempenho do conteúdo e dos anúncios deles. Esses relatórios também mensuram se
+as pessoas realizaram alguma ação após ver o anúncio.
+74
+Prestador de Serviços
+Uma pessoa, empresa, organização ou órgão que fornece serviços à Meta ou
+para nossos usuários em nome da Meta. Por exemplo, nossos prestadores de
+serviços desempenham atividades como investigar atividades suspeitas e fornecer suporte aos clientes.
+75
+Terceiros
+Uma pessoa, empresa, organização ou órgão que não faz parte das empresas
+da Meta.
+76
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 64/97
+Quais Produtos esta Política abrange?
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+77
+Mecanismos que usamos para transferências globais de
+dados
+Contamos com mecanismos apropriados para transferências internacionais de
+dados. Por exemplo, para informações que coletamos:
+Usamos cláusulas contratuais padrão aprovadas pela Comissão Europeia e
+por outras autoridades relevantes.
+Recorremos às determinações da Comissão Europeia, e de outras autoridades relevantes, sobre se outros países têm níveis adequados de proteção
+dos dados.
+Usamos mecanismos equivalentes segundo as leis aplicáveis que se referem a transferências de dados para os Estados Unidos e outros países
+relevantes.
+Como respondemos a solicitações legais, cumpri‐
+mos a legislação aplicável e prevenimos danos?
+Destaques
+Às vezes temos que fornecer informações para atender a solicitações legais, quando necessário.
+Se uma lei diz que precisamos manter suas informações por algum motivo,
+nós devemos cumpri-la. Portanto, manteremos as informações para cumprir
+a lei em questão.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 65/97
+Às vezes também mantemos informações que acreditamos que ajudarão a
+impedir ou interromper atividades prejudiciais, seja nos nossos Produtos,
+seja no mundo.
+Acessamos, preservamos e compartilhamos suas informações para os seguintes
+fins:
+Em resposta a solicitações legais, como mandados de busca, ordens judiciais,
+ordens de produção ou intimações. Essas solicitações são feitas por terceiros[78],
+como advogados cíveis, autoridades policiais e outras autoridades públicas.
+Saiba mais[79] sobre quando atendemos às solicitações legais.
+De acordo com a legislação aplicável
+Para promover a segurança, a proteção e a integridade dos Produtos[80], dos
+usuários, dos funcionários, das propriedades e do público da Meta. Saiba
+mais[81].
+Podemos acessar ou preservar suas informações por um período estendido. Saiba
+mais[82].
+78
+Terceiros
+Uma pessoa, empresa, organização ou órgão que não faz parte das empresas
+da Meta.
+79
+Quando atendemos às solicitações legais
+Atendemos às solicitações legais quando a lei assim o exige, e quando não
+somos obrigados por lei, mas uma resposta:
+Pode afetar os usuários da jurisdição; e
+É consistente com padrões reconhecidos internacionalmente, incluindo, por
+exemplo, nossa Política Corporativa sobre Direitos Humanos.
+Saiba mais sobre solicitações de governos e como respondemos a elas.
+80
+Quais Produtos esta Política abrange?
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 66/97
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+81
+Como promovemos a segurança, a proteção e a
+integridade
+Compartilhamos as suas informações com a polícia, autoridades governamentais, Empresas da Meta e outros terceiros (incluindo empresas do setor) caso
+julguemos necessário para detectar, prevenir e resolver várias situações,
+como as seguintes:
+Uso não autorizado dos nossos Produtos. Veja um exemplo.[83]
+Violações dos nossos termos e políticas. Veja um exemplo.[84]
+Investigar atividade suspeita
+Proteger-nos, incluindo nossos direitos, propriedade, colaboradores ou
+Produtos.
+Prevenir abuso, fraude ou outra atividade prejudicial ou ilegal, dentro e fora
+dos nossos Produtos.
+Proteger você ou outras pessoas, incluindo como parte de investigações ou
+inspeções regulatórias.
+Emergências, como risco de morte ou lesão corporal iminente.
+82
+Por que podemos manter suas informações por mais
+tempo
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 67/97
+Suas informações, incluindo dados de transações financeiras relacionados a
+compras ou transferências de dinheiro feitas em nossos Produtos, podem ser
+preservadas e acessadas por um período mais longo caso estejam relacionadas ao seguinte:
+Uma solicitação ou obrigação legal, incluindo obrigações das Empresas da
+Meta ou para cumprir a lei aplicável
+Uma investigação do governo
+Uma investigação de possíveis violações dos nossos termos ou políticas.
+Evitar danos.
+Fins de segurança, proteção e integridade
+Proteger-nos, incluindo nossos direitos, nossa propriedade ou nossos
+Produtos.
+Se for necessário em relação a uma ação judicial, denúncia, litígio ou ações
+regulatórias.
+Veja alguns exemplos[85].
+Em alguns casos, podemos preservar suas informações com base nas razões
+acima mesmo depois que você solicitar a exclusão da sua conta ou de algum
+dos seus conteúdos. Também podemos manter informações de contas que foram desativadas e conteúdo que foi removido por violação dos nossos termos
+e políticas.
+83
+Uso não autorizado dos nossos Produtos
+Por exemplo, se você coletar e usar ilegalmente dados de usuário do Facebook, poderemos compartilhar suas informações para nos defendermos de
+alegações ou em caso de litígio.
+84
+Violações dos nossos termos e políticas
+Por exemplo, se você postar conteúdo prejudicial ou ameaçador, poderemos
+compartilhar suas informações entre as Empresas da Meta para proteger a
+nós e às outras pessoas. Também é possível que o seu acesso a determinados recursos seja bloqueado ou que a sua conta nas Empresas da Meta seja
+desativada.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 68/97
+85
+Exemplos do motivo pelo qual mantemos suas
+informações
+Atender a uma solicitação legal
+Por exemplo, podemos manter suas informações após a exclusão da sua
+conta quando recebermos uma solicitação legal válida, como ordem de preservação ou mandado de busca, em relação à sua conta.
+Cumprir a lei aplicável
+Por exemplo, preservamos determinadas informações sobre compras ou transações associadas a uma conta, de acordo com as obrigações contábeis da
+Meta.
+Fins de segurança, proteção e integridade
+Por exemplo, se desativarmos uma conta por violação dos nossos termos ou
+políticas, manteremos as informações sobre tal usuário para evitar que ele
+abra uma nova conta.
+Também podemos manter algumas das informações da sua conta como parte
+da nossa análise de atividade suspeita. Isso inclui qualquer atividade suspeita
+associada aos nossos produtos financeiros, como suspeita de lavagem de dinheiro ou de financiamento de terrorismo.
+Litígio
+Podemos manter suas informações se julgarmos necessário por motivos relacionados a uma ação judicial ou reclamação. Por exemplo, talvez seja necessário nos defendermos em processos judiciais de uma alegação relacionada
+às suas informações.
+Como você saberá que a Política foi alterada?
+Nós lhe enviaremos uma notificação antes de alterar esta Política. Você terá a oportunidade de ler a versão modificada antes de decidir continuar usando nossos
+Produtos.
+Aviso de privacidade para residentes nos Esta‐
+dos Unidos
+Saiba mais sobre os direitos de privacidade do consumidor que podem estar disponíveis no aviso de privacidade regional dos Estados Unidos.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 69/97
+Como entrar em contato com a Meta em caso de
+dúvidas
+Saiba mais sobre como a privacidade funciona no Facebook, no Instagram e na
+Central de Ajuda do Facebook. Se você tem dúvidas sobre esta Política ou perguntas, queixas ou solicitações relacionadas às suas informações, entre em contato conosco conforme descrito abaixo.
+Você pode entrar em contato conosco online ou por correio:
+Meta Platforms, Inc.
+ATTN: Privacy Operations
+1 Meta Way
+Menlo Park, CA 94025
+Por que e como tratamos suas informações
+Veja abaixo as categorias de informações usadas, por que tratamos as informações
+e como isso é feito:
+Personalização dos Produtos da Meta
+Por que e como tratamos suas informações:
+Personalização dos Produtos da Meta[86]: nossos sistemas tratam automaticamente as informações que coletamos e armazenamos sobre você e outras
+pessoas. O objetivo disso é avaliar e compreender seus interesses e suas preferências, bem como proporcionar experiências personalizadas nos Produtos
+das Empresas da Meta de acordo com nossos termos. É assim que nós:
+Personalize recursos e conteúdo (como seu Feed do Facebook, Feed do
+Instagram, IA na Meta e Stories);
+Personalizamos os anúncios que as pessoas veem; e
+Apresentamos sugestões para você (como pessoas que talvez você conheça, grupos ou eventos que podem ser do seu interesse ou tópicos que
+você pode querer seguir) dentro e fora dos nossos Produtos.
+Nosso sistema de anúncios prioriza qual anúncio será exibido a você com
+base no público que os anunciantes desejam alcançar. Em seguida, veiculamos o anúncio para pessoas potencialmente interessadas. Saiba mais[87] sobre como funciona nosso sistema de anúncios.
+Saiba mais sobre como escolhemos os anúncios que você vê.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 70/97
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Os metadados[88] sobre conteúdo
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo[89]
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do dispositivo,
+como localização de GPS
+Informações relacionadas à localização
+Informações sobre a rede à qual você conecta o dispositivo
+Os relatórios sobre o desempenho dos nossos produtos no seu dispositivo
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 71/97
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+Em relação aos usuários do WhatsApp, saiba mais sobre quais informações
+são compartilhadas com a Meta
+Associação das suas contas
+Por que e como tratamos suas informações:
+Se você decidir adicionar uma conta do WhatsApp a uma Central de Contas
+com outras contas nos Produtos das Empresas da Meta:
+Para associar suas contas em Produtos das Empresas da Meta à sua conta
+do WhatsApp na mesma Central de Contas e compartilhar suas informações
+com o WhatsApp.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Observação: a lista abaixo é sobre informações da Meta. Para obter informações que o WhatsApp compartilha com a Meta, consulte o artigo da Central de
+Ajuda do WhatsApp.
+Sua atividade e as informações que você fornece
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos
+Oferecer e aprimorar os Produtos da Meta
+Por que e como tratamos suas informações:
+Fornecimento e melhoria dos nossos Produtos da Meta: o fornecimento dos
+Produtos da Meta inclui a coleta, o armazenamento e, quando relevante, o
+compartilhamento, a definição de perfil, a análise e a seleção e, em alguns ca3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 72/97
+sos, não apenas o tratamento automático de dados, mas também a análise
+manual (humana) para fazer o seguinte:
+criar e manter sua conta e seu perfil;
+conectar sua conta de Produtos da Meta, incluindo as informações de seu
+perfil público, a um parceiro integrado para fazer login ou compartilhar suas
+informações;
+facilitar o compartilhamento de conteúdo e de status;
+oferecer e selecionar recursos;
+fornecer serviços de envio de mensagens, a capacidade de fazer ligações
+de voz e de vídeo e se conectar com outras pessoas;
+fornecer novos produtos de publicidade;
+Compreender e permitir a criação de conteúdo como texto, áudio, imagens e
+vídeos, inclusive por meio da IA na Meta,
+realizar análises;
+facilitar suas compras e pagamentos no Meta Pay ou em outras experiências de finalização de compra da Meta, e
+verificar se nossos Produtos estão funcionando corretamente, como solucionar problemas e consertá-los quando não estiverem funcionando.
+Também usamos informações para desenvolver, pesquisar e testar melhorias
+nos Produtos da Meta. Usamos as informações que temos para:
+Desenvolver e melhorar novos produtos e recursos;
+Criar e testar produtos e recursos novos para ver se eles funcionam;
+Coletar feedback sobre ideias para produtos ou recursos; e
+Realizar pesquisas e outros levantamentos sobre o que você gosta em nossos Produtos e marcas e sobre o que podemos melhorar nos Produtos da
+Meta e nas marcas.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 73/97
+Suas informações de perfil público (incluindo seu nome, nome de usuário e
+foto do perfil)
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+As mensagens enviadas e recebidas, incluindo o conteúdo, sujeitas às leis
+aplicáveis
+Os metadados sobre conteúdo e mensagens, sujeitos às leis aplicáveis
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas, incluindo informações separadas do cartão de crédito
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Sua foto ou selfie de vídeo, se você a fornecer quando entrar em contato conosco para obter suporte para conta
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP[90]
+Informações de cookies e tecnologias semelhantes
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 74/97
+Informações de parceiros, de fornecedores e de terceiros
+Desenvolvimento e aprimoramento da IA na Meta
+Por que e como tratamos suas informações:
+Desenvolver e melhorar a IA na Meta para Produtos da Meta e para terceiros.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+Conteúdo público que você ou outras pessoas criam ou compartilham, como
+posts, comentários ou áudio em Produtos da Meta
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens.
+Informações de parceiros, de fornecedores e de terceiros
+Promoção da segurança, da proteção e da integridade
+Por que e como tratamos suas informações:
+Promoção da segurança, da proteção e da integridade nos Produtos da Meta:
+os Produtos da Meta são criados para fazer pesquisas e ajudar a garantir a segurança e a integridade deles e das pessoas que os usam, dentro e fora dos
+Produtos da Meta. Tratamos informações que associamos a você e aplicamos
+técnicas de tratamento automatizado e, em alguns casos, realizamos a análise
+manual (humana) para fazer o seguinte:
+Verificar contas e atividades;
+Encontrar e resolver violações dos nossos termos e políticas. Em alguns casos, as decisões que tomamos sobre violações passam pela análise do Comitê de Supervisão;
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 75/97
+Investigar atividade suspeita;
+Detectar, prevenir e combater comportamentos prejudiciais ou ilegais, como
+analisar e, em alguns casos, remover o conteúdo denunciado;
+Identificar e combater disparidades e preconceitos contra comunidades historicamente marginalizadas;
+Proteger a vida, a saúde física ou mental, o bem-estar ou a integridade dos
+nossos usuários ou de outras pessoas;
+Detectar e evitar spam, bem como outras questões de segurança e más
+experiências;
+Detectar e impedir ameaças ao nosso pessoal e aos nossos bens; e
+Manter a integridade dos nossos Produtos.
+Para saber mais sobre segurança e integridade nos Produtos da Meta, acesse
+a Central de Ajuda do Facebook e as Dicas de Segurança do Instagram.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+As mensagens enviadas e recebidas, incluindo o conteúdo, sujeitas às leis
+aplicáveis
+Os metadados sobre conteúdo e mensagens, sujeitos às leis aplicáveis
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas, incluindo informações separadas do cartão de crédito
+As hashtags usadas
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 76/97
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Sua foto ou selfie de vídeo, se você a fornecer quando entrar em contato conosco para obter suporte para conta
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+Comunicação com você
+Por que e como tratamos suas informações:
+Para nos comunicar com você: usamos as informações que você nos deu
+(como as de contato no perfil) para lhe enviar comunicações, como emails ou
+avisos no produto:
+Entraremos em contato por email ou por notificações durante o uso do produto para falar dos Produtos da Meta, de questões relacionadas a produtos
+ou de pesquisas ou para informar algo sobre os nossos termos e políticas.
+Também usamos informações de contato, como o seu endereço de email, para
+responder quando você entra em contato conosco.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 77/97
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+As informações de contato no perfil e as comunicações que você tem
+conosco
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+As informações de cookies e tecnologias semelhantes.
+Transferir, armazenar ou tratar suas informações globalmente
+Por que e como tratamos suas informações:
+Transferência, armazenamento ou tratamento internacionais das suas informações, inclusive de/para os Estados Unidos e outros países: compartilhamos as
+informações que coletamos internacionalmente, tanto com nossos escritórios e
+data centers quanto com nossos parceiros[91], terceiros[92] e prestadores de
+serviços[93]. Como a Meta é internacional, com usuários, parceiros, fornecedores e funcionários no mundo inteiro, as transferências são necessárias para fazer o seguinte:
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 78/97
+Operar e prestar os serviços descritos nos termos que se aplicam a um ou
+mais Produtos da Meta que você usa. Isso inclui permitir que você compartilhe informações e se conecte com a família e os amigos no mundo inteiro; e
+Corrigir, analisar e aprimorar nossos Produtos.
+Para mais informações, leia a seção “Como transferimos as informações?” da
+Política de Privacidade da Meta.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Os metadados sobre conteúdo e mensagens, sujeitos às leis aplicáveis
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas, incluindo informações separadas do cartão de crédito
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Sua foto ou selfie de vídeo, se você a fornecer quando entrar em contato conosco para obter suporte para conta
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 79/97
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+Tratamento de informações com proteções especiais
+Por que e como tratamos suas informações:
+Tratamento de informações com proteções especiais conferidas por leis aplicáveis que você fornece para que possamos compartilhá-las com quem você escolher, bem como para personalizar e aprimorar nossos Produtos e realizar
+análises. Vamos coletar, armazenar, publicar e utilizar tratamento automatizado, e às vezes manual (humano), para esses fins.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+Qualquer informação com proteções especiais que você decida fornecer,
+como religião, orientação sexual, opinião política, saúde, origem racial ou étnica, convicções filosóficas ou filiação a sindicatos, ou como parte de pesquisas das quais você participa e quando há consentimento explícito da sua
+parte
+Uso de informações de terceiros para personalizar anúncios
+Por que e como tratamos suas informações:
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 80/97
+Recebimento e uso de informações de terceiros para personalizar os anúncios
+que você vê: usaremos as informações que os anunciantes, as empresas e outros parceiros nos oferecem sobre a atividade fora dos Produtos das Empresas
+da Meta e que associamos a você para personalizar os anúncios exibidos a
+você nos nossos Produtos, e em sites, apps e dispositivos que usam nossos
+serviços de publicidade. Recebemos essas informações independentemente
+de você ter ou não feito login ou ter ou não uma conta nos nossos Produtos.
+Para obter mais informações, consulte a Política de Cookies.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+As informações e o conteúdo fornecidos, como nome ou endereço de email
+Informações de parceiros, de fornecedores e de terceiros
+Compartilhamento de informações com terceiros mediante sua solicitação
+Por que e como tratamos suas informações:
+Compartilhamento com terceiros do seu contato, do seu perfil ou de outras informações mediante sua solicitação: O tipo de terceiro e as categorias de informações compartilhadas dependem das circunstâncias do que você nos solicita
+que compartilhemos. Por exemplo:
+Compartilhamos o seu email ou outras informações de contato ou outros dados que você venha a escolher ao nos instruir a compartilhá-los com um
+anunciante para que ele entre em contato com mais informações sobre um
+produto promovido, e
+Se você decidir integrar outros apps, jogos ou sites com Produtos da Meta e
+fizer login, compartilharemos as suas informações com o app, jogo ou site
+para realizar o login.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 81/97
+Sua atividade e as informações que você fornece:
+Informações como as de contato ou do perfil
+O conteúdo criado, como posts ou comentários
+Oferecer serviços de mensuração, análise e negócios
+Por que e como tratamos suas informações:
+Oferecer serviços de mensuração, análise e negócios:
+Nossos sistemas tratam automaticamente, com algum tratamento manual (humano), os dados coletados e armazenados sobre você e outras pessoas. Usamos essas informações para fazer o seguinte:
+Oferecer insights e relatórios de mensuração para empresas, anunciantes e
+outros parceiros a fim de ajudá-los a mensurar a eficácia e a distribuição
+dos anúncios, do conteúdo e dos serviços deles ou dos seus clientes e entender os tipos de pessoas que estão vendo o conteúdo e os anúncios deles
+e como esse conteúdo e anúncios estão funcionando dentro e fora dos Produtos da Meta; e
+Providenciar análises de usuário agregadas e relatórios de insights que ajudam usuários, empresas, anunciantes e outros parceiros a entender melhor
+os públicos com os quais querem se conectar, bem como os tipos de pessoas que usam os serviços deles e como interagem com o conteúdo, os sites, os apps e os serviços deles.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 82/97
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Oferecer uma experiência integrada
+Por que e como tratamos suas informações:
+Compartilhamento de informações entre as empresas da Meta:
+Para proporcionar uma experiência inovadora que seja integrada, consistente e mais rica em todos os Produtos das Empresas da Meta a fim de permitir interações entre apps, compartilhamento, visualização e engajamento
+com conteúdo (incluindo posts e vídeos).
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informa3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 83/97
+ções). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Os metadados sobre conteúdo
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Em relação aos usuários do WhatsApp, saiba mais sobre quais informações
+são compartilhadas com a Meta
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 84/97
+Análises e inteligência de negócios
+Por que e como tratamos suas informações:
+Análises e inteligência de negócios:
+Para entender, de forma agregada, seu uso dos nossos Produtos, para contar as pessoas e as empresas com precisão; e
+Para validar métricas diretamente relacionadas, a fim de informar e melhorar
+a direção e o desenvolvimento de produtos e cumprir as obrigações de relatórios (acionistas/ganhos).
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Os metadados sobre conteúdo e mensagens, sujeitos às leis aplicáveis
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 85/97
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+Personalização de anúncios no Meta Audience Network
+Por que e como tratamos suas informações:
+Identificação de você como usuário dos Produtos da Meta e personalização
+dos anúncios que mostramos pelo Meta Audience Network quando você
+acessa outros apps:
+Quando mostramos anúncios pelo Meta Audience Network no momento em
+que você acessa outros apps, nossos sistemas tratam automaticamente as
+informações coletadas e armazenadas sobre você e outras pessoas para
+identificar você como usuário de um Produto da Meta e personalizar os
+anúncios vistos por você.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+Informações fornecidas por você
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 86/97
+Os metadados sobre conteúdo
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Envio de comunicações de marketing
+Por que e como tratamos suas informações:
+Envio de comunicações de marketing para você:
+De acordo com as suas configurações, e conforme permitido pela lei aplicável, compartilharemos comunicações de marketing com você.
+Coletaremos e armazenaremos suas informações e as usaremos para lhe
+enviar comunicações de marketing, como um email, conforme permitido pe3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 87/97
+las leis aplicáveis.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+As informações e o conteúdo fornecidos, incluindo informações de contato,
+como endereço de email
+Informações de apps, de navegadores e de dispositivos:
+Identificadores de dispositivo
+Realização de pesquisa e inovação pelo bem social
+Por que e como tratamos suas informações:
+Pesquisa e inovação pelo bem social:
+Realizamos pesquisas e usamos informações (inclusive dos pesquisadores
+com quem colaboramos) para conduzir e apoiar pesquisas e inovação em
+tópicos relacionados a bem-estar social geral, avanço tecnológico, interesse
+público, saúde e bem-estar.
+Por exemplo, analisamos as informações que temos sobre padrões de migração durante crises. Isso ajuda as organizações humanitárias a prestar
+apoio aos lugares certos.
+Coletamos, armazenamos, combinamos, analisamos e aplicamos técnicas
+de tratamento automatizado, como a agregação de informações e a análise
+manual (humana), e compartilhamos informações, conforme necessário
+para realizar pesquisas e inovar pelo bem social.
+Apoiamos pesquisas em áreas como inteligência artificial e machine
+learning.
+Saiba mais sobre os nossos programas de pesquisa.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informa3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 88/97
+ções). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Os metadados sobre conteúdo e mensagens, sujeitos às leis aplicáveis
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 89/97
+A anonimização das suas informações
+Por que e como tratamos suas informações:
+A anonimização das suas informações
+Em alguns casos, anonimizamos as informações que temos associadas a
+você, como a sua atividade dentro e fora dos nossos Produtos, e usamos as
+informações resultantes para, por exemplo, oferecer e melhorar nossos Produtos da Meta, incluindo anúncios.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Os metadados sobre conteúdo
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 90/97
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+O compartilhamento de informações com outras pessoas, incluindo autoridades policiais, para responder a solicitações legais
+Por que e como tratamos suas informações:
+O compartilhamento de informações com outras pessoas, incluindo autoridades policiais, e para responder a solicitações legais.
+Leia a seção Como respondemos a solicitações legais, evitamos danos e promovemos a segurança e a integridade? da Política de Privacidade da Meta
+para saber mais sobre quando compartilhamos informações com autoridades
+policiais e outras pessoas.
+As categorias de informações acessadas, preservadas, usadas e compartilhadas dependem das circunstâncias específicas. Por exemplo, respostas a solicitações legais não exigidas por lei normalmente incluirão informações limitadas
+(como detalhes de contato e informações de login).
+No entanto, as informações tratadas dependem dos fins, que podem incluir o
+seguinte:
+Para responder a solicitações legais de terceiros, como advogados cíveis,
+autoridades policiais e outras autoridades públicas
+Para cumprir a legislação aplicável ou fins legais legítimos.
+Para promover a segurança, a proteção e a integridade das empresas da
+Meta e dos Produtos, usuários, funcionários e propriedade da Meta, bem
+como do público
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 91/97
+Saiba mais sobre como promovemos a segurança, a proteção e a integridade.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+Os metadados sobre conteúdo, sujeitos às leis aplicáveis
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas
+As hashtags usadas
+Sua foto ou selfie de vídeo, se você a fornecer quando entrar em contato conosco para obter suporte para conta
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 92/97
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+Processamento de informações quando exigido por lei
+Por que e como tratamos suas informações:
+Para o tratamento de informações quando a lei nos obriga a fazê-lo: quando
+temos a obrigação de divulgar informações (caso recebamos, por exemplo,
+uma solicitação legal válida por certas informações, como um mandado de
+busca), acessamos, preservamos e/ou compartilhamos as suas informações
+com os órgãos reguladores, as autoridades policiais ou outras pessoas.
+A forma como as informações serão tratadas dependerá das circunstâncias específicas. Leia a seção “Como atendemos a solicitações legais, evitamos danos e promovemos a segurança e a integridade?” da Política de Privacidade
+da Meta para saber mais. Em “Informações para autoridades policiais, administrativas ou judiciais”, oferecemos informações sobre as diretrizes operacionais
+que as autoridades policiais precisam seguir.
+Categorias de informações que usamos (consulte “Quais informações
+coletamos?” para obter mais detalhes sobre cada categoria de informações). As informações reais que usamos dependem de suas circunstâncias factuais, mas podem incluir qualquer uma das seguintes:
+As categorias de informações dependem das circunstâncias específicas de
+cada solicitação ou obrigação. Somente as informações necessárias para cumprir uma obrigação legal serão compartilhadas ou tratadas. Por exemplo, para
+questões civis, isso normalmente inclui informações limitadas (como de contato e de login). Entretanto, de acordo com as circunstâncias, isso pode incluir
+o seguinte:
+Sua atividade e as informações que você fornece:
+O conteúdo criado, como posts, comentários ou áudios
+O conteúdo fornecido por meio do nosso recurso de câmera, das configurações do rolo da câmera ou dos nossos recursos habilitados para voz
+As mensagens enviadas e recebidas, incluindo o conteúdo, sujeitas às leis
+aplicáveis
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 93/97
+Os metadados sobre conteúdo e mensagens, sujeitos às leis aplicáveis
+Interações com a IA na Meta e metadados relacionados. Por exemplo, informações que você ou outras pessoas trocam com a IA na Meta, como conteúdo e mensagens
+Os tipos de conteúdo visto ou com o qual você interage e o modo como faz
+isso
+Os apps e os recursos usados e quais ações você realiza neles
+As compras ou outras transações efetuadas, incluindo informações separadas do cartão de crédito
+As hashtags usadas
+O horário, a frequência e a duração das suas atividades nos nossos
+Produtos
+Sua foto ou selfie de vídeo, se você a fornecer quando entrar em contato conosco para obter suporte para conta
+Os amigos, os seguidores e outras conexões
+Informações de apps, de navegadores e de dispositivos:
+As características e o software do dispositivo
+O que você está fazendo no dispositivo, como, por exemplo, se nosso app
+está em primeiro plano ou o mouse está se movendo, informação que ajuda
+a distinguir seres humanos de bots.
+Os identificadores que diferenciam o seu dispositivo dos demais
+Os sinais do dispositivo
+As informações compartilhadas por meio das configurações do seu
+dispositivo
+Informações relacionadas à localização
+As informações sobre a rede à qual você conecta seu dispositivo, incluindo
+seu endereço IP
+Informações de cookies e tecnologias semelhantes
+Informações de parceiros, de fornecedores e de terceiros
+86
+Quais Produtos esta Política abrange?
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 94/97
+Esta Política descreve as informações que nós, a Meta Platforms, Inc., tratamos para oferecer Produtos da Meta, que também chamamos de “Produtos”.
+87
+Como funciona nosso sistema de anúncios
+Nosso sistema de anúncios funciona da seguinte maneira:
+Usamos suas informações para determinar os anúncios mais relevantes para você. Tentamos prever seus interesses com base nas informações
+que temos, incluindo suas escolhas nas preferências de anúncios.
+Os anunciantes nos informam qual público desejam alcançar com
+base em quem eles acham que terá mais interesse. São considerados
+fatores como idade, gênero e local desejado para exibição dos anúncios ou
+interesses, como mulheres residentes em Dublin que gostam de golfe.
+Analisamos os possíveis anúncios que poderíamos mostrar a você,
+identificando os mais relevantes. Nosso sistema de anúncios analisa automaticamente todos os possíveis anúncios que se encaixam no perfil do
+público que os anunciantes desejam alcançar. Você pode ver anúncios em
+potencial devido à correspondência com sua faixa etária e categoria de interesses, por exemplo. Determinamos quais anúncios mostrar a você com
+base em fatores como a eficácia em atingir os objetivos do anunciante e a
+relevância para você. Para isso, usamos algoritmos e machine learning para
+ordenar os anúncios que podemos mostrar a você. Consideramos a qualidade do anúncio, o público desejado pelo anunciante e o orçamento disponível. Além disso, analisamos a probabilidade de você interagir com o anúncio, considerando sua atividade nos Produtos da Meta. Saiba mais.
+Todas essas informações nos ajudam a mostrar a você os anúncios
+mais relevantes. Quando você vê um anúncio nos Produtos das Empresas
+da Meta, usamos esse processo para escolher o anúncio mais relevante
+para mostrar a você.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 95/97
+88
+Metadados
+Informações sobre o próprio conteúdo, como o local em que a foto foi tirada
+ou a data em que um arquivo foi criado.
+Informações sobre a própria mensagem, como o tipo de mensagem ou a
+data e a hora em que foi enviada.
+89
+Dispositivo
+Os dispositivos incluem computadores, smartphones, hardware, TVs conectadas, Meta Quest e outros dispositivos conectados pela web.
+90
+Endereço IP
+Significa “endereço do protocolo de internet”. É um número único atribuído a
+um dispositivo, como um smartphone ou um computador, que permite a comunicação dele pela internet. Os números são atribuídos de acordo com diretrizes padrão ou protocolos.
+Assim como você precisa de um endereço de correspondência para receber
+uma carta de um amigo, seu dispositivo precisa de um endereço IP para receber informações na internet.
+91
+Parceiro
+Uma pessoa, empresa, organização ou órgão que usa os nossos Produtos ou
+se integra a eles para anunciar, comercializar ou fornecer suporte para seus
+produtos e serviços.
+92
+Terceiros
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 96/97
+Uma pessoa, empresa, organização ou órgão que não faz parte das empresas
+da Meta.
+93
+Prestador de Serviços
+Uma pessoa, empresa, organização ou órgão que fornece serviços à Meta ou
+para nossos usuários em nome da Meta. Por exemplo, nossos prestadores de
+serviços desempenham atividades como investigar atividades suspeitas e fornecer suporte aos clientes.
+3/21/26, 5:55 PM Política de Privacidade da Meta — Como a Meta coleta e usa os dados do usuário
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/#1 97/97

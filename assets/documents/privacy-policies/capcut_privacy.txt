@@ -1,0 +1,302 @@
+Política de Privacidade da CapCut EUA
+Última atualização: 27 de fevereiro de 2026
+Introdução
+Bem-vindo(a) ao CapCut. Esta Política de Privacidade explica como coletamos, usamos,
+compartilhamos e processamos as informações pessoais de usuários dos EUA e de outros
+indivíduos dos EUA em conexão com o aplicativo móvel CapCut ("CapCut APP"), os aplicativos
+para desktop CapCut ("CapCut Desktop version") e o site oficial do CapCut ("CapCut Web"), as
+plataformas web e aplicativos móveis CapCut Commerce Pro e Pippit (" Pippit ") e qualquer
+outro site, aplicativo ou plataforma que contenha um link para esta Política de Privacidade
+(coletivamente, os " Serviços "). Os Serviços são operados pela TikTok USDS Joint Venture LLC
+("nós", "nos" ou "nossos").
+Consulte a Política de Privacidade de Dados de Saúde do Consumidor da CapCut para obter
+informações sobre como podemos coletar, usar, compartilhar e processar dados de saúde do
+consumidor, conforme definido pela Lei "My Health My Data" de Washington e outras leis
+estaduais semelhantes dos EUA.
+I. Informações que coletamos
+Podemos coletar suas informações de três maneiras: Informações que você fornece,
+Informações coletadas automaticamente e Informações de outras fontes. Mais detalhes são
+fornecidos abaixo.
+Informações que você fornece
+Informações da conta . Essas informações podem incluir, por exemplo, sua data de nascimento,
+credenciais de login, seu número de telefone e outras informações que você optar por divulgar
+em seu perfil de usuário.
+Conteúdo do Usuário . Podemos coletar o conteúdo que você cria, importa, carrega ou gera por
+meio dos Serviços, incluindo metadados associados (como quando, onde e por quem o
+conteúdo foi criado). O Conteúdo do Usuário pode incluir fotografias, imagens, gravações de
+áudio e vídeos que você carrega; modelos de vídeo que você gera ou visualiza; prompts,
+arquivos e outros tipos de informações que você envia para nossas interfaces com inteligência
+artificial, bem como as respostas geradas por elas; e outras ações que você realiza nos Serviços,
+como seus comentários e curtidas. Podemos coletar Conteúdo do Usuário por meio do précarregamento no momento da criação, importação ou carregamento, independentemente de
+você optar por salvar ou publicar esse Conteúdo do Usuário, por exemplo, para recomendar
+opções de áudio, gerar legendas e fornecer outras recomendações personalizadas. Além disso,
+acessamos o conteúdo da área de transferência, como texto e imagens, por meio da área de
+transferência do seu dispositivo quando você opta por usar determinadas funções, como iniciar
+o compartilhamento de informações com serviços de terceiros ou copiar e colar conteúdo da
+área de transferência em nossos Serviços.
+Informações de compra . Se você usar recursos que envolvam pagamento, incluindo programas
+de recompensas ou os Serviços de Espaço em Nuvem da CapCut, conforme descrito em nossos
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 1/8
+Termos de Serviço , nós ou nossos provedores de serviços poderemos coletar informações como
+o que você comprou e seus dados de pagamento.
+Informações de Marketing e Pesquisa . Coletamos informações que você opta por fornecer,
+como seu sexo, idade e preferências, caso decida participar de uma pesquisa, promoção,
+concurso, campanha de marketing ou evento realizado ou patrocinado por nós.
+Informações de comunicação . Quando você entra em contato conosco ou se comunica conosco
+de qualquer outra forma, coletamos as informações que você nos envia, como comprovante de
+identidade ou idade, suas solicitações relativas aos dados pessoais e comentários ou dúvidas
+sobre o uso dos Serviços.
+Informações coletadas automaticamente
+Informações técnicas . Coletamos automaticamente certas informações sobre o dispositivo,
+navegador e rede quando você usa os Serviços. Essas informações incluem seu endereço IP,
+identificadores exclusivos do dispositivo, tipo e conexões de rede, modelo do dispositivo, versão
+do aplicativo, nomes e tipos de aplicativos e arquivos, sistema operacional, resolução do
+dispositivo, idioma e região do sistema e informações da bateria. Também coletamos
+informações relacionadas ao serviço, diagnóstico e desempenho, incluindo relatórios de falhas e
+registros de desempenho. Caso você faça login em vários dispositivos, poderemos usar as
+informações da sua conta para identificar sua atividade em todos os dispositivos.
+Informações de localização . Coletamos informações sobre sua localização aproximada, incluindo
+informações com base na região do seu cartão SIM e no endereço IP.
+Informações de uso . Coletamos informações sobre como você interage com os Serviços,
+incluindo informações sobre o conteúdo que você visualiza, a duração e a frequência do seu uso
+e seu engajamento com outros usuários, como informações sobre seus seguidores. Essas
+informações também podem incluir histórico de visualização, usuários que você segue e os
+adesivos e filtros que você usa.
+Características e recursos do conteúdo . Podemos coletar informações sobre os vídeos, imagens
+e áudios que fazem parte do seu Conteúdo de Usuário, por exemplo, identificando objetos e
+cenários; a existência e localização de um rosto e outras partes do corpo; a natureza do áudio; e
+o texto das palavras faladas no seu Conteúdo de Usuário (por exemplo, se você usar a função de
+legenda automática). Podemos coletar essas informações para habilitar efeitos especiais de
+imagem e vídeo, recomendar e moderar conteúdo, exibir anúncios personalizados quando
+permitido, aprimorar os Serviços e para outras operações que não identificam pessoalmente o
+usuário. Não usamos nenhuma informação facial ou corporal para identificar você ou outras
+pessoas no seu Conteúdo de Usuário e não compartilhamos essas informações com terceiros.
+Assim que um efeito que utiliza informações faciais ou corporais for aplicado ao seu Conteúdo
+de Usuário, essas informações serão excluídas e não serão retidas.
+Cookies . Nós, nossos provedores de serviços e parceiros comerciais utilizamos cookies e
+tecnologias de rastreamento semelhantes para operar e fornecer os Serviços, incluindo funções
+como: lembrar suas preferências de idioma; medir o tráfego e a funcionalidade do site; para fins
+de segurança e marketing.
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 2/8
+Informações de outras fontes
+Plataformas de terceiros . Recebemos informações de plataformas de terceiros para fornecer a
+você determinadas integrações e recursos. Por exemplo, podemos receber seu nome de usuário,
+endereço de e-mail e foto de perfil, bem como certas informações técnicas, se você se cadastrar
+ou fizer login nos Serviços usando uma plataforma de terceiros.
+Nosso Grupo Corporativo . Podemos obter informações sobre você de empresas afiliadas
+controladas por nós ou sob controle comum conosco.
+Publicidade, Análise e Outros Parceiros . Anunciantes, parceiros de análise e outros parceiros
+compartilham informações conosco sobre você e as ações que você realizou fora dos Serviços,
+como suas atividades em outros sites e aplicativos.
+Prestadores de serviços de pagamento . Dependendo dos recursos que você utiliza, podemos
+receber informações sobre você de prestadores de serviços de pagamento, como confirmação
+de pagamento e detalhes da compra.
+Outros . Também podemos coletar ou receber informações sobre você de terceiros, incluindo
+autoridades governamentais e fontes publicamente disponíveis, bem como de outros usuários,
+como quando você é mencionado em Conteúdo do Usuário ou em uma reclamação, solicitação
+ou feedback enviado por um usuário ou terceiro.
+II. Como utilizamos suas informações
+Utilizaremos suas informações para:
+Operar, personalizar e administrar os Serviços, como permitir que você crie, modifique,
+compartilhe e consuma Conteúdo do Usuário; e que interaja com outros usuários, o conteúdo
+deles e os recursos interativos dos Serviços;
+Fornecer serviços a você por meio de produtos relacionados que são conectados em
+funcionalidade e utilizam um sistema de contas unificado;
+Revisar, dar suporte, aprimorar e desenvolver os Serviços, bem como treinar, testar e
+aprimorar a tecnologia, como modelos e algoritmos de aprendizado de máquina, inclusive
+analisando como as pessoas usam os Serviços; realizando pesquisas; desenvolvendo novos
+recursos; monitorando sua atividade e uso em todos os dispositivos que você usa para
+acessar os Serviços; e examinando, analisando e revisando o Conteúdo do Usuário;
+Comunicar-nos consigo sobre assuntos e atualizações relacionados com o serviço, e
+responder aos seus pedidos e comentários;
+Verifique sua idade e identidade;
+Fornecer informações ou conteúdo personalizados que possam ser do seu interesse;
+Promover os Serviços, inclusive por meio de comunicações de marketing, concursos ou
+campanhas e por meio de plataformas de publicidade de terceiros;
+Fornecer serviços de publicidade, incluindo anúncios direcionados, quando permitido;
+Fazer cumprir nossos Termos de Serviço , Diretrizes da Comunidade e outras condições e
+políticas que se aplicam a você, e proteger a segurança de nossa comunidade e a integridade
+dos Serviços, inclusive por meio da varredura, análise e revisão do Conteúdo do Usuário;
+Manter e aprimorar a segurança e a estabilidade dos Serviços, identificando e solucionando
+problemas ou questões técnicas ou de segurança (como bugs técnicos e contas de spam) e
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 3/8
+detectando abusos, fraudes e atividades ilegais;
+cumprir nossas obrigações legais e defender nossos direitos legais e interesses comerciais,
+bem como os de nossas afiliadas, usuários e do público; e
+Agregar ou anonimizar as informações que coletamos.
+III. Como compartilhamos suas informações
+Esta seção descreve como podemos compartilhar as informações que você fornece , as
+informações coletadas automaticamente e as informações de outras fontes . Observe que as
+informações compartilhadas com terceiros podem ser processadas de acordo com as políticas
+de privacidade deles.
+Prestadores de Serviços e Parceiros Comerciais
+Compartilhamos as categorias de informações pessoais listadas acima com nossos provedores
+de serviços e parceiros comerciais, conforme necessário, para nos auxiliar na execução de
+nossas operações comerciais e para fins comerciais, incluindo o fornecimento, suporte e
+desenvolvimento dos Serviços, hospedagem em nuvem, geração de conteúdo, distribuição de
+conteúdo, suporte ao cliente e suporte técnico, moderação de conteúdo, marketing, análise de
+dados e pagamento online. Exemplos desses provedores de serviços e parceiros comerciais
+incluem:
+Terceiros cujas plataformas ou serviços estão integrados aos Serviços e que nos ajudam a
+fornecer determinados recursos e funcionalidades. Por exemplo, se você optar por fazer login
+nos Serviços usando as credenciais de sua conta de terceiros ou vincular sua conta a uma
+plataforma de terceiros, compartilharemos determinadas informações para facilitar isso,
+incluindo informações técnicas. Além disso, alguns recursos dos Serviços são desenvolvidos
+com base na integração com os serviços da API do YouTube (os "Serviços da API do
+YouTube"). Se você optar por usar os Serviços da API do YouTube, concorda em estar sujeito
+aos Termos de Serviço do YouTube . Consulte a página de configurações de segurança do
+Google para revogar sua autorização de acesso aos seus dados pelos Serviços da API do
+YouTube. Para obter mais informações sobre as práticas de privacidade do Google, acesse
+este link .
+Prestadores de serviços de pagamento , que podem receber informações de compra e
+determinadas informações técnicas quando você efetua um pagamento nos Serviços.
+Parceiros de publicidade e mensuração nos ajudam a promover os Serviços por meio de
+anúncios exibidos em outras plataformas (alguns dos quais podem ser baseados na sua
+atividade em outros sites, aplicativos e serviços). Esses parceiros também podem nos ajudar a
+mensurar a eficácia de nossas campanhas publicitárias.
+A TT Commerce & Global Services LLC e suas afiliadas (“TT Commerce & Global Services”)
+compartilham informações para facilitar uma experiência global e interoperável, bem como
+para outros fins comerciais permitidos. Compartilhamos apenas categorias específicas de
+informações em conformidade com a legislação aplicável, incluindo a Ordem Executiva 14352
+e quaisquer obrigações de conformidade decorrentes da mesma.
+Nosso Grupo Corporativo
+Podemos compartilhar as informações que coletamos com empresas afiliadas controladas por
+nós ou sob controle comum conosco, conforme necessário para os fins estabelecidos nesta
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 4/8
+Política de Privacidade.
+Obrigações e direitos legais
+Podemos compartilhar as “Informações que Coletamos” com determinadas autoridades
+policiais, regulatórias ou governamentais competentes, tribunais ou outros terceiros, se
+acreditarmos de boa-fé que isso seja necessário para:
+Cumprir uma obrigação legal;
+Proteger e defender legalmente os direitos, a propriedade, a segurança e a integridade dos
+Serviços, dos nossos usuários, dos detentores de direitos autorais e de terceiros;
+Investigar possíveis violações e fazer cumprir nossos Termos de Serviço e outras políticas; ou
+Detectar, investigar e prevenir fraudes, problemas técnicos, violações de direitos autorais ou
+outras atividades enganosas ou ilegais.
+Em conexão com uma venda, fusão ou outra transferência de negócios.
+Também podemos compartilhar suas informações em conexão com, ou durante negociações de,
+uma transação corporativa, como uma fusão, consolidação, venda de ativos ou ações,
+reorganização, financiamento ou aquisição de toda ou parte de nossa empresa, ou no caso
+improvável de falência.
+Outros
+Também podemos compartilhar certas informações com produtos e serviços relacionados que
+compartilham recursos de login de conta e outras funcionalidades.
+Com o seu consentimento
+Podemos compartilhar informações com terceiros com o seu consentimento ou mediante sua
+solicitação.
+IV. Seus direitos e opções
+Você tem certos direitos dependendo de onde mora. Não tomaremos nenhuma medida
+retaliatória contra você por exercer seus direitos, embora isso possa afetar os recursos e
+funcionalidades disponíveis dos Serviços.
+Seus direitos . Você pode solicitar o acesso, a correção ou a exclusão das informações que
+coletamos sobre você, entrando em contato conosco pelos canais abaixo. Você também tem o
+direito de recorrer de qualquer decisão que tenhamos tomado sobre sua solicitação, utilizando
+esses mesmos canais. Residentes da Califórnia também podem ter o direito de obter
+informações sobre os dados pessoais que compartilhamos, se houver, com outras empresas
+para fins de marketing direto.
+Você pode exercer esses direitos enviando sua solicitação pelos seguintes métodos:
+Online (para Capcut)
+privacy@us.pippit.ai (para Pippit)
+Endereço para correspondência: 5800 Bristol Pkwy, Suite 300, Culver City, CA 90230, EUA
+Responderemos à sua solicitação de acordo com a legislação aplicável e mediante verificação
+adequada. Verificaremos sua solicitação pedindo que você a envie do endereço de e-mail
+associado à sua conta ou que forneça as informações necessárias para verificar sua conta.
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 5/8
+Agentes autorizados . De acordo com a legislação aplicável, você pode ter o direito de enviar
+uma solicitação por meio de um agente autorizado. Para designar um agente autorizado para
+exercer suas opções em seu nome, forneça comprovante de que você outorgou uma procuração
+a esse agente ou de que ele possui autorização por escrito válida para enviar solicitações e
+exercer seus direitos.
+Opção de não venda e compartilhamento . Embora não vendamos suas informações pessoais
+por dinheiro, "compartilhamos" suas informações conforme definido pela legislação aplicável,
+incluindo o processamento e a divulgação de suas informações pessoais a terceiros com o
+objetivo de exibir anúncios com base em sua atividade em outros sites e serviços ("publicidade
+comportamental entre contextos" ou "publicidade direcionada"). Não vendemos nem
+compartilhamos, conscientemente, informações pessoais de menores de idade quando isso for
+proibido pelas leis aplicáveis.
+Dependendo do estado em que você reside, você também pode ter o direito de optar por não
+permitir a venda ou o compartilhamento de suas informações pessoais. Você pode optar por não
+permitir isso das seguintes maneiras:
+Acessando “Suas Opções de Privacidade” nas configurações do seu aplicativo móvel e
+desativando a opção correspondente descrita lá; ou
+Habilitar o Controle Global de Privacidade (“GPC”) é um sinal de preferência de desativação
+baseado no navegador que permite comunicar suas preferências de privacidade aos sites que
+você visita. Observe que, como o GPC é um mecanismo baseado no navegador, nossa política
+é impedir a venda ou o compartilhamento de suas informações pessoais apenas para o
+navegador no qual o GPC está habilitado. Para obter mais informações sobre o GPC, visite o
+site aqui . Observe também que os Serviços não oferecem suporte a solicitações de “Não
+rastrear” no momento.
+Criação de perfis.
+Não praticamos a criação de perfis que resultem em efeitos legais ou similares de grande
+relevância, conforme definido pela legislação aplicável.
+Informações pessoais sensíveis .
+As informações que você fornece podem constituir informações pessoais sensíveis de acordo
+com as leis de privacidade estaduais aplicáveis, como informações de usuários menores de
+idade, suas informações financeiras e quaisquer informações sensíveis que você optar por
+divulgar em respostas a pesquisas ou em seu Conteúdo de Usuário. Processamos essas
+informações para fornecer os Serviços e dentro de outras exceções previstas na legislação
+aplicável.
+Suas escolhas .
+As configurações do aplicativo permitem que você acesse e modifique algumas informações da
+sua conta, além de gerenciar os serviços de terceiros vinculados à sua conta.
+Você também pode recusar, desativar ou excluir cookies e tecnologias de rastreamento
+semelhantes que coletam suas informações por meio das configurações do seu dispositivo ou
+navegador. No entanto, ao fazer isso, alguns recursos e funcionalidades dos Serviços podem não
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 6/8
+estar mais disponíveis. Cada navegador e dispositivo é diferente, portanto, consulte as
+instruções fornecidas pelo seu navegador ou dispositivo (conforme aplicável) para modificar
+suas configurações de cookies.
+Você pode optar por não receber e-mails de marketing usando o link ou mecanismo de "cancelar
+inscrição" indicado em cada e-mail de marketing.
+V. Segurança de Dados
+Mantemos medidas técnicas, administrativas e organizacionais projetadas para proteger suas
+informações contra acesso não autorizado, roubo, divulgação, modificação ou perda, e para
+fornecer um nível de segurança adequado ao risco do processamento. Os Serviços podem
+conter links, funcionalidades e conteúdo mantidos por terceiros que não controlamos, e qualquer
+informação compartilhada com esses terceiros estará sujeita às suas práticas de privacidade e
+segurança e aos seus termos de uso. Não nos responsabilizamos por, e não fazemos
+declarações a respeito de, tais práticas e políticas de terceiros.
+VI. Retenção de Dados
+Conservamos as informações pelo tempo necessário para fornecer os Serviços e para as demais
+finalidades descritas nesta Política de Privacidade. Também conservamos informações quando
+necessário para cumprir obrigações contratuais e legais; quando temos um interesse comercial
+legítimo para fazê-lo (como aprimorar e desenvolver os Serviços e reforçar sua segurança e
+estabilidade); e para o exercício ou defesa de direitos em processos judiciais.
+Os períodos de retenção variam dependendo do tipo de informação e das finalidades para as
+quais a utilizamos. Por exemplo, se você utiliza o Serviço de Espaço na Nuvem, excluiremos as
+informações que você carregou e armazenou ativamente nele, mediante sua solicitação ou
+conforme permitido pela legislação aplicável.
+VII. Informações Relativas a Crianças
+Capcut : O Capcut não se destina a crianças menores de 13 anos e não é indicado para esse
+público. Caso acredite que tenhamos coletado informações pessoais de uma criança menor de
+13 anos, entre em contato conosco através das informações disponíveis na seção "Fale
+Conosco" abaixo.
+Pippit : O Pippit destina-se e deve ser utilizado apenas por adultos (pessoas que atendam à
+idade legal de consentimento em cada jurisdição aplicável) e não por crianças ou menores de
+idade. Não solicitamos nem coletamos intencionalmente quaisquer dados pessoais de crianças
+menores de 18 anos. Se você souber que alguém menor de idade nos forneceu seus dados
+pessoais em relação ao Pippit, entre em contato conosco e faremos todos os esforços
+comercialmente razoáveis para excluir essas informações de nosso banco de dados.
+VIII. Atualizações da Política de Privacidade
+Podemos alterar ou atualizar esta Política de Privacidade periodicamente. Notificaremos você
+sobre quaisquer alterações substanciais atualizando a data de “Última Atualização” no início da
+nova Política de Privacidade ou fornecendo outro aviso conforme exigido pela legislação
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 7/8
+aplicável. Recomendamos que você revise esta Política de Privacidade regularmente para se
+manter informado sobre nossas práticas de privacidade.
+IX. Contate-nos
+Dúvidas, comentários e solicitações referentes a esta Política de Privacidade são bem-vindos e
+devem ser encaminhados para:
+Entre em contato conosco: Online (para Capcut)
+privacy@us.pippit.ai (para Pippit)
+Endereço para correspondência: 5800 Bristol Pkwy, Suite 300, Culver City, CA 90230, EUA
+3/21/26, 6:42 PM Política de Privacidade da CapCut
+https://www.capcut.com/clause/privacy-policy 8/8

@@ -1,0 +1,96 @@
+Noções básicas de privacidade nos apps do YouTube
+Garantir sua segurança on-line está no centro de tudo que fazemos. Nós assumimos o compromisso
+de sermos transparentes sobre os dados que usamos, oferecendo a você opções e controle sobre
+eles.
+Os dados que você envia ao Google e ao YouTube nos ajudam a melhorar sua experiência ao usar
+nossos serviços. Para controlar as configurações de privacidade no YouTube, acesse Seus dados no
+YouTube ou sua Conta do Google.
+Como o YouTube pode usar os dados vinculados à conta
+O YouTube usa seus dados para melhorar sua experiência, como lembrar o que você já assistiu e
+oferecer recomendações e resultados de pesquisa mais relevantes. Sua atividade e suas
+informações também podem ser utilizadas para personalizar os anúncios no YouTube e em outros
+Serviços do Google. É possível gerenciar ou desativar os dados de atividade na seção Seus dados
+no YouTube .
+Como o YouTube pode usar dados agregados
+Para melhorar constantemente nossos serviços, usamos dados agregados e anonimizados do
+YouTube para melhorar a experiência para todos os usuários. Por exemplo, nós usamos os
+diagnósticos para entender a integridade do app YouTube, corrigir bugs e melhorar a velocidade
+e o desempenho da plataforma.
+Como o YouTube ajuda você a controlar sua privacidade e segurança
+Trabalhamos continuamente para manter você no controle da sua privacidade e segurança no
+YouTube, seja para ajudar a gerenciar as configurações com ferramentas proativas ou facilitar o
+uso dessas configurações nos nossos produtos. Por exemplo, disponibilizamos ferramentas de
+minimização de dados como a Exclusão automática, que oferece a opção de o YouTube excluir
+seus dados automaticamente após um determinado período. Você pode gerenciar os dados de
+atividades na seção Seus dados no YouTube .
+Como o YouTube pode usar os históricos de pesquisa e exibição, e como você pode controlar esse
+uso
+O YouTube usa os históricos de pesquisa e exibição para melhorar sua experiência, por exemplo,
+para que você possa encontrar os vídeos que assistiu recentemente ou para melhorar suas
+recomendações. O histórico de exibição e pesquisa também pode ser usado para mostrar
+anúncios úteis e relevantes para você. É possível acessar ou excluir dados dos seus históricos de
+pesquisa e exibição na seção Seus dados no YouTube para tornar as recomendações e os
+anúncios mais relevantes para você. Se você não tiver um histórico de exibição anterior
+significativo, os recursos do YouTube que dependem dessas informações para oferecer sugestões
+de vídeo, como as recomendações na página inicial, serão removidos.
+Acesse Seus dados no YouTube para gerenciar quais informações de atividades são salvas na
+sua Conta do Google. Você também pode procurar ou excluir sua atividade no YouTube.
+Como o YouTube usa seus dados de local
+O YouTube calcula sua localização atual usando a localização do dispositivo, o endereço de casa
+ou do trabalho salvo na sua Conta do Google e seu endereço IP para oferecer uma experiência
+mais relevante. Saiba como entender e gerenciar sua localização ao pesquisar no YouTube.
+3/21/26, 6:05 PM Noções básicas de privacidade nos apps do YouTube - Ajuda do YouTube
+https://support.google.com/youtube/answer/10364219#zippy=%2Ccomo-o-youtube-pode-usar-os-dados-vinculados-à-conta%2Ccomo-o-youtube-… 1/3
+Saiba como os dados de local são usados no Google , inclusive para mostrar os anúncios mais
+úteis para você no YouTube. Você também pode acessar Seus dados no YouTube para saber
+como usamos seus dados de local.
+Controlar quais dados e atividades são usados para personalizar anúncios
+Ao usar apps do Google, você pode controlar quais dados e atividades são utilizados para
+personalizar anúncios ou desativar totalmente essa personalização. Nas Configurações de
+anúncios, facilitamos o gerenciamento dos dados usados para personalizar anúncios. Esses
+dados incluem previsões sobre seus interesses com base nas atividades e interações com outros
+anunciantes que têm parceria conosco para mostrar anúncios, além de informações adicionadas
+à sua Conta do Google.
+Ao fazer o login na sua Conta do Google, gerencie a personalização ou desative totalmente os
+anúncios personalizados nas Configurações de anúncios.
+Para saber mais sobre o Google Ads e os dados, acesse a Central de segurança.
+Como o YouTube pode usar suas informações pessoais
+Suas informações pessoais incluem coisas como seu nome e sua foto. Para decidir quais
+informações pessoais ficarão visíveis para outros usuários dos Serviços do Google, basta
+gerenciar esses dados na sua Conta do Google . Alguns anúncios podem conter formulários
+onde você pode inserir informações, como endereço de e-mail e número de telefone, mas são
+opcionais e não são obrigatórios para você continuar usando o YouTube.
+O YouTube não vende suas informações pessoais
+Não vendemos suas informações pessoais a terceiros. Utilizamos as informações que coletamos
+para personalizar nossos serviços para você, o que inclui mostrar recomendações, personalizar
+os resultados da pesquisa e exibir anúncios relevantes. Esses anúncios ajudam a financiar e
+disponibilizar nossos serviços para todos sem custo algum, mas seus dados pessoais não estão à
+venda.
+Como o YouTube pode usar o conteúdo (como vídeos e fotos) que você envia
+Somente o conteúdo que você decide enviar é armazenado pelo YouTube e vinculado ao seu
+canal. São as configurações de privacidade escolhidas por você que definem quem terá acesso a
+esse conteúdo. Com base nelas, o vídeo enviado pode ser visto por outras pessoas ou
+recomendado para outros usuários. Veja como mudar as configurações de privacidade de um
+vídeo aqui. Saiba como gerenciar e editar seu conteúdo com o YouTube Studio em um
+computador ou dispositivo móvel aqui.
+O que acontece com o conteúdo e os dados associados a ele depois de excluir um vídeo
+Se você excluir um vídeo do YouTube, ele será removido permanentemente. Esse conteúdo não
+poderá ser recuperado, e o vídeo não será mais encontrado na pesquisa no YouTube. Os dados
+associados ao conteúdo excluído, como o tempo de exibição, ainda estarão disponíveis nos
+relatórios agregados. Saiba mais sobre como gerenciar e editar seu conteúdo com o YouTube
+Studio em um computador ou dispositivo móvel aqui. Saiba mais sobre como excluir e substituir
+vídeos aqui.
+O que acontece quando você exclui seu canal do YouTube
+Você pode encerrar ou excluir seu canal do YouTube a qualquer momento. Ao encerrar ou excluir
+seu canal, o conteúdo dele será removido permanentemente, incluindo todos os vídeos,
+comentários, mensagens e playlists. Não será mais possível comentar ou publicar conteúdo.
+3/21/26, 6:05 PM Noções básicas de privacidade nos apps do YouTube - Ajuda do YouTube
+https://support.google.com/youtube/answer/10364219#zippy=%2Ccomo-o-youtube-pode-usar-os-dados-vinculados-à-conta%2Ccomo-o-youtube-… 2/3
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Confira nossa Política de Privacidade para mais detalhes sobre como usamos os dados no YouTube e
+no Google.
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+3/21/26, 6:05 PM Noções básicas de privacidade nos apps do YouTube - Ajuda do YouTube
+https://support.google.com/youtube/answer/10364219#zippy=%2Ccomo-o-youtube-pode-usar-os-dados-vinculados-à-conta%2Ccomo-o-youtube-… 3/3

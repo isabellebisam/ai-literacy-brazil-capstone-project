@@ -1,0 +1,274 @@
+Termos de Uso do Microsoft Copilot
+Efetivo a partir de: 24 de outubro de 2025 (versões anteriores)
+Resumo das alterações
+Esclarecemos quando estes Termos se aplicam a determinados serviços e experiências do Copilot.
+Adicionamos termos para as Ações do Copilot, Copilot Labs e experiências de Compras.
+Revisamos nosso Código de Conduta para esclarecer como você pode ou não usar o Copilot.
+Reescrevemos e reorganizamos nossos Termos para ficarem mais claros e simples.
+SE VOCÊ MORA (OU SEU PRINCIPAL LOCAL DE NEGÓCIOS ESTÁ) NOS ESTADOS UNIDOS, LEIA A CLÁUSULA DE
+ARBITRAGEM VINCULATIVA E A RENÚNCIA A AÇÕES COLETIVAS NA SEÇÃO 15 DO CONTRATO DE SERVIÇOS MICROSOFT.
+ELAS AFETAM A FORMA COMO AS DISPUTAS RELACIONADAS A ESTES TERMOS SERÃO RESOLVIDAS.
+Receba as boas-vindas ao Copilot, seu companheiro pessoal de IA!
+Estes Termos explicam como você pode usar o Copilot. Ao usar o Copilot, você concorda com estes Termos. Por favor,
+leia-os cuidadosamente antes de começar a usar o Copilot.
+QUANDO E ONDE ESTES TERMOS SE APLICAM
+Estes Termos se aplicam ao uso do “Copilot", o que inclui:
+Os aplicativos autônomos do Copilot em seu computador ou dispositivo móvel
+O serviço Copilot que disponibilizamos em copilot.microsoft.com, copilot.com e em copilot.ai
+Conversas que você tenha com o Copilot por meio de outros aplicativos e sites da Microsoft
+Conversas que você tenha com o Copilot por meio de aplicativos e plataformas de terceiros
+Outros aplicativos e serviços da marca Copilot vinculados a estes Termos
+Estes Termos não se aplicam aos aplicativos ou serviços do Microsoft 365 Copilot, a menos que esse aplicativo ou
+serviço específico indique que estes Termos se aplicam.
+DEFINIÇÕES
+Certas palavras e frases que usamos nestes Termos têm um significado particular:
+Palavras como "você", "seu" e "seus" significam você, a pessoa que acessa e usa o Copilot.
+Palavras como "nós", "nos" e "nosso" significam a Microsoft, a empresa que oferece o Copilot, bem como as
+empresas relacionadas que possuímos ou controlamos e as empresas e pessoas que trabalham em nosso nome.
+Um "Prompt" é o conteúdo – texto, áudio, imagens, arquivos, voz ou vídeo – que você envia ou compartilha com
+o Copilot.
+Uma "Resposta" é o conteúdo que o Copilot envia ou compartilha com você. Algumas Respostas podem incluir
+"Criações" – conteúdo original ou obras de arte que o Copilot cria em resposta aos seus Prompts.
+"Seu Conteúdo" significa os Prompts e Respostas que fazem parte de suas conversas com o Copilot, mas não
+incluem nenhum conteúdo que possuímos separadamente (como clipes de jogos do Xbox, por exemplo).
+"Ações" se referem ao conjunto automatizado de tarefas que o Copilot realiza em seu nome a seu pedido.
+Copilot Introdução
+Produtos
+Recursos
+Para organizações
+Toda a Microsoft
+Pesquisar 
+3/19/26, 3:02 PM Copilot - Termos de Uso
+https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals/termsofuse 1/6
+"Serviços" são definidos na Contrato de Serviços Microsoft. O Copilot é um Serviço abrangido nesse Contrato.
+QUEM PODE USAR O COPILOT
+Você precisa ter idade suficiente para usar o Copilot – geralmente pelo menos 13 anos, mas às vezes 18 anos ou mais,
+dependendo das leis do seu país. Como as leis variam de acordo com o país, o Copilot não está disponível em todos
+os lugares.
+Se você tiver menos de 18 anos ou se usar o Copilot sem fazer login, poderemos desativar ou limitar alguns recursos
+por motivos legais ou de segurança. Se pedirmos o seu aniversário e país quando você se inscrever ou entrar, você
+deve nos dar suas informações reais.
+Não use ferramentas ou programas de computador (como bots ou scrapers) para acessar o Copilot. Você só pode
+usar o Copilot para seu uso pessoal.
+COMO VOCÊ USA O COPILOT
+O Copilot é um serviço de conversação com tecnologia de IA. O Copilot gerará Respostas aos Prompts que você
+enviar e também poderá oferecer Respostas diretamente em suas conversas em andamento ou para coisas que você
+pediu ao Copilot para lembrar.
+O Copilot tentará fornecer boas respostas, mas pode cometer erros. Às vezes, as fontes que o Copilot usa podem não
+ser confiáveis, relevantes ou precisas, assim, o Copilot pode fornecer informações erradas. Ao responder, o Copilot
+pode usar informações que encontra na Internet, e não controlamos esse conteúdo. Você pode receber Respostas
+que parecem convincentes, mas não estão incompletas ou são imprecisas ou inadequadas.
+Sempre use seu julgamento e verifique as informações recebidas do Copilot antes de tomar decisões ou agir. Se você
+encontrar algo errado ou inadequado no Copilot, use os recursos Relatório ou Feedback no Copilot para nos
+informar. Se você tiver alguma dúvida legal sobre algo que o Copilot apresentou, use a página Relatar uma
+Preocupação para nos informar a respeito.
+Devido à maneira como o Copilot funciona, as Respostas que você recebe do Copilot podem não ser exclusivas para
+você. O Copilot pode dar respostas e criações iguais ou semelhantes para a Microsoft ou outras pessoas. Outras
+pessoas podem enviar Prompts semelhantes aos seus e podem obter Respostas e Criações iguais, semelhantes ou
+diferentes.
+Ao usar o Copilot, você está nos informando que:
+Você leu, entendeu e concorda com estes Termos e cumprirá o Código de Conduta (abaixo).
+Você usará o Copilot apenas de forma legal e em conformidade com todas as leis aplicáveis.
+Você não usará o Copilot para violar nossos direitos ou os direitos de qualquer outra pessoa.
+CÓDIGO DE CONDUTA
+Ao usar o Copilot, você deve seguir o Código de Conduta geral estabelecido no Contrato de Serviços Microsoft.
+Quando aplicado ao Copilot, o significado é:
+Não use o Copilot para prejudicar a si mesmo ou aos outros. Não use o Copilot para ajudar a assediar,
+intimidar, abusar ou ameaçar outras pessoas ou para prejudicar outras pessoas de outra forma. Não use o
+Copilot para ajudar a explorar outras pessoas com base na idade, deficiência ou situações sociais ou
+econômicas.
+Não prejudique nossa capacidade de fornecer o Copilot para você e outras pessoas. Não use bots ou
+scrapers e não se envolva em ataques técnicos, uso excessivo, manipulação baseada em prompt, "jailbreak" e
+outros abusos.
+Não viole a privacidade de outras pessoas. Não use o Copilot para ajudar a violar a privacidade de outras
+pessoas, incluindo o compartilhamento de suas informações privadas (por exemplo, "doxing"). Não use o Copilot
+para inferir informações confidenciais sobre outras pessoas, como raça, opiniões políticas, filiação sindical,
+3/19/26, 3:02 PM Copilot - Termos de Uso
+https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals/termsofuse 2/6
+crenças religiosas ou filosóficas, vida sexual ou orientação sexual de uma pessoa. Não tente usar o Copilot para
+obter identificação facial, para coletar ou processar dados pessoais confidenciais de outra pessoa ou para tentar
+verificar a identidade de alguém. Não compartilhe ou capture imagens, vídeos, áudios ou outros conteúdos que
+incluam outras pessoas sem o consentimento delas e não tente usar o Copilot para processar identificadores
+biométricos ou informações de outra pessoa.
+Não use o Copilot para enganar, mentir ou fraudar outras pessoas. Não use o Copilot para ajudar a enganar
+ou iludir as pessoas. Não use o Copilot para criar ou compartilhar desinformação ou conteúdo que será usado
+para fraudar ou enganar outras pessoas ou para alguém fingir ser outra pessoa.
+Não infrinja os direitos dos outros. Não use o Copilot para infringir os direitos legais de outras pessoas,
+incluindo direitos de propriedade intelectual e publicidade.
+Não crie ou compartilhe conteúdo ou material impróprio. Não use o Copilot para criar ou compartilhar
+conteúdo para adulto, violento, de ódio, terrorismo e extremista violento, glorificação de violência ou suicídio,
+exploração sexual infantil ou material de abuso ou ainda conteúdo que seja perturbador ou ofensivo. Não use o
+Copilot para criar ou editar imagens, voz ou vídeo de outras pessoas (por exemplo, "deepfakes") sem a permissão
+delas.
+Não faça nada ilegal. Não use o Copilot para infringir a lei ou para ajudar ou encorajar outras pessoas a infringir
+a lei.
+Se você encontrar algo errado ou inadequado no Copilot, use os recursos Relatório ou Feedback no Copilot para nos
+informar. Se você tiver alguma dúvida legal sobre algo que o Copilot apresentou, use a página Relatar uma
+Preocupação para nos informar a respeito.
+Podemos bloquear, restringir ou remover seus Prompts ou outro conteúdo que viole estes Termos ou que possa levar
+o Copilot a criar uma Resposta que viole estes Termos.
+NOSSAS DECISÕES SOBRE O COPILOT
+Podemos optar por limitar ou parar de oferecer o serviço ou o suporte ao Copilot ou a qualquer recurso do Copilot a
+qualquer momento e por qualquer motivo.
+A menos que seja proibido por lei, podemos limitar, suspender ou revogar permanentemente seu acesso ou
+uso do Copilot (e potencialmente de todos os outros Serviços) a nosso exclusivo critério, a qualquer
+momento e sem aviso prévio. Algumas das razões pelas quais podemos fazer isso, por exemplo, incluem se você
+violar estes Termos ou violar o Código de Conduta, se suspeitarmos que você está envolvido em atividades
+fraudulentas ou ilegais ou se sua conta Microsoft ou a conta que você usa para fazer login no Copilot for suspensa ou
+encerrada. Se você acha que seu acesso foi restringido por engano, pode nos pedir para reavaliar nossa decisão
+enviando uma solicitação no formulário Relatar uma Preocupação, no qual deve descrever o que você acha que
+erramos e a razão.
+EXPERIÊNCIAS DE COMPRAS
+Dependendo da sua localização e de outros fatores, podemos proporcionar a oportunidade de navegar e comprar
+determinados produtos através do Copilot. Se você usar o Copilot para comprar algo, ele será vendido e enviado por
+um terceiro ("Comerciante"), não por nós. Não processamos pagamentos de suas compras por meio do Copilot.
+Tudo o que você comprar com o Copilot estará sujeito aos termos e condições do Comerciante (incluindo preços,
+taxas e políticas de envio, cancelamento e reembolso). Você é responsável por ler e cumprir os termos do
+Comerciante que se aplicam à sua compra, incluindo como o Comerciante coleta e usa suas informações
+pessoais sob sua política de privacidade.
+Não somos responsáveis por qualquer disputa entre você e o Comerciante sobre sua compra. Se houver alguma
+disputa ou dúvida sobre qualquer produto que você comprar através do Copilot, deve endereçá-lo diretamente
+para o Comerciante. Se você tiver disputas ou dúvidas sobre o pagamento do produto, deverá resolvê-las com o
+emissor do pagamento, o banco ou o provedor da carteira.
+3/19/26, 3:02 PM Copilot - Termos de Uso
+https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals/termsofuse 3/6
+Coletamos, armazenamos, usamos e compartilhamos suas informações pessoais, incluindo suas informações de
+pagamento e das compras que você faz, de acordo com a Política de Privacidade da Microsoft. Você autoriza
+cada Comerciante a compartilhar conosco informações sobre você e sua compra, e autoriza que enviemos
+informações (incluindo suas informações pessoais e detalhes da transação) para o Comerciante, o processador
+de pagamento do Comerciante, nosso processador de pagamento ou outro terceiro necessário para concluir sua
+compra.
+DIVULGAÇÕES IMPORTANTES E AVISOS
+O Copilot pode incluir publicidade.
+O Copilot pode incluir processamento automatizado e manual (humano) de dados. Você não deve compartilhar
+nenhuma informação com o Copilot que não queira que revisemos.
+Planejamos continuar a desenvolver e melhorar o Copilot, mas não fazemos garantias ou promessas sobre como
+o Copilot operará ou que funcionará como pretendido.
+Às vezes, poderemos oferecer determinados recursos ou serviços como parte do "Copilot Labs". Esses recursos e
+serviços são altamente experimentais e nem sempre funcionam como esperado. Podemos adicionar, modificar
+ou remover recursos ou serviços do Copilot Labs a qualquer momento e por qualquer motivo.
+Podemos limitar a velocidade ou o desempenho do Copilot conforme julgarmos necessário.
+Quando você solicitar que o Copilot realize Ações em seu nome, você será o único responsável por essas Ações e
+por quaisquer resultados ou consequências.
+O Copilot é apenas para fins de entretenimento. Pode cometer erros e pode não funcionar como
+esperado. Não confie no Copilot para conselhos importantes. Use o Copilot por sua conta e risco.
+SEM LIMITAR A SEÇÃO 12 DO CONTRATO DE SERVIÇOS MICROSOFT DE QUALQUER FORMA, MAS POR
+UMA QUESTÃO DE CLAREZA, NÃO FAZEMOS NENHUMA GARANTIA OU REPRESENTAÇÃO DE QUALQUER
+TIPO SOBRE O COPILOT. Por exemplo, não podemos prometer que as Respostas do Copilot não difamarão
+outra pessoa ou não infringirão os direitos de outra pessoa (como seus direitos autorais, marcas registradas ou
+direitos de privacidade). Você será o único responsável caso opte por publicar ou compartilhar as Respostas do
+Copilot, seja publicamente ou com qualquer outra pessoa.
+Você concorda em nos indenizar e nos isentar (incluindo nossas empresas afiliadas, funcionários e quaisquer
+outros agentes) de e contra quaisquer reivindicações, perdas e despesas (incluindo honorários advocatícios)
+decorrentes ou relacionadas ao seu uso do Copilot, incluindo, sem limitação, seu uso, compartilhamento ou
+publicação de qualquer Solicitação, Respostas ou Criações, ou sua violação destes Termos ou violação da lei
+aplicável.
+Você pode parar de usar o Copilot a qualquer momento. Se você quiser fechar sua conta Microsoft, confira o
+Contrato de Serviços Microsoft.
+PROPRIEDADE DO CONTEÚDO
+Seu Conteúdo não é nossa propriedade, mas podemos usar Seu Conteúdo para operar e melhorar o Copilot. Ao usar
+o Copilot, você nos concede permissão para usar Seu Conteúdo, o que significa que podemos copiar, distribuir,
+transmitir, exibir publicamente, executar publicamente, editar, traduzir e reformatar o Seu Conteúdo, e podemos
+repassar esses mesmos direitos a outras pessoas que trabalhem em nosso nome.
+Podemos decidir se devemos usar Seu Conteúdo e não precisamos pagar a você, pedir sua permissão ou informar
+quando o fizermos. Mas isso não significa que podemos usá-lo como quisermos. A Política de Privacidade da
+Microsoft explica como usamos Seu Conteúdo, e as opções de privacidade no Copilot oferecem controle sobre
+alguns desses usos.
+Podemos decidir remover ou parar de usar Seu Conteúdo a qualquer momento por qualquer motivo. Ao compartilhar
+Seu Conteúdo com o Copilot, você confirma que tem todos os direitos sobre Seu Conteúdo e que, se usarmos Seu
+Conteúdo, não violaremos os direitos de outra pessoa.
+3/19/26, 3:02 PM Copilot - Termos de Uso
+https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals/termsofuse 4/6
+Novidades
+Copilot para organizações
+Copilot para uso pessoal
+Microsoft 365
+Explorar os produtos da
+Microsoft
+Aplicativos do Windows 11
+Microsoft Store
+Perfil da conta
+Centro de Download
+Suporte da Microsoft Store
+Devoluções
+Acompanhamento de
+pedidos
+Educação
+Microsoft Education
+Dispositivos para educação
+Microsoft Teams para
+Educação
+Microsoft 365 Education
+Office Education
+Treinamento e
+desenvolvimento de
+educadores
+Ofertas para estudantes e
+pais
+Azure para estudantes
+Negócios
+IA da Microsoft
+Segurança da Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft 365 Copilot
+Microsoft Teams
+Desenvolvedor e TI
+Desenvolvedor Microsoft
+Microsoft Learn
+Suporte para aplicativos de
+marketplace de IA
+Comunidade Microsoft Tech
+Microsoft Marketplace
+Microsoft Power Platform
+Marketplace Rewards
+Visual Studio
+Empresa
+Carreiras
+Sobre a Microsoft
+Notícias da empresa
+Privacidade na Microsoft
+Investidores
+Diversidade e inclusão
+Acessibilidade
+Sustentabilidade
+ Português (Brasil) Suas opções de privacidade Privacidade dos Dados de Saúde do Consumidor
+Embora nossos Termos concedam a você a permissão para usar o Copilot, não estamos concedendo a você nenhum
+direito sobre a tecnologia subjacente, propriedade intelectual ou dados que compõem o Copilot.
+OUTROS TERMOS E ACORDOS
+Ao concordar com estes Termos, você também concorda com o Contrato de Serviços Microsoft, um contrato
+legal entre você e nossa empresa que se aplica ao seu uso de nossos Serviços (incluindo o Copilot). Se você tiver
+uma conta Microsoft, já concordou com o Contrato de Serviços Microsoft quando ela foi criada pela primeira
+vez.
+Mesmo que você não tenha uma conta Microsoft, como, por exemplo, se estiver usando o Copilot sem fazer login
+ou se fizer login no Copilot usando uma conta que não seja da Microsoft, você ainda está concordando com o
+Contrato de Serviços Microsoft ao usar o Copilot. Por favor, certifique-se de revisá-lo cuidadosamente.
+Se você usa o Copilot para criar imagens, também estará concordando com os Termos do Criador de Imagens.
+Se você usa o Gaming Copilot ou outras experiências com tecnologia de IA fornecidas em conexão com qualquer
+Serviço Xbox, também estará sujeito aos Padrões da Comunidade Xbox.
+O Copilot pode ser integrado a outros produtos e serviços que licenciamos separadamente para você. Por
+exemplo, as assinaturas do Microsoft 365 Family ou do Microsoft 365 Personal são licenciadas separadamente
+sob os termos em https://www.microsoft.com/useterms.
+Se qualquer um dos idiomas desses outros contratos entrar em conflito com o idioma destes Termos, o idioma
+nestes Termos prevalecerá.
+Ao usar o Copilot, você está sujeito à página Política de Privacidade da Microsoft, em que descreve como
+coletamos, usamos e compartilhamos informações relacionadas ao seu uso do Copilot.
+ATUALIZAÇÕES DESTES TERMOS
+De tempos em tempos, talvez seja necessário atualizar estes Termos por motivos diferentes. Alguns desses motivos
+podem incluir o acréscimo de novos recursos, a conformidade com as mudanças nas leis, a abordagem de problemas
+de segurança, segurança ou fraude, ou tornar nossos Termos mais claros e fáceis de entender.
+Pode haver raras circunstâncias em que seja necessário atualizar estes Termos imediatamente. Caso contrário,
+publicaremos os Termos atualizados nesta página pelo menos 30 dias antes de entrarem em vigor. Também
+incluiremos a data em que os Termos entram em vigor na parte superior da página para que seja possível saber com
+facilidade quando uma atualização foi feita.
+Se você continuar a usar o Copilot depois que as atualizações entrarem em vigor, estará concordando com elas. Se
+você não concordar com as atualizações, deverá interromper o uso do Copilot.
+3/19/26, 3:02 PM Copilot - Termos de Uso
+https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals/termsofuse 5/6
+Entre em contato com a Microsoft Privacidade Ética e Compliance Nota Legal Marcas Sobre os nossos anúncios © Microsoft 2026
+Microsoft do Brasil Importação e Comércio de Software e Vídeo Games Ltda., com sede na cidade de São Paulo, Estado de São Paulo, na Avenida Presidente Juscelino Kubitschek, nº 1.909, conjunto 181,
+localizado no 18º andar da Torre Sul SP Corporate Towers, Vila Nova Conceição, CEP 04543-907, inscrita no CNPJ sob o nº 04.712.500/0001-07.
+3/19/26, 3:02 PM Copilot - Termos de Uso
+https://www.microsoft.com/pt-br/microsoft-copilot/for-individuals/termsofuse 6/6

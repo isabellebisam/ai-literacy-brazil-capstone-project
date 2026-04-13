@@ -1,0 +1,264 @@
+Estes Termos de Serviço regem o seu uso dos Serviços. Os termos em maiúsculas não
+definidos aqui terão os significados presentes nos Termos de Uso,
+ou em qualquer outro contrato que você tenha conosco e que
+rege o seu uso dos Serviços (“Contrato”). Em caso de conflito entre os Termos de
+Serviço e o seu Contrato, os Termos de Serviço prevalecerão. Para efeitos destes
+Termos, “Conteúdo” inclui “Conteúdo do Cliente”.
+1.API
+As obrigações de indenização da OpenAI para com os clientes da API, conforme o
+Contrato, incluem qualquer reclamação de terceiros alegando que o uso ou a
+distribuição dos Resultados pelo Cliente infringe os direitos de propriedade intelectual
+de terceiros. Esta indenização não se aplica nos casos em que: (i) o Cliente ou os
+Usuários Finais do Cliente sabiam ou deveriam saber que o Resultado infringia direitos
+autorais ou era suscetível de infringir direitos autorais, (ii) o Cliente ou os Usuários
+Finais do Cliente desativaram, ignoraram ou não utilizaram quaisquer recursos ou
+restrições relevantes de citação, filtragem ou segurança fornecidos pela OpenAI, (iii) o
+Resultado foi modificado,transformado ou utilizado em combinação com produtos ou
+serviços não fornecidos pela OpenAI ou em seu nome, (iv) o Cliente ou seus Usuários
+Finais não tinham o direito de usar os arquivos de Entrada ou de ajuste fino para gerar
+o Resultado supostamente infrator, (v) a reclamação alega violação de marca
+registrada ou direitos relacionados com base no uso do Resultado pelo Cliente ou seus
+…
+Atualização: 9 de janeiro de 2026
+Termos de serviço
+no Contrato de
+Serviços da OpenAI
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 1/8
+Usuários Finais em atividades comerciais, e (vi) o Resultado supostamente infrator
+provém de conteúdo de uma Oferta de Terceiros.
+O Cliente deverá, e deverá garantir que apenas os seus Usuários Finais utilizem, as
+APIs de acordo com a documentação aplicável em .
+2. Serviços Beta
+Esta seção rege o seu uso de serviços ou recursos que a OpenAI oferece em versão
+alfa, prévia, acesso antecipado ou beta ("Serviços Beta"). Os Serviços Beta são
+oferecidos "tal como estão" para permitirtestes e avaliações e estão excluídos de
+quaisquer obrigações de indemnização que a OpenAI possa ter para consigo.
+A OpenAI não oferece nenhuma garantia ou declaração em relação aos Serviços Beta,
+incluindo qualquer garantia de que os Serviços Beta estarão geralmente disponíveis,
+ininterruptos ou isentos de erros, ou de que o Conteúdo estará seguro ou não será
+perdido ou danificado. Exceto na medida em que seja proibido por lei, a OpenAI
+expressamente se exime de todas as garantias relativas aos Serviços Beta, incluindo
+quaisquer garantias implícitas de comercialização, qualidade satisfatória, adequação a
+uma finalidade específica, não violação ou posse pacífica, bem como quaisquer
+garantias decorrentes de negociações ou práticas comerciais.
+3. ChatGPT Enterprise, Edu, Healthcare e Business
+(a) Administradores.As contas do ChatGPT Enterprise, ChatGPT Edu e ChatGPT para
+Healthcare (coletivamente, “Enterprise”) e ChatGPT Business são gerenciadas por
+Usuários Finais com privilégios administrativos (“Administradores”). Os
+Administradores podem adicionar, remover e suspender o acesso dos Usuários Finais
+ao espaço de trabalho da organização.Além disso, os administradores do ChatGPT
+Enterprise podem (a) acessar, compartilhar e remover conteúdo; e (b) acessar
+registros e informações sobre o uso do ChatGPT Enterprise pelos usuários finais. Os
+clientes são responsáveis por obter e mantertodos os consentimentos necessários
+dos usuários finais para realizar as ações acima e permitir que a OpenAI forneça
+os serviços.
+https://platform.openai.com/docs
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 2/8
+(b) Indenização de produção.As obrigações de indenização da OpenAI para clientes
+Enterprise, nos termos do Contrato, incluem reivindicações de que o uso ou
+distribuição do Resultado pelo Cliente infringe um direito de propriedade intelectual
+de terceiros. Esta indenização não se aplica nos casos em que: (i) o Cliente ou os
+Usuários Finais do Cliente sabiam ou deveriam saber que o Resultado infringia direitos
+autorais ou era suscetível de infringir direitos autorais, (ii) o Cliente ou os Usuários
+Finais do Cliente desativaram, ignoraram ou não utilizaram quaisquer recursos ou
+restrições relevantes de citação, filtragem ou segurança fornecidos pela OpenAI, (iii) o
+Resultado foi modificado,transformado ou utilizado em combinação com produtos ou
+serviços não fornecidos pela OpenAI ou em seu nome, (iv) o Cliente ou seus Usuários
+Finais não tinham o direito de usar os arquivos de Entrada ou de ajuste fino para gerar
+o Resultado supostamente infrator, (v) a reclamação alega violação de marca
+registrada ou direitos relacionados com base no uso do Resultado pelo Cliente ou seus
+Usuários Finais em atividades comerciais, e (vi) o Resultado supostamente infrator
+provém de conteúdo de uma Oferta de Terceiros.
+(c) ChatGPT para a Saúde. (i) Você deve sempre verificar as informações fornecidas
+pelo ChatGPT para Cuidados de Saúde e exercer julgamento profissional
+independente na tomada de decisões sobre um paciente, sem confiar primária ou
+exclusivamente na saída. Não utilize o ChatGPT for Healthcare para analisar imagens
+médicas ou padrões/sinais provenientes de sistemas de aquisição de sinais ou
+dispositivos de diagnóstico in vitro (como formas de onda de ECG ou sequências
+genômicas). (ii) O Adendo de Parceiro Comercial e de Saúde do Cliente aplica-se ao
+uso do ChatGPT para o setor de saúde pelo Cliente.
+4. Codex e Geração de Código
+Os resultados gerados pelos recursos de geração de código de nossos Serviços,
+incluindo , podem estar sujeitos a licenças de terceiros, incluindo,
+entre outras, licenças de código aberto.
+5. GPTs
+o OpenAI Codex
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 3/8
+Os usuários podem criar e compartilhar o acesso às suas próprias versões
+personalizadas do ChatGPT, chamadas de "GPTs".
+Para Construtores de GPTs:
+(a) Conteúdo GPT.As informações ou o conteúdo que você carrega ou inclui em seu
+GPT (por exemplo, o nome, as instruções e a descrição do seu GPT) ("Conteúdo do
+GPT") são seu Conteúdo. Entre você e a OpenAI, você é o único responsável pelo
+Conteúdo GPT, pelas Ações e pelas configurações que utiliza ou habilita para criar seu
+GPT, bem como por qualquer Saída baseada no Conteúdo GPT, nas Ações e nas
+configurações. Você deve garantir que seu GPT esteja em conformidade com o
+Contrato e nossas .
+(b) Distribuição e promoção de GPTs.Ao compartilhar seu GPT com outras pessoas,
+você concede uma licença não exclusiva, mundial, irrevogável e isenta de royalties: (i)
+à OpenAI para usar,testar, armazenar, copiar,traduzir, exibir, modificar, distribuir,
+promover e disponibilizar a outros usuários todo ou qualquer parte do seu GPT
+(incluindo o Conteúdo do GPT); e (ii) na medida em que a Saída do seu GPT inclua o
+seu Conteúdo do GPT, aos usuários do seu GPT para usar, armazenar, copiar, exibir,
+distribuir, preparartrabalhos derivados e usar o seu Conteúdo do GPT de qualquer
+outra forma. Você deverá garantir que todas as informações que publicar sobre seu
+GPT sejam, em todos os momentos, completas, precisas e não enganosas.
+(c) Ações. Qualquer API, site ou serviço que interaja com um GPT (uma “Ação”) está
+sujeito aos nossos , e você é responsável
+por garantir que qualquer Ação incluída em seu GPT opere em conformidade com
+esses termos.
+(d) Remoção. Podemos rejeitar ou remover qualquer GPT de nossos Serviços a
+qualquer momento e por qualquer motivo, sem aviso prévio, como por razões legais ou
+de segurança, ou se o seu GPT violar nossos Termos.
+Para usuários de GPTs:
+(a) GPTs de Terceiros. Exceto nos casos em que a OpenAI é identificada como a
+criadora de um GPT, os GPTs são criados por outros usuários e podem depender de
+conteúdo ou aplicativos de terceiros que não são controlados pela OpenAI. O uso da
+Políticas de Uso
+Termos do Desenvolvedor de Aplicativos
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 4/8
+sigla “GPT” no nome de um GPT criado por outros usuários não implica que a OpenAI
+criou, apoia ou endossa o GPT. Use apenas servidores GPT que você conhece e confia.
+(b) Denúncia de Abuso. Você pode denunciar GPTs que violem nossas
+utilizando nossa ferramenta de denúncia dentro do ChatGPT.
+(c) Ações. Os GPTs podem permitir que você interaja com as Ações. Essas ações
+estão sujeitas aos nossos termos para aplicativos e ações, descritos abaixo.
+(d) Alterações e Remoção.A OpenAI e os criadores de GPTs podem remover os GPTs
+a qualquer momento e por qualquer motivo, sem aviso prévio.
+6. Recursos de imagem e vídeo
+Nossos modelos podem aceitar imagens e vídeos como parte das entradas para os
+Serviços (“Recursos Visuais”). Você não pode usar os Recursos Visuais para auxiliar na
+identificação de uma pessoa, nem para solicitar ou inferir informações privadas ou
+sensíveis sobre uma pessoa. Você não pode usar os Recursos Visuais para reproduzir a
+imagem de qualquer pessoa sem consentimento expresso e todos os direitos
+necessários.Ao optar por compartilhar uma imagem ou vídeo publicamente nos
+Serviços, como por exemplo, compartilhando-o no feed do Sora ou carregando-o para
+criar uma participação especial no Sora, você declara que possui todos os direitos
+necessários e concede à OpenAI o direito de reproduzir, distribuir, modificar, exibir e
+executar o conteúdo para fins de operação e promoção dos Serviços. Você também
+concorda em conceder aos usuários o direito limitado de reproduzir e remixar esse
+conteúdo exclusivamente nos Serviços. O envio de uma participação especial ou o
+compartilhamento de uma imagem ou vídeo não concede a outros usuários quaisquer
+direitos de uso desses materiais fora dos Serviços.
+7.Aplicativos e ações
+(a) Visão geral. Os aplicativos e ações (em conjunto,"Aplicativos") permitem que o
+ChatGPT envie e receba informações de um aplicativo ou site de terceiros
+("Aplicativo"). Você pode realizar ações em um Aplicativo por meio de um ou mais
+Conectores (por exemplo, para solicitar uma reserva em um restaurante). Você é o
+Políticas de Uso
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 5/8
+único responsável pelas ações que realiza usando aplicativos ou adicionando
+aplicativos personalizados, e pode controlar se um aplicativo está habilitado em seu
+espaço de trabalho. Qualquer aplicativo personalizado está sujeito aos nossos
+, e você é responsável por garantir que seu
+aplicativo e os aplicativos conectados a ele operem em conformidade com esses
+termos.A OpenAI poderá (mas não terá a obrigação de) analisar, recusar ou remover
+candidaturas do ChatGPT.Aplicativos de terceiros não são desenvolvidos nem
+verificados pela OpenAI e podem expô-lo a aplicativos ou conteúdo que você pode
+considerar ofensivos, inadequados ou questionáveis. Você concorda que utiliza os
+aplicativos por sua própria conta e risco. NÃO ADICIONE NEM ATIVE UM APLICATIVO
+A MENOS QUE VOCÊ CONHEÇA E CONFIE NO APLICATIVO EM QUE SE
+ENCONTRA E TENHA LIDO SEUS TERMOS E POLÍTICA DE PRIVACIDADE.
+(b) Operação e conteúdo do aplicativo. Ao adicionar ou ativar um aplicativo, os
+Serviços podem enviar partes aplicáveis do seu Conteúdo e certas informações, como
+seu país e estado ("Dados do Aplicativo"), por meio do aplicativo para o Aplicativo.Ao
+usar ou ativar o Aplicativo, você nos autoriza e instrui a enviar seus Dados do
+Aplicativo para o Aplicativo aplicável, que serão tratados de acordo com seus termos.
+Não nos responsabilizamos pelos dados do aplicativo após terem sido fornecidos a um
+aplicativo que não seja de nossa propriedade. O aplicativo pode recuperar
+informações e conteúdo do aplicativo, que podem ser incluídos nos resultados que
+você recebe dos serviços.As informações e o conteúdo incluídos na saída não são de
+sua propriedade nem da OpenAI e podem estar sujeitos aos termos do aplicativo.
+8. Conversas de voz
+As conversas por voz são um recurso do ChatGPT que permite que você fale com
+nossos modelos e eles respondam (“Saída de voz do ChatGPT”).A saída de voz do
+ChatGPT destina-se apenas a uso não comercial e não pode ser distribuída ou
+reempacotada como uma gravação de áudio independente ou qualquer outro arquivo
+de som. Quaisquer direitos sobre a saída atribuídos a você não incluem a saída de voz
+do ChatGPT.
+9. Uso medicinal
+Termos
+para Desenvolvedores de Aplicativos
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 6/8
+Nossa Pesquisa
+Índice de Pesquisa
+Visão Geral de
+Pesquisa
+Residência de
+Pesquisa
+OpenAI for Science
+Pesquisa econômica
+Últimos Avanços
+GPT-5.3 Instant
+GPT-5.3-Codex
+GPT-5
+Codex
+Segurança
+Abordagem à
+Segurança
+Segurança e
+Privacidade
+Confiança e
+Transparência
+ChatGPT
+Explore o
+ChatGPT
+Business
+Enterprise
+Educação
+Preços
+Baixar
+Sora
+Visão Geral do Sora
+Recursos
+Preços
+Login do Sora
+Plataforma de API
+Visão Geral da
+Plataforma
+Preços
+Login da API
+Documentação
+Fórum de
+Desenvolvedores
+Para Empresas
+Visão geral para
+Empresas
+Soluções
+Fale com Vendas
+Empresa
+Sobre Nós
+Nosso Estatuto
+Fundação
+Carreiras
+Marca
+Suporte
+Central de Ajuda
+Mais
+Notícias
+Histórias
+Transmissões ao
+vivo
+Podcast
+RSS
+Termos e Políticas
+Termos de uso
+Política de
+Privacidade
+Outras Políticas
+Nossos serviços não se destinam ao diagnóstico ou tratamento de qualquer condição
+de saúde. Você é responsável por cumprir as leis aplicáveis a qualquer uso de nossos
+Serviços em um contexto médico ou de saúde.
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 7/8
+OpenAI © 2015–2026
+Gerenciar cookies
+Português Brasil
+3/19/26, 2:59 PM Termos de serviço | OpenAI
+https://openai.com/pt-BR/policies/service-terms/ 8/8

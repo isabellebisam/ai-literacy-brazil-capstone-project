@@ -1,0 +1,1059 @@
+Termos de Serviço
+Última atualização: 22 de janeiro de 2026
+Termos Gerais – Todos os Usuários dos Estados Unidos
+1. Seu Relacionamento Conosco
+Bem-vindo(a) ao CapCut (a " Plataforma "). Estes Termos de Serviço (estes " Termos "), que
+podem ser alterados periodicamente, aplicam-se aos usuários dos Estados Unidos e regem o
+relacionamento e servem como um acordo entre você e a TikTok USDS Joint Venture LLC ("
+TikTok USDS Joint Venture ", " nós " ou " nos ") e estabelecem os termos e condições pelos
+quais você pode acessar e usar a Plataforma e nossos serviços, aplicativos, sites, produtos e/ou
+conteúdo relacionados (coletivamente, os " Serviços "). Trabalhamos com provedores de
+serviços e parceiros comerciais, como a BD TikTok USA LLC e suas afiliadas (doravante
+denominadas " TT Commerce & Global Services "), em conformidade com as leis aplicáveis,
+incluindo a Ordem Executiva 14352 e quaisquer obrigações de conformidade decorrentes dela, e
+nossas afiliadas, a fim de fornecer certas funções importantes da Plataforma e dos Serviços para
+que você e outros usuários possam usá-los e desfrutar de uma experiência global, inclusive em
+conexão com serviços e atividades comerciais.
+Para os fins destes Termos, " você " e " seu/sua " referem-se a você como usuário dos Serviços.
+A Plataforma inclui os aplicativos móveis CapCut (" Aplicativo CapCut "), os aplicativos para
+desktop (" Versão CapCut Desktop "), o site oficial do CapCut (" Versão Web CapCut "), a
+plataforma web e o aplicativo móvel Pippit (" Pippit "), os serviços CapCut em outras formas,
+existentes ou que venham a existir, o Kit de Desenvolvimento de Software (" SDK ") relacionado
+e a Interface de Programação de Aplicativos (" API ") para que você acesse e utilize a Plataforma
+e os Serviços por meio de sites de terceiros e outros aplicativos. A versão da Plataforma pode
+variar de acordo com fatores como a jurisdição de onde você acessa a Plataforma e o dispositivo
+que você utiliza. Os Serviços, no todo ou em parte, podem não estar disponíveis em todas as
+jurisdições, para todos os dispositivos ou em todos os idiomas. Você deve obter, baixar e instalar
+a versão apropriada de acordo com as condições reais do dispositivo em sua jurisdição.
+Você pode acessar a Plataforma e obter os Serviços por meio do aplicativo pré-instalado em
+dispositivos de hardware ou baixado de plataformas de terceiros autorizadas por nós, e/ou
+acessando os sites oficiais da CapCut. Versões não oficiais da CapCut obtidas por meio de
+outras plataformas ou sites não são autorizadas por nós, e nós e nossas afiliadas, provedores de
+serviços e parceiros comerciais, incluindo a TT Commerce & Global Services, e cada um de seus
+respectivos diretores, funcionários, agentes e consultores não somos responsáveis por seu
+conteúdo. Se você sofrer quaisquer perdas como resultado disso, a TikTok USDS Joint Venture e
+nossas afiliadas, provedores de serviços e parceiros comerciais, incluindo a TT Commerce &
+Global Services, e cada um de seus respectivos diretores, funcionários, agentes e consultores
+não serão responsáveis por suas perdas, que serão de sua inteira responsabilidade.
+Estes Termos constituem um acordo juridicamente vinculativo entre você e nós. Por favor,
+reserve um tempo para lê-los atentamente.
+Os Serviços destinam-se apenas a indivíduos com 13 anos de idade ou mais. Além disso, se você
+for maior de idade, mas menor de 18 anos ou da idade de maioridade aplicável na jurisdição em
+que reside, você só poderá acessar ou usar os Serviços com o consentimento de seus pais ou
+responsáveis legais. Certifique-se de que seus pais ou responsáveis legais tenham revisado e
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 1/24
+discutido estes Termos com você.
+2. Aceitação destes Termos
+Ao acessar ou usar nossos Serviços, você confirma que pode firmar um contrato vinculativo com
+a TikTok USDS Joint Venture, que aceita estes Termos (incluindo quaisquer termos
+suplementares anexados a este documento) e que concorda em cumpri-los.
+Seu acesso e uso de nossos Serviços também estão sujeitos à nossa Política de Privacidade ,
+Diretrizes da Comunidade (quando aplicável), Contrato de Licença de Materiais e termos e
+políticas adicionais que forem disponibilizados a você (“Termos Adicionais”), cujos termos
+podem ser encontrados diretamente na Plataforma, na loja de aplicativos do seu dispositivo
+móvel ou em qualquer outro local onde a Plataforma esteja disponível para download, e tais
+termos são incorporados a este documento por referência. Você também poderá estar sujeito a
+termos e políticas adicionais para seu acesso ou uso de determinados novos recursos da
+Plataforma, determinados Serviços e/ou determinado conteúdo. Tais termos e políticas
+adicionais farão parte destes Termos. Caso alguma disposição específica dos Termos Adicionais
+entre em conflito com estes Termos, a disposição específica dos Termos Adicionais prevalecerá
+em relação ao seu uso dos serviços aplicáveis.
+Se você estiver acessando ou usando os Serviços em nome de uma empresa ou entidade, então
+(a) "você" e "seu/sua" incluem você e essa empresa ou entidade, (b) você declara e garante que
+é um representante autorizado da empresa ou entidade com poderes para vinculá-la a estes
+Termos e que concorda com estes Termos em nome da empresa ou entidade, e (c) sua empresa
+ou entidade é legal e financeiramente responsável pelo seu acesso ou uso dos Serviços, bem
+como pelo acesso ou uso da sua conta por terceiros, independentemente de serem ou não
+afiliados à sua empresa ou entidade, incluindo quaisquer funcionários, agentes ou contratados.
+3. Alterações a estes Termos
+Podemos alterar ou atualizar estes Termos periodicamente para refletir mudanças, atualizações
+ou novos recursos da Plataforma e/ou dos Serviços, ou quando houver alterações regulatórias.
+Notificaremos você sobre quaisquer alterações substanciais atualizando a data de "Última
+Atualização" na parte superior dos novos Termos ou fornecendo qualquer outro aviso conforme
+exigido pela legislação aplicável. Você concorda em verificar regularmente esses avisos e revisar
+estes Termos regularmente para se manter informado sobre nossas práticas mais recentes.
+Seu acesso ou uso contínuo da Plataforma e/ou dos Serviços após a data de vigência dos
+Termos atualizados constitui sua aceitação dos Termos atualizados. Caso não concorde com os
+Termos atualizados, você deverá interromper o acesso ou uso da Plataforma e dos Serviços.
+Recomendamos que você imprima ou salve uma cópia local destes Termos para seus registros.
+4. Sua Conta Conosco
+Para acessar ou usar alguns de nossos Serviços, você deve criar uma conta conosco. Ao criar
+esta conta, você deve nos fornecer informações verdadeiras, precisas, completas e atuais. É
+importante que você mantenha e atualize prontamente os dados da sua conta e quaisquer
+outras informações que nos fornecer, para que essas informações permaneçam verdadeiras,
+precisas, completas e atuais.
+É importante que você mantenha seus dados de login da conta confidenciais e que não os
+divulgue a terceiros. Se você souber ou suspeitar que algum terceiro conhece sua senha ou
+acessou sua conta, você deve nos notificar imediatamente em: support@us.capcut.com para
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 2/24
+CapCut ou ussupport@us.pippit.ai para Pippit.
+Você reconhece e concorda que:
+Você é o único responsável (perante nós, nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, e terceiros) por todas as atividades
+na Plataforma que ocorram em sua conta ou por meio dela. Se você estiver acessando a
+Plataforma ou usando os Serviços em nome de uma empresa ou entidade, todas essas
+atividades serão atribuíveis e vinculativas para essa empresa ou entidade; e
+A TikTok USDS Joint Venture e suas afiliadas podem, mas não têm a obrigação de, monitorar
+as atividades na Plataforma que ocorram em ou por meio do uso de sua conta, mas não serão
+responsáveis por quaisquer perdas incorridas por você como resultado de ou decorrentes de
+qualquer acesso não autorizado à sua conta.
+Reservamo-nos o direito de suspender ou encerrar sua conta temporária ou permanentemente,
+ou de tomar outras medidas cabíveis, a qualquer momento, com ou sem aviso prévio, por
+qualquer motivo, incluindo, entre outros:
+caso você não tenha cumprido qualquer uma das disposições destes Termos ou quaisquer leis
+aplicáveis;
+se ocorrerem atividades em sua conta que, a nosso exclusivo critério, possam causar ou
+causar danos a nós, nossas afiliadas, provedores de serviços ou parceiros comerciais,
+incluindo a TT Commerce & Global Services, ou outros usuários, prejudicar nossa capacidade
+de operar a Plataforma ou os Serviços, ou infringir ou violar quaisquer direitos de terceiros
+(incluindo direitos de propriedade intelectual);
+em resposta a solicitações de autoridades policiais ou outras agências governamentais;
+devido a problemas ou questões técnicas ou de segurança inesperadas; ou
+Se sua conta permanecer inativa por um determinado período.
+Caso decidamos suspender ou encerrar permanentemente sua conta ou tomar outras medidas,
+notificaremos você com antecedência para que tenha tempo de acessar e salvar suas
+informações e conteúdo, a menos que seja inadequado, que acreditemos razoavelmente que o
+acesso contínuo à sua conta causará danos a nós, nossos usuários, nossas afiliadas, provedores
+de serviços ou parceiros comerciais, incluindo a TT Commerce & Global Services, ou outros
+terceiros, ou que sejamos legalmente impedidos de fazê-lo. Sem prejuízo de quaisquer
+direitos legais que você possa ter de acordo com as leis aplicáveis, se sua conta for suspensa ou
+encerrada temporária ou permanentemente, o acesso à sua conta e a quaisquer informações ou
+conteúdo relacionados a ela também poderão ser suspensos ou encerrados temporária ou
+permanentemente. Como não garantimos a disponibilidade permanente do seu conteúdo, você
+deve fazer backups regulares de qualquer conteúdo que considere importante.
+Se não desejar mais usar ou acessar a Plataforma e nossos Serviços, você pode excluir sua
+conta na página "Gerenciar conta" da Plataforma. Alternativamente, você também pode solicitar
+a exclusão da sua conta entrando em contato conosco pelo e-mail support@us.capcut.com ou
+preenchendo o formulário online em https://www.capcut.com/us-privacy para o CapCut, ou pelo
+e-mail ussupport@us.pippit.ai para o Pippit. Após a solicitação, forneceremos assistência
+adicional e o guiaremos pelo processo de exclusão da conta. Observe que, após optar por
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 3/24
+excluir sua conta, você não poderá reativá-la, recuperar seus dados ou qualquer conteúdo ou
+informação que tenha carregado, criado, editado, compartilhado, recebido de outros usuários ou
+que esteja associado à sua conta.
+O encerramento da sua conta encerrará seu acesso ou uso da Plataforma e dos Serviços.
+Conforme usado nestes Termos, "leis aplicáveis" refere-se a todas as leis, regulamentos, regras,
+estatutos, códigos, portarias, ordens, mandados, decretos ou outros requisitos aplicáveis,
+promulgados por uma autoridade governamental, conforme alterados periodicamente.
+5. Seu acesso e uso dos nossos serviços
+Seu acesso e uso dos serviços estão sujeitos a estes Termos e às leis aplicáveis. Você concorda
+em usar os serviços somente para os fins expressamente permitidos por estes Termos e pelas
+leis aplicáveis.
+Você não pode:
+Você não poderá acessar ou usar os Serviços se não tiver plena capacidade e competência
+legal para concordar com estes Termos, se seu pai ou responsável legal não consentir com o
+seu uso dos Serviços ou se você não estiver autorizado a usar os Serviços pela empresa ou
+entidade que você representa;
+realizar ou tentar realizar qualquer uma das seguintes ações: copiar, decifrar, modificar,
+adaptar, traduzir, fazer engenharia reversa, desmontar, descompilar ou criar quaisquer
+trabalhos derivados com base nos Serviços, incluindo quaisquer arquivos, tabelas ou
+documentação (ou qualquer parte deles) (exceto conforme expressamente permitido nestes
+Termos) ou determinar ou tentar determinar qualquer código-fonte, algoritmos, métodos ou
+técnicas incorporados pelos Serviços ou quaisquer trabalhos derivados deles;
+modificar ou remover quaisquer direitos autorais, marcas registradas, marcas de serviço,
+nomes comerciais, slogans, logotipos, imagens ou outros avisos ou marcas de propriedade
+exibidos nos Serviços ou por meio deles;
+distribuir, licenciar, transferir ou vender, no todo ou em parte, quaisquer dos Serviços ou
+quaisquer trabalhos derivados dos mesmos, ou usar os Serviços ou quaisquer trabalhos
+derivados dos mesmos de uma forma que não seja autorizada por nós;
+comercializar, alugar ou arrendar os Serviços mediante pagamento de uma taxa ou
+gratuitamente;
+Interferir ou tentar interferir no funcionamento adequado dos Serviços, interromper o
+funcionamento do nosso site ou de quaisquer redes conectadas aos Serviços, ou contornar ou
+burlar quaisquer medidas que possamos usar para impedir ou restringir o acesso aos Serviços;
+Incorporar os Serviços ou qualquer parte deles em qualquer outro programa ou produto,
+exceto conforme expressamente permitido nestes Termos;
+Fingir ser outra pessoa ou entidade, ou declarar falsamente ou deturpar de qualquer outra
+forma a sua identidade ou a sua afiliação com qualquer pessoa ou entidade, incluindo dar a
+impressão de que qualquer conteúdo que você carregue, publique, transmita, distribua ou
+disponibilize de qualquer outra forma emana dos Serviços;
+Utilizar scripts automatizados ou outras tecnologias para coletar informações dos Serviços ou
+interagir com eles de qualquer outra forma;
+usar os Serviços para carregar, transmitir, distribuir, armazenar ou disponibilizar de qualquer
+outra forma códigos de computador (incluindo malware ou software), arquivos ou conteúdo
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 4/24
+que contenham vírus, cavalos de Troia, worms, spyware, adware, keyloggers, bombas lógicas
+ou qualquer outro material malicioso, tecnologicamente prejudicial, destrutivo, incapacitante
+ou que auxilie ou possibilite roubo, alteração, negação de serviço, divulgação não autorizada
+ou destruição ou corrupção de dados (" Código Malicioso ");
+usar os Serviços de forma que viole ou infrinja os direitos de publicidade, privacidade,
+propriedade intelectual ou outros direitos de terceiros;
+Utilizar os Serviços para provocar, intimidar, assediar, causar angústia, ameaçar, ferir,
+envergonhar, perturbar, difamar, provocar ou antagonizar qualquer outra pessoa;
+usar os Serviços para comunicar ou disponibilizar qualquer material ou conteúdo que (i) seja
+difamatório para qualquer pessoa, obsceno, ofensivo, pornográfico, odioso ou inflamatório; (ii)
+constitua, incentive ou forneça instruções para um delito criminal, atividades perigosas ou
+autolesão; (iii) seja deliberadamente concebido para provocar ou antagonizar pessoas,
+especialmente por meio de provocações e bullying, ou tenha a intenção de assediar,
+prejudicar, ferir, assustar, angustiar, constranger ou perturbar pessoas; (iv) contenha uma
+ameaça de qualquer tipo, incluindo ameaças de violência física; ou (v) seja racista ou
+discriminatório, incluindo discriminação com base na raça, religião, idade, gênero, deficiência
+ou sexualidade de alguém; ou
+envolver-se em qualquer outra conduta que restrinja ou impeça qualquer pessoa de usar ou
+desfrutar dos Serviços, ou que, a nosso exclusivo critério, exponha a nós, nossas afiliadas,
+provedores de serviços ou parceiros comerciais, incluindo a TT Commerce & Global Services, e
+cada um de seus respectivos diretores, funcionários, agentes e consultores, ou qualquer um
+de nossos usuários ou qualquer outra terceira parte, a qualquer responsabilidade, danos ou
+prejuízos de qualquer tipo.
+Além do exposto acima, seu acesso e uso dos Serviços devem estar sempre em conformidade
+com nossas Diretrizes da Comunidade .
+Reservamo-nos o direito, a qualquer momento e sem aviso prévio, de remover ou desativar o
+acesso a conteúdo a nosso critério, por qualquer motivo ou sem motivo algum. Alguns dos
+motivos pelos quais podemos remover ou desativar o acesso a conteúdo incluem a constatação
+de que o conteúdo é questionável, viola estes Termos ou nossas Diretrizes da Comunidade , ou é
+prejudicial aos Serviços, aos nossos provedores de serviços e parceiros comerciais, como a TT
+Commerce & Global Services, e nossas afiliadas, ou aos nossos usuários. Você reconhece que a
+violação destes Termos ou das leis aplicáveis pode resultar em responsabilidades civis, criminais
+ou outras. Reservamo-nos o direito de denunciar sua(s) violação(ões) às autoridades policiais,
+suspender ou encerrar seu acesso temporária ou permanentemente, ou tomar outras medidas
+cabíveis.
+6. Planos de Serviço, Renovação, Cancelamento e Reembolso
+Planos de Serviço
+É possível que alguns dos Serviços sejam fornecidos gratuitamente (" Serviços Gratuitos "),
+enquanto outros Serviços exijam pagamento para serem utilizados, incluindo, entre outros,
+CapCut Standard (quando aplicável), CapCut Pro, Pippit Starter e outros Serviços relacionados ("
+Serviços Premium ", em conjunto com os Serviços Gratuitos, " Planos de Serviço "). Os
+Serviços Premium no CapCut e no Pippit nos Estados Unidos serão fornecidos pela TT
+Commerce & Global Services, em conformidade com as leis aplicáveis, incluindo a Ordem
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 5/24
+Executiva 14352 e quaisquer obrigações de conformidade decorrentes da mesma.
+Independentemente de você utilizar os Serviços Gratuitos ou adquirir ou assinar os Serviços
+Premium, você deve sempre utilizar esses Planos de Serviço de acordo com estes Termos e as
+leis aplicáveis.
+Para obter mais detalhes sobre os Serviços Premium, consulte as descrições detalhadas dos
+serviços na página de compra dos respectivos Serviços Premium na Plataforma. Reservamo-nos
+o direito de alterar nossos Planos de Serviço, incluindo o ajuste dos recursos ou serviços
+disponíveis ou o ajuste de preços dos Serviços Premium, de qualquer forma e a qualquer
+momento, a nosso exclusivo critério, o que não afetará, sem justa causa, os Serviços e direitos
+que você adquiriu sob estes Termos antes da entrada em vigor de tais alterações.
+Podemos desenvolver diferentes versões desta Plataforma com diferentes Serviços para
+diferentes dispositivos em diferentes regiões. Você deve obter, baixar e instalar a versão
+apropriada para seu dispositivo e jurisdição.
+Se você adquirir ou assinar qualquer um dos Serviços Premium, primeiro deverá criar uma conta
+na Plataforma e fazer login. Os Serviços Premium estão disponíveis apenas para usuários (i) da
+versão do aplicativo da Plataforma para iOS da Apple que possuam uma conta Apple ID válida,
+(ii) da versão do aplicativo da Plataforma para Android do Google que possuam uma conta
+Google válida ou (iii) da versão web da Plataforma CapCut que possuam uma conta CapCut
+válida.
+Você pode adquirir ou assinar qualquer um dos Serviços Premium pagando por meio de sua
+conta Apple ID, conta Google e/ou conta CapCut (conforme aplicável), pagando as taxas de
+compra ou assinatura e os impostos aplicáveis na moeda vigente em sua jurisdição. A menos que
+seja exigido de outra forma pelas leis aplicáveis em sua jurisdição, todas as taxas dos Serviços
+Premium exibidas para você não incluem impostos, e você concorda que poderá ser cobrado
+com quaisquer impostos aplicáveis além das taxas dos Serviços Premium. O não pagamento
+dessas taxas e impostos resultará na falha, suspensão ou cancelamento do seu acesso aos
+Serviços Premium.
+Você pode adquirir ou assinar os Serviços Premium com um período de cobrança fixo ou uma
+taxa de assinatura com renovação automática, paga antecipadamente mensalmente (ou em
+outro intervalo definido na página de compra dos Serviços Premium relevantes na Plataforma ou
+de outra forma notificado a você antes da sua assinatura) ou de acordo com outras formas de
+pagamento disponíveis.
+Se você adquirir os Serviços Premium com renovação automática, concorda que (a) a Apple, o
+Google e/ou a CapCut (conforme aplicável) podem armazenar e continuar a cobrar o seu método
+de pagamento (por exemplo, cartão de crédito) para evitar a interrupção dos Serviços Premium e
+(b) a Apple, o Google e/ou a CapCut (conforme aplicável) podem calcular os impostos a pagar
+por você com base nas informações de cobrança fornecidas no momento da compra.
+A menos que seja exigido de outra forma pelas leis aplicáveis da sua jurisdição, reservamo-nos o
+direito de alterar nossos Planos de Serviços ou ajustar os preços dos Serviços Premium de
+qualquer forma e a qualquer momento, a nosso exclusivo critério, e comunicaremos quaisquer
+alterações a você com antecedência. Tais alterações não afetarão, sem justa causa, os Serviços
+e direitos que você já adquiriu sob estes Termos antes da entrada em vigor das alterações. Essas
+alterações, especialmente as de preço, não entrarão em vigor imediatamente no momento da
+renovação da sua assinatura, a menos que você concorde expressamente com o contrário. Você
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 6/24
+sempre tem o direito de cancelar sua assinatura dos Serviços Premium a qualquer momento e
+escolher voluntariamente um Plano de Serviço diferente. Portanto, certifique-se de ler
+atentamente nossos avisos sobre alterações nos Planos de Serviço.
+Você pode encontrar informações sobre os preços dos Serviços Premium na página de compra
+dos Serviços Premium ou na página de descrição da Plataforma na Apple App Store e/ou Google
+Play (conforme aplicável). Todas as assinaturas na versão do aplicativo CapCut são pagas por
+meio do seu ID Apple e/ou conta do Google, e esses pagamentos serão processados de acordo
+com os termos e condições da Apple App Store e/ou Google Play. As assinaturas na versão web
+do CapCut são pagas por meio da sua conta CapCut, e esses pagamentos serão processados de
+acordo com estes Termos, os termos e condições de provedores de serviços de pagamento
+terceirizados e/ou termos de pagamento adicionais. As assinaturas na versão web do Pippit são
+pagas por meio da sua conta Pippit, e esses pagamentos serão processados de acordo com
+estes Termos, os termos e condições de provedores de serviços de pagamento terceirizados
+e/ou termos de pagamento adicionais.
+Renovação e Cancelamento de Serviços Premium:
+Você pode escolher o tipo de Serviço Premium que deseja comprar ou assinar.
+Se você assinar os Serviços Premium por um período fixo, sua assinatura será encerrada
+automaticamente ao término do período de assinatura.
+Se você assinar os Serviços Premium com renovação automática, sua assinatura será renovada
+automaticamente por um período adicional de igual duração ao período da assinatura anterior, a
+menos que indicado de outra forma na Plataforma. O pagamento será cobrado automaticamente
+no início de cada novo período de assinatura, de acordo com as taxas aplicáveis a esse período,
+a menos que você cancele ou altere sua assinatura dos Serviços Premium antes do término do
+período de assinatura vigente. Se não desejar continuar sendo cobrado recorrentemente, você
+deve cancelar sua assinatura dos Serviços Premium por meio de sua conta Apple ID, conta
+Google e/ou conta CapCut (conforme aplicável) antes do término do período de assinatura
+vigente. Você pode obter mais informações sobre como cancelar sua assinatura de nossos
+Serviços nas Perguntas Frequentes. Em caso de cancelamento, você ainda terá acesso aos
+Serviços Premium até o final do período de assinatura vigente e será cobrado o valor integral da
+assinatura referente a esse período, a menos que a legislação aplicável exija o contrário, por
+exemplo, se o cancelamento for justificado. Após o cancelamento entrar em vigor no último dia
+do período de assinatura vigente, você será automaticamente rebaixado para os Serviços
+Gratuitos.
+Política de reembolso
+Se você assinar os Serviços Premium (seja por um período fixo ou com renovação automática),
+poderá cancelar sua assinatura e receber um reembolso integral, com ou sem justificativa, em
+até 14 dias corridos após o início da assinatura, desde que não tenha utilizado os Serviços
+Premium de nenhuma forma desde a assinatura. Caso acredite ter direito a um reembolso, entre
+em contato conosco pelo e-mail support@us.capcut.com ( para CapCut) ou
+ussupport@us.pippit.ai (para Pippit) para obter mais informações sobre os procedimentos de
+reembolso. O reembolso da assinatura será feito pelo mesmo método de pagamento utilizado na
+compra. Você concorda em cumprir esta política de reembolso e quaisquer outras comunicações
+nossas referentes a reembolsos, se houver.
+Não obstante o exposto, se você assinar os Serviços Premium por meio do Apple Pay ou Google
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 7/24
+Pay, o cancelamento e o reembolso estarão sujeitos aos termos e condições da Apple App Store
+ou do Google Play. Você continuará tendo acesso aos Serviços Premium até que o pagamento
+da assinatura seja reembolsado pela Apple ou pelo Google.
+O disposto acima não exclui nem limita o seu direito a reembolso, total ou parcial, caso as leis
+aplicáveis nos obriguem a efetuar tal reembolso.
+7. Serviços de Espaço em Nuvem
+Você reconhece e concorda que não temos a obrigação de fornecer ou continuar a fornecer
+gratuitamente a qualquer usuário os Serviços de Espaço em Nuvem e reservamo-nos o direito de
+atualizar, degradar ou suspender nossos Serviços de Espaço em Nuvem periodicamente.
+Você pode acessar espaço de armazenamento em nuvem assinando os Serviços Premium
+relevantes, caso estes estejam disponíveis. Dependendo dos Planos de Serviço aplicáveis a
+você, a capacidade de armazenamento do espaço em nuvem alocado pode variar. A capacidade
+de armazenamento alocada aplicável aos Serviços Premium que você adquirir será exibida na
+página de descrição dos Serviços Premium relevantes ou no momento da compra. Você não
+deve utilizar capacidade de armazenamento superior à alocada. Você também pode acessar
+nossos Serviços de Armazenamento em Nuvem por outros meios em determinadas regiões.
+Além do espaço de armazenamento em nuvem alocado mencionado acima, quando aplicável, os
+usuários também podem acessar mais espaço de armazenamento em nuvem adquirindo pacotes
+adicionais de Serviços de Espaço em Nuvem. Os detalhes desses pacotes de Serviços de Espaço
+em Nuvem serão exibidos na página de descrição do respectivo Serviço de Espaço em Nuvem ou
+no momento da compra.
+Após o término ou expiração do seu período de assinatura atual dos Serviços Premium ou dos
+pacotes de Serviços de Espaço em Nuvem, sua capacidade de armazenamento em nuvem será
+suspensa automaticamente.
+Faremos todos os esforços comercialmente razoáveis para notificá-lo(a) com antecedência caso
+a capacidade de armazenamento em nuvem aplicável a você seja suspensa ou liberada. Dentro
+do prazo que lhe notificarmos com antecedência, você deverá transferir e fazer backup do seu
+conteúdo (incluindo, entre outros, seus rascunhos de vídeo, fotos, figurinhas e outros materiais)
+armazenado no espaço em nuvem operado pela Plataforma antes do vencimento do seu Plano
+de Serviço, e garantir que o conteúdo armazenado não exceda a capacidade de armazenamento
+à qual você tem direito, para evitar a perda de seu conteúdo e dados devido à falta de espaço de
+armazenamento suficiente em nuvem. Além
+destes Termos, você deverá cumprir as leis aplicáveis e outras restrições relacionadas aos
+Serviços de Espaço em Nuvem (por exemplo, restrição de tipo de arquivo, restrição de formato,
+limite de tamanho de documento). Caso seu uso viole estes Termos, as leis aplicáveis ou outras
+restrições, a TikTok USDS Joint Venture e suas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, bem como seus respectivos diretores,
+funcionários, agentes e consultores, têm o direito de tomar as medidas cabíveis, como
+suspender ou encerrar seu acesso aos Serviços de Espaço em Nuvem, excluir seu conteúdo que
+exceda sua capacidade de armazenamento permitida ou que não esteja em conformidade com
+estes Termos, as leis aplicáveis ou outras restrições relacionadas a esse recurso dos Serviços de
+Espaço em Nuvem.
+Você deve sempre fazer backup do seu conteúdo. A TikTok USDS Joint Venture e suas afiliadas,
+provedores de serviços e parceiros comerciais, incluindo a TT Commerce & Global Services, bem
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 8/24
+como seus respectivos diretores, funcionários, agentes e consultores, não serão responsáveis
+por qualquer perda de seu conteúdo ou dados armazenados pelo uso do recurso Serviços de
+Espaço em Nuvem, na medida permitida pelas leis aplicáveis.
+8. Direitos de Propriedade Intelectual
+Os Serviços, incluindo a Plataforma e o Conteúdo da Empresa (conforme definido na Seção 9),
+são protegidos pelas leis de direitos autorais, patentes, marcas registradas e outros direitos de
+propriedade intelectual aplicáveis. Todos os direitos de propriedade intelectual dos Serviços
+operados por nós são de nossa propriedade, de nossos provedores de serviços e parceiros
+comerciais, como a TT Commerce & Global Services, nossas afiliadas ou nossos licenciadores
+terceirizados, na máxima extensão permitida pelas leis aplicáveis, incluindo a Ordem Executiva
+14352 e quaisquer obrigações de conformidade decorrentes dela, sujeitos a estes Termos. Salvo
+disposição expressa em contrário nestes Termos, você não poderá publicar, reproduzir, distribuir,
+exibir, executar, editar, adaptar, modificar ou explorar de qualquer outra forma qualquer parte
+dos Serviços sem o nosso consentimento por escrito.
+Respeitamos os direitos de propriedade intelectual e exigimos que você faça o mesmo. Como
+condição para acessar e usar os Serviços, você reconhece e concorda em não usá-los para
+infringir quaisquer direitos de propriedade intelectual. Reservamo-nos o direito, com ou sem
+aviso prévio, a qualquer momento e a nosso exclusivo critério, de bloquear seu acesso aos
+Serviços ou de suspender ou encerrar sua conta temporária ou permanentemente, caso haja
+infração ou suposta infração de quaisquer direitos de propriedade intelectual ou direitos
+autorais.
+Ao usar os Serviços, você reconhece e concorda que a TikTok USDS Joint Venture e nossos
+provedores de serviços e parceiros comerciais, como a TT Commerce & Global Services, e
+nossas afiliadas, não fazem promessas ou garantias quanto à legalidade ou adequação de
+qualquer conteúdo inserido ou gerado por você com base em suas informações. Você será o
+único responsável pelo conteúdo carregado ou criado usando os Serviços, e tal conteúdo não é
+e não será endossado, patrocinado ou aprovado por nós ou por nossos provedores de serviços e
+parceiros comerciais, como a TT Commerce & Global Services, ou nossas afiliadas.
+9. Conteúdo
+da Empresa
+O Conteúdo da Empresa refere-se aos materiais criativos fornecidos diretamente pela CapCut e
+por nossos provedores de serviços e parceiros comerciais, como a TT Commerce & Global
+Services, e nossas afiliadas, para uso em seus projetos, incluindo, entre outros, modelos,
+videoclipes, imagens, adesivos, modelos de texto, fontes, efeitos sonoros, efeitos especiais,
+filtros, telas e animações (“Conteúdo da Empresa”). Além do conteúdo fornecido por nossos
+provedores de serviços e parceiros comerciais, como a TT Commerce & Global Services, e
+nossas afiliadas, o Conteúdo da Empresa não inclui conteúdo e serviços de terceiros ou
+Conteúdo do Usuário.
+Os termos que regem se o Conteúdo da Empresa pode ser usado para fins comerciais ou não
+comerciais podem variar dependendo do produto CapCut que você está usando e são
+especificados no Contrato de Licença de Materiais da CapCut. Para o aplicativo CapCut, a
+versão para desktop do CapCut e a versão web do CapCut, consulte o Contrato de Licença de
+Materiais da CapCut para determinar os usos permitidos do Conteúdo da Empresa. Para a Pippit,
+você está expressamente autorizado a usar o Conteúdo da Empresa para fins comerciais, sujeito
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 9/24
+ao cumprimento do Contrato de Licença de Materiais da CapCut.
+É concedida a você uma licença não exclusiva, limitada, intransferível, não sublicenciável e
+revogável para acessar e usar o Conteúdo da Empresa em seus projetos, em conformidade com
+estes Termos e o Contrato de Licença de Materiais da CapCut. Qualquer uso do Conteúdo da
+Empresa além do que é expressamente permitido é proibido sem o consentimento prévio por
+escrito da TikTok USDS Joint Venture ou de nossos provedores de serviços ou parceiros
+comerciais, como a TT Commerce & Global Services, e nossas afiliadas, ou seus licenciadores. A
+TikTok USDS Joint Venture e nossas afiliadas, provedores de serviços e parceiros comerciais,
+incluindo a TT Commerce & Global Services, reservam-se todos os direitos não expressamente
+concedidos neste documento em relação aos Serviços e ao Conteúdo da Empresa. Você
+reconhece e concorda que a TikTok USDS Joint Venture ou nossos provedores de serviços e
+parceiros comerciais, como a TT Commerce & Global Services, e nossas afiliadas, podem
+rescindir esta licença a qualquer momento, por qualquer motivo ou sem motivo algum.
+Exceto conforme expressamente previsto nestes Termos e no Contrato de Licença de Materiais
+da Capcut, nenhum direito é licenciado com relação às gravações sonoras e às obras musicais
+nelas contidas que sejam disponibilizadas por meio dos Serviços.
+Você reconhece e concorda que, ao visualizar conteúdo fornecido por terceiros nos Serviços, o
+faz por sua própria conta e risco. O conteúdo em nossos Serviços destina-se apenas a fins
+informativos gerais. Ele não se destina a constituir aconselhamento no qual você deva confiar.
+Você deve obter aconselhamento profissional ou especializado antes de tomar, ou se abster de
+tomar, qualquer ação com base no conteúdo dos Serviços.
+O Conteúdo da Empresa é fornecido "no estado em que se encontra". A TikTok USDS Joint
+Venture e nossos provedores de serviços e parceiros comerciais, como a TT Commerce & Global
+Services, e nossas afiliadas, não garantem a precisão, integridade ou adequação do Conteúdo
+da Empresa para qualquer finalidade específica. O uso do Conteúdo da Empresa é de sua inteira
+responsabilidade, e a TikTok USDS Joint Venture e suas afiliadas, provedores de serviços e
+parceiros comerciais, incluindo a TT Commerce & Global Services, bem como seus respectivos
+diretores, funcionários, agentes e consultores, se eximem de toda e qualquer responsabilidade
+por perdas ou danos decorrentes do uso do Conteúdo da Empresa.
+Para obter mais detalhes, consulte o Contrato de Licença de Materiais da CapCut para conhecer
+os termos completos que regem o uso do Conteúdo da Empresa.
+Conteúdo de Terceiros
+Determinados conteúdos disponíveis na Plataforma são fornecidos por determinados usuários
+e/ou terceiros, e não pela TikTok USDS Joint Venture ou nossas afiliadas, provedores de serviços
+ou parceiros comerciais, incluindo a TT Commerce & Global Services (por exemplo, certos
+modelos de vídeo fornecidos por terceiros). Certos identificadores (por exemplo, o autor do
+upload desse conteúdo de terceiros) podem ser exibidos na Plataforma para distinguir esse
+conteúdo de terceiros do Conteúdo da Empresa. Você possui uma licença não exclusiva,
+limitada, intransferível, não sublicenciável e revogável para acessar e usar esse conteúdo de
+terceiros em conformidade com estes Termos e o Contrato de Licença de Materiais da CapCut.
+Esse conteúdo de terceiros não é fornecido nem endossado pela TikTok USDS Joint Venture ou
+nossas afiliadas, provedores de serviços ou parceiros comerciais, incluindo a TT Commerce &
+Global Services. Você reconhece e concorda que utiliza esse conteúdo de terceiros por sua
+própria conta e risco. A TikTok USDS Joint Venture, nossas afiliadas, provedores de serviços e
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 10/24
+parceiros comerciais, incluindo a TT Commerce & Global Services, e cada um de seus
+respectivos diretores, funcionários, agentes e consultores não são responsáveis por qualquer
+conteúdo de terceiros e pelo seu acesso ou uso desse conteúdo.
+Serviços de Terceiros:
+Quando nossos Serviços contêm links para outros sites e recursos fornecidos por terceiros,
+como na forma de anúncios, esses links são apenas para sua informação. Você reconhece que a
+TikTok USDS Joint Venture e nossos provedores de serviços e parceiros comerciais, como a TT
+Commerce & Global Services, e nossas afiliadas não têm controle sobre o conteúdo desses sites
+ou recursos. A presença desses links em nossa Plataforma, ou a apresentação desses links a
+você como anúncios direcionados durante o uso do Serviço, não deve ser interpretada como
+qualquer endosso ou aprovação por parte da TikTok USDS Joint Venture ou de nossos
+provedores de serviços ou parceiros comerciais, como a TT Commerce & Global Services, ou
+nossas afiliadas, desses sites vinculados, operadores desses sites ou informações que você
+possa obter deles, ou qualquer declaração de que nós, nossos provedores de serviços ou
+parceiros comerciais, como a TT Commerce & Global Services, ou nossas afiliadas, tenhamos
+revisado o conteúdo desses sites. Seu uso de tais sites ou recursos de terceiros pode estar
+sujeito a termos e condições (incluindo políticas de privacidade) entre os provedores de tais
+sites ou recursos e você. A TikTok USDS Joint Venture, nossos provedores de serviços e
+parceiros comerciais, como a TT Commerce & Global Services, e nossas afiliadas não têm
+controle sobre tais termos e condições e, em nenhuma circunstância, serão parte de qualquer
+acordo (incluindo contrato) ou entendimento entre você e tais provedores.
+Serviços de IA de Terceiros
+Certos recursos dos Serviços são integrados a tecnologias de IA e APIs de terceiros (por
+exemplo, Runway, Stable Diffusion, Google, YouTube, FLUX, Luma) que estão sujeitos a estes
+termos e a quaisquer termos adicionais impostos pelos fornecedores dessas tecnologias. O uso
+desses recursos está sujeito aos termos e condições relevantes de terceiros e deve estar em
+conformidade com eles. Caso não concorde com tais termos e condições, você não deverá usar
+esses recursos de terceiros. Essas tecnologias de IA e APIs de terceiros não estão sob nosso
+controle, e a TikTok USDS Joint Venture e nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, bem como seus respectivos diretores,
+funcionários, agentes e consultores, não são responsáveis e não fazem declarações ou garantias
+a respeito de tais tecnologias de IA ou APIs, ou qualquer outro conteúdo, negócio, recurso,
+produto ou serviço de terceiros que possa ser usado em conexão com os Serviços.
+Ao acessar ou usar recursos integrados com tecnologias e APIs de IA de terceiros, sem limitar os
+termos e condições aplicáveis de terceiros (na medida em que não haja conflito), você concorda
+com as seguintes responsabilidades:
+Licenças e Permissões: Você deve garantir que possui todos os direitos, licenças e
+permissões necessários para fornecer dados às tecnologias de IA ou APIs de terceiros,
+incluindo quaisquer autorizações ou liberações de publicidade necessárias.
+Respeito aos direitos: É proibido usar os resultados ou outros produtos dos serviços,
+tecnologias de IA de terceiros ou APIs de forma que violem os direitos de terceiros, incluindo
+direitos de propriedade intelectual, privacidade ou direitos autorais.
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 11/24
+Conduta Proibida: Você não deve usar as tecnologias de IA ou APIs de terceiros para
+qualquer forma de discriminação, intolerância, racismo, ódio, assédio, violência ou dano contra
+qualquer indivíduo ou grupo. Você não deve, nem tentar, contornar ou burlar quaisquer
+limitações ou restrições de quaisquer Serviços ou tecnologias de IA ou APIs de terceiros, nem
+causar, ou tentar causar, que os Serviços ou tecnologias de IA ou APIs forneçam resultados ou
+executem ações que sejam inconsistentes com seus usos pretendidos, ou que sejam
+inconsistentes com as limitações nestes termos ou fornecidas de outra forma em conexão
+com os Serviços (por exemplo, ferramentas de filtro de conteúdo).
+Você concorda em empregar esforços comercialmente razoáveis para impedir o acesso ou uso
+não autorizado dos serviços de IA de terceiros e em notificar imediatamente o provedor
+terceirizado e a CapCut caso tome conhecimento de qualquer acesso ou uso não autorizado.
+Termos adicionais de terceiros.
+Certos recursos também podem ser regidos por licenças de código aberto ou outros contratos.
+Consulte os termos do provedor terceirizado aplicável (por exemplo, Termos de Uso da Runway,
+Licença CreativeML OpenRAIL, Termos de Serviço do Google) para obter detalhes.
+Conteúdo gerado pelo usuário.
+Os usuários dos Serviços podem ser autorizados a carregar, publicar, transmitir ou disponibilizar
+conteúdo por meio dos Serviços, incluindo, entre outros, música (incluindo gravações de som e
+obras musicais nela contidas), modelos de vídeo e qualquer texto, fotografia, vídeo, gravação de
+som e as obras musicais nele contidas (incluindo vídeos que incorporam gravações de som
+armazenadas localmente de sua biblioteca de música pessoal e ruído ambiente) carregados ou
+disponibilizados por meio dos Serviços (“ Conteúdo do Usuário ”).
+Os usuários dos Serviços também podem sobrepor Conteúdo da Empresa, como músicas,
+efeitos, adesivos, filtros, animações e outros elementos fornecidos pela CapCut, relacionados à
+Plataforma, ao Conteúdo do Usuário. As informações e os materiais no Conteúdo do Usuário,
+incluindo o Conteúdo do Usuário que inclui Conteúdo da Empresa, não são revisados,
+verificados, endossados ou aprovados pela TikTok USDS Joint Venture ou por nossas afiliadas,
+provedores de serviços ou parceiros comerciais, incluindo a TT Commerce & Global Services. As
+opiniões expressas por qualquer usuário ou por meio do Conteúdo do Usuário não representam
+as opiniões ou os valores da TikTok USDS Joint Venture ou de nossas afiliadas, provedores de
+serviços ou parceiros comerciais, incluindo a TT Commerce & Global Services, e de cada um de
+seus respectivos diretores, funcionários, agentes e consultores. A TikTok USDS Joint Venture e
+suas afiliadas, provedores de serviços e parceiros comerciais, incluindo a TT Commerce & Global
+Services, e cada um de seus respectivos diretores, funcionários, agentes e consultores não
+garantem a precisão, integridade, adequação ou qualidade de qualquer Conteúdo do Usuário e,
+em nenhuma circunstância, a TikTok USDS Joint Venture ou suas afiliadas, provedores de
+serviços ou parceiros comerciais, incluindo a TT Commerce & Global Services, e cada um de seus
+respectivos diretores, funcionários, agentes e consultores serão responsabilizados de qualquer
+forma por qualquer Conteúdo do Usuário.
+Você poderá acessar ou usar um recurso dos Serviços que permite o upload ou a transmissão de
+Conteúdo do Usuário para uma plataforma de terceiros ou o compartilhamento de Conteúdo do
+Usuário com outros usuários. Caso utilize esse recurso, você deverá cumprir as diretrizes de
+conteúdo da plataforma de terceiros, bem como os requisitos estabelecidos na Seção 5 (Seu
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 12/24
+Acesso e Uso de Nossos Serviços) acima. Conforme mencionado anteriormente, esses recursos
+podem não estar disponíveis para todos os usuários dos Serviços, e a TikTok USDS Joint Venture
+e nossas afiliadas, provedores de serviços e parceiros comerciais, incluindo a TT Commerce &
+Global Services, e seus respectivos diretores, funcionários, agentes e consultores não terão
+qualquer responsabilidade perante você por limitar seu acesso a determinados recursos dos
+Serviços. Você garante que cumprirá esses requisitos e será responsável perante a TikTok USDS
+Joint Venture e/ou nossas afiliadas, provedores de serviços e parceiros comerciais, incluindo a TT
+Commerce & Global Services, e cada um de seus respectivos diretores, funcionários, agentes e
+consultores, e nos indenizará, bem como nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, e cada um de seus respectivos
+diretores, funcionários, agentes e consultores, por qualquer violação. Isso significa que você — e
+não a TikTok USDS Joint Venture ou nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, e cada um de seus respectivos
+diretores, funcionários, agentes e consultores — será responsável por qualquer perda ou dano
+que a TikTok USDS Joint Venture ou nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, e cada um de seus respectivos
+diretores, funcionários, agentes e consultores sofrerem como resultado de sua violação da
+garantia.
+Todo o Conteúdo do Usuário será considerado não confidencial. Você não deve carregar ou
+disponibilizar qualquer Conteúdo do Usuário nos Serviços ou por meio deles, nem disponibilizar
+para nós qualquer Conteúdo do Usuário que você considere confidencial ou de propriedade
+exclusiva de terceiros. Ao carregar ou disponibilizar Conteúdo do Usuário por meio dos Serviços,
+você concorda, declara e garante que é o proprietário de tal Conteúdo do Usuário ou que
+recebeu todas as permissões necessárias (incluindo quaisquer licenças necessárias),
+autorizações ou está autorizado pelo proprietário de qualquer parte do conteúdo para enviar tal
+Conteúdo do Usuário aos Serviços e/ou para fazer qualquer outro uso de tal Conteúdo do
+Usuário nos Serviços ou por meio deles.
+Você deve ser o proprietário do seu Conteúdo de Usuário ou ter obtido todos os direitos,
+licenças e autorizações necessários para todos os elementos do seu Conteúdo de Usuário. Por
+exemplo, se você detém apenas os direitos sobre uma gravação de som, mas não sobre as obras
+musicais subjacentes incorporadas a essas gravações, você não deve fazer o upload ou
+disponibilizar essas gravações de som nos Serviços ou por meio deles, a menos que tenha todas
+as permissões (incluindo todas as licenças necessárias), autorizações ou esteja autorizado pelo
+proprietário de qualquer parte da obra musical para fazer o upload ou disponibilizá-la nos
+Serviços ou por meio deles.
+Exceto quando expressamente disposto de outra forma nestes Termos, você ou o proprietário do
+seu Conteúdo de Usuário ainda detêm os direitos autorais e quaisquer outros direitos de
+propriedade intelectual sobre o Conteúdo de Usuário enviado a nós. No entanto, ao enviar
+Conteúdo de Usuário por meio dos Serviços, você reconhece e concorda que nos permite
+carregar esse conteúdo em nosso servidor e, por meio deste, concede à TikTok USDS Joint
+Venture e às nossas afiliadas, agentes, provedores de serviços, parceiros e outros terceiros
+relacionados uma licença incondicional, irrevogável, não exclusiva, isenta de royalties, totalmente
+transferível (incluindo sublicenciável), perpétua e mundial para usar, modificar, adaptar,
+reproduzir, criar trabalhos derivados, exibir, publicar, transmitir, distribuir e/ou armazenar seu
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 13/24
+Conteúdo de Usuário para fornecer os Serviços a você.
+Você também nos concede, bem como às nossas afiliadas, agentes, provedores de serviços,
+parceiros e outros terceiros relacionados, uma licença isenta de royalties, totalmente transferível
+(incluindo sublicenciável) e mundial para usar seu nome de usuário, imagem e semelhança para
+identificá-lo como a fonte de qualquer Conteúdo de Usuário, inclusive para uso em conteúdo
+patrocinado.
+Para evitar dúvidas, os direitos concedidos nos parágrafos anteriores desta Seção incluem, mas
+não se limitam a, o direito de reproduzir gravações sonoras (e fazer reproduções mecânicas das
+obras musicais contidas nessas gravações sonoras), bem como executar e comunicar
+publicamente ao público gravações sonoras (e as obras musicais nelas contidas), tudo sem o
+pagamento de royalties. Isso significa que você nos concede o direito de usar seu Conteúdo de
+Usuário sem a obrigação de pagar royalties a você ou a terceiros, incluindo, entre outros, o
+detentor dos direitos autorais de uma gravação sonora (por exemplo, uma gravadora), o detentor
+dos direitos autorais de uma obra musical (por exemplo, uma editora musical), uma organização
+de direitos autorais (por exemplo, ASCAP, BMI, SESAC etc.) (uma " PRO "), uma PRO de
+gravação sonora (por exemplo, SoundExchange), organizações de gestão coletiva (" CMOs "),
+quaisquer sindicatos ou associações, e engenheiros, produtores ou outros participantes do
+sistema de royalties que possam estar envolvidos (conscientemente ou não) na criação do
+Conteúdo de Usuário.
+Regras específicas para obras musicais e artistas de gravação.Se você for compositor ou
+autor de uma obra musical e estiver afiliado a uma PRO ou CMO, deverá notificar sua PRO ou
+CMO sobre a licença livre de royalties que você nos concede por meio destes Termos em seu
+Conteúdo de Usuário. Você é o único responsável por garantir a conformidade com as
+obrigações de relatório da PRO ou CMO relevante e quaisquer outros termos dessa PRO ou CMO
+aplicáveis a você. Se você tiver cedido seus direitos a uma editora musical, deverá obter o
+consentimento dessa editora para conceder a(s) licença(s) livre(s) de royalties estabelecida(s)
+nestes Termos em seu Conteúdo de Usuário ou fazer com que essa editora musical firme estes
+Termos conosco. O simples fato de você ser o autor de uma obra musical (por exemplo, ter
+escrito uma música) não significa que você tenha o direito de nos conceder as licenças nestes
+Termos. Se você for um artista de gravação sob contrato com uma gravadora, será o único
+responsável por garantir que seu uso dos Serviços esteja em conformidade com quaisquer
+obrigações contratuais que você possa ter com sua gravadora, inclusive se você criar novas
+gravações por meio dos Serviços que possam ser reivindicadas por sua gravadora.
+Direitos de Transmissão ao Público. Todos os direitos que você concede em seu Conteúdo de
+Usuário nestes Termos são fornecidos de forma transparente para o público, o que significa que
+os proprietários ou operadores de serviços de terceiros, incluindo nossos provedores de serviços
+e parceiros comerciais, como a TT Commerce & Global Services, e nossas afiliadas, não terão
+qualquer responsabilidade separada perante você ou qualquer terceiro decorrente ou
+relacionada à disponibilidade do seu Conteúdo de Usuário por meio desses serviços de
+terceiros.
+Renúncia de Direitos sobre o Conteúdo de Usuário. Ao enviar ou disponibilizar Conteúdo de
+Usuário nos Serviços ou por meio deles, você renuncia a quaisquer direitos de inspeção ou
+aprovação prévia de quaisquer materiais de marketing, publicidade ou promoção relacionados a
+esse Conteúdo de Usuário. Você também renuncia (na medida permitida pela legislação
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 14/24
+aplicável) a todos e quaisquer direitos de privacidade, publicidade ou quaisquer outros direitos
+de natureza semelhante em relação ao seu Conteúdo de Usuário, ou qualquer parte dele. Por
+meio deste, você renuncia (na medida permitida pela legislação aplicável) e concorda em nunca
+reivindicar quaisquer direitos morais que possa ter em relação a qualquer Conteúdo do Usuário
+que você carregue ou disponibilize por meio dos Serviços, ou em apoiar, manter ou permitir
+qualquer ação com base em tais direitos morais.
+Nós, ou terceiros autorizados, reservamo-nos o direito de cortar, recortar, editar ou recusar o
+upload do seu conteúdo a nosso exclusivo critério. Além disso, temos o direito – mas não a
+obrigação – a nosso exclusivo critério de remover, proibir, bloquear ou excluir qualquer Conteúdo
+do Usuário (i) que consideremos violar estes Termos (incluindo, sem limitação, os padrões de
+conteúdo estabelecidos na Seção 5 acima), ou (ii) em resposta a reclamações de outros usuários
+ou terceiros, com ou sem aviso prévio e sem qualquer responsabilidade perante você. Portanto,
+você deve salvar cópias de qualquer Conteúdo do Usuário que você carregar ou disponibilizar
+nos Serviços em seu(s) dispositivo(s) pessoal(is), caso deseje garantir acesso permanente a
+cópias desse Conteúdo do Usuário.
+A TikTok USDS Joint Venture e nossas afiliadas, provedores de serviços e parceiros comerciais,
+incluindo a TT Commerce & Global Services, e cada um de seus respectivos diretores,
+funcionários, agentes e consultores não se responsabilizam por qualquer conteúdo ou
+informação enviada ou disponibilizada por usuários dos Serviços e disponibilizada nos Serviços
+ou publicada em outros locais por usuários e/ou terceiros. Você reconhece que a TikTok USDS
+Joint Venture e nossas afiliadas, provedores de serviços e parceiros comerciais, incluindo a TT
+Commerce & Global Services, e cada um de seus respectivos diretores, funcionários, agentes e
+consultores não têm a obrigação de pré-selecionar, monitorar, revisar ou editar qualquer
+conteúdo disponibilizado por você e outros usuários nos Serviços (incluindo Conteúdo do
+Usuário).
+Reclamações
+Você reconhece e concorda que, em certas circunstâncias, temos o direito de divulgar sua
+identidade a terceiros que aleguem que qualquer Conteúdo do Usuário publicado ou carregado
+por você em nossos Serviços constitui uma violação de seus direitos de propriedade intelectual
+ou de seu direito à privacidade. Notificaremos você com antecedência em tal situação.
+Se desejar reclamar sobre informações e materiais (incluindo Conteúdo do Usuário) carregados
+por outros usuários ou se houver outra questão que deseje nos comunicar, entre em contato
+conosco pelo e-mail support@us.capcut.com para CapCut ou ussupport@us.pippit.ai para
+Pippit.
+Política de Direitos Autorais da DMCA
+Adotamos a seguinte política geral em relação à violação de direitos autorais, em conformidade
+com a Lei de Direitos Autorais do Milênio Digital (DMCA). O endereço do Agente Designado para
+Receber Notificações de Alegada Infração de Direitos Autorais ("Agente Designado") encontrase listado ao final desta política.
+Procedimento para Denúncia de Infração de Direitos Autorais: Caso acredite que algum material
+ou conteúdo presente ou acessível por meio da Plataforma ou dos Serviços infringe direitos
+autorais, envie uma notificação de infração de direitos autorais contendo as seguintes
+informações ao Agente Designado listado abaixo:
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 15/24
+Um endereço de e-mail, endereço físico e um número de telefone para que nós e a pessoa
+que carregou o conteúdo supostamente infringindo seus direitos autorais possamos entrar em
+contato com você.
+O endereço URL ou outra localização que identifique a obra supostamente infratora.
+Tipo de conteúdo que você está denunciando. Pode ser vídeo, texto, imagem, etc.
+O motivo pelo qual você denunciou este conteúdo e sua solicitação.
+Documentos ou URLs que comprovem a violação de direitos autorais. Caso não possua
+documentos que demonstrem a violação, descreva de forma clara e completa a obra que
+acredita ter sido infringida.
+Uma declaração de que você acredita de boa-fé que o uso do material da maneira reclamada
+não é autorizado pelo proprietário dos direitos autorais, seu agente ou pela lei; sob pena de
+perjúrio, que as informações acima são precisas e que você é o proprietário dos direitos
+autorais ou está autorizado a agir em nome do proprietário dos direitos autorais; e concorda
+que todas as informações enviadas em sua notificação de violação de propriedade intelectual
+podem ser encaminhadas ao autor do upload do conteúdo ou divulgadas publicamente de
+qualquer forma por nós ou por terceiros.
+A assinatura física ou eletrônica do titular dos direitos autorais ou de um representante
+autorizado do titular dos direitos autorais. Para atender a esse requisito, você pode digitar seu
+nome completo (não o de uma empresa) na parte inferior da sua notificação.
+Se recebermos uma notificação de remoção de acordo com o exposto acima, removeremos o
+material citado na notificação e tentaremos notificar qualquer usuário que tenha carregado o
+material supostamente infrator, caso tenhamos suas informações de contato. Qualquer usuário
+terá a oportunidade de enviar uma "contranotificação", conforme descrito abaixo. Se
+determinarmos que um usuário infringiu repetidamente os direitos de propriedade intelectual de
+terceiros, desativaremos todas as contas desse usuário conosco, quando apropriado.
+Procedimento para envio de contranotificação: Se um usuário acreditar que o material removido
+não infringe direitos autorais ou que possui o direito de publicar e usar tal material, concedido
+pelo proprietário dos direitos autorais, pelo agente do proprietário dos direitos autorais ou de
+acordo com a lei, o usuário deverá enviar uma contranotificação contendo as seguintes
+informações ao Agente Designado listado abaixo:
+Assinatura física ou eletrônica do usuário;
+Identificação do material que foi removido e da localização onde o material se encontrava
+antes de ser removido;
+Uma declaração de que o usuário acredita de boa-fé que o material foi removido por engano
+ou por identificação incorreta do material; e
+O nome, endereço, número de telefone e, se disponível, endereço de e-mail do usuário, bem
+como uma declaração de que tal pessoa ou entidade concorda com a jurisdição do Tribunal
+Federal do distrito judicial em que o endereço do usuário está localizado ou, se o endereço do
+usuário estiver localizado fora dos Estados Unidos, com a jurisdição de qualquer distrito
+judicial em que estejamos localizados, e que tal pessoa ou entidade aceitará a citação
+processual da pessoa que forneceu a notificação da suposta infração.
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 16/24
+Se recebermos uma contranotificação, encaminharemos uma cópia da mesma à parte
+reclamante original, informando-a de que poderemos restaurar o material removido após 10 dias.
+A parte reclamante original terá então 10 dias para nos notificar que entrou com uma ação
+judicial relacionada ao material supostamente infrator. Caso não recebamos tal notificação
+dentro de 10 dias, poderemos restaurar o material, a nosso critério.
+Entre em contato com o Agente Designado da CapCut para receber notificações de supostas
+infrações pelo e-mail ip-reports@usds.capcut.com .
+Feedback:
+Embora nossa equipe esteja constantemente trabalhando para desenvolver e avaliar nossas
+ideias e recursos de produto, nos orgulhamos de prestar muita atenção aos interesses,
+feedbacks, comentários e sugestões que recebemos da comunidade de usuários. Se você optar
+por contribuir enviando a nós, aos nossos funcionários ou colaboradores, quaisquer ideias para
+produtos, serviços, funcionalidades, modificações, melhorias, conteúdo, refinamentos,
+tecnologias, ofertas de conteúdo, promoções, estratégias ou nomes de
+produtos/funcionalidades, ou qualquer documentação, arte, código de computador, diagramas
+ou outros materiais relacionados (coletivamente, " Feedback "), então, independentemente do
+que sua comunicação anexa possa dizer, os seguintes termos serão aplicáveis, para que o status
+desse Feedback seja claramente compreendido por você e por nós. Portanto, ao nos enviar
+Feedback, você reconhece e concorda que:
+A TikTok USDS Joint Venture e nossos provedores de serviços e parceiros comerciais, como a
+TT Commerce & Global Services, e nossas afiliadas não têm obrigação de analisar, considerar,
+comentar ou implementar seu Feedback, nem de devolver a você todo ou parte de qualquer
+Feedback por qualquer motivo;
+O feedback é fornecido em caráter não confidencial, e a TikTok USDS Joint Venture, bem
+como nossos provedores de serviços e parceiros comerciais, como a TT Commerce & Global
+Services, e nossas afiliadas, não têm qualquer obrigação de manter a confidencialidade de
+qualquer feedback que você enviar, nem de se abster de usá-lo ou divulgá-lo de qualquer
+forma; e
+Você concede irrevogavelmente à TikTok USDS Joint Venture uma licença incondicional,
+irrevogável, não exclusiva, isenta de royalties, totalmente transferível (incluindo
+sublicenciável), perpétua, mundial e ilimitada para adaptar, reproduzir, distribuir, criar trabalhos
+derivados, modificar, executar publicamente (inclusive para o público em geral), comunicar ao
+público, disponibilizar, exibir publicamente e, de outra forma, usar e explorar o Feedback e
+seus derivados para qualquer finalidade e sem restrições, gratuitamente e sem atribuição de
+qualquer tipo, incluindo a criação, o uso, a venda, a oferta para venda, a importação e a
+promoção de produtos e serviços comerciais que incorporem ou representem o Feedback,
+seja no todo ou em parte, e seja conforme fornecido ou modificado.
+10. INDENIZAÇÃO.
+Você deverá defender, indenizar e isentar de responsabilidade a TikTok USDS Joint Venture e
+suas afiliadas, provedores de serviços e parceiros comerciais, incluindo a TT Commerce & Global
+Services, e cada um de seus respectivos diretores, funcionários, agentes e consultores (cada um,
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 17/24
+uma “ Parte Indenizada ”), de quaisquer perdas, reivindicações, responsabilidades, demandas,
+danos, custos e despesas diretas e indiretas, incluindo, entre outros, honorários advocatícios e
+despesas, que possam ser sofridos ou incorridos por uma Parte Indenizada ou alegados contra
+uma Parte Indenizada, decorrentes de um VIOLAÇÃO POR VOCÊ OU QUALQUER USUÁRIO DA
+SUA CONTA DESTES TERMOS OU DAS LEIS APLICÁVEIS OU DECORRENTE DE UMA VIOLAÇÃO
+DE SUAS OBRIGAÇÕES, DECLARAÇÕES OU GARANTIAS SOB ESTES TERMOS.
+11. EXCLUSÃO DE GARANTIAS
+NADA NESTES TERMOS AFETARÁ QUAISQUER DIREITOS LEGAIS QUE VOCÊ NÃO POSSA
+CONTRATUALMENTE CONCORDAR EM ALTERAR OU RENUNCIAR E AOS QUAIS SEMPRE TEM
+DIREITO LEGAL COMO CONSUMIDOR.
+OS SERVIÇOS (INCLUINDO O CONTEÚDO DA EMPRESA) SÃO FORNECIDOS "NO ESTADO EM
+QUE SE ENCONTRAM" E "CONFORME DISPONÍVEIS", COM TODAS AS FALHAS, E A TIKTOK
+USDS JOINT VENTURE E A TT COMMERCE & GLOBAL SERVICES NÃO OFERECEM NENHUMA
+CONDIÇÃO, GARANTIA OU DECLARAÇÃO DE QUALQUER TIPO OU NATUREZA, SEJA EXPRESSA
+OU IMPLÍCITA, A VOCÊ COM RELAÇÃO A ELES. EM PARTICULAR, A TIKTOK USDS JOINT
+VENTURE E A TT COMMERCE & GLOBAL SERVICES NÃO DECLARAM NEM GARANTEM A VOCÊ
+QUE:
+O USO DOS SERVIÇOS ATENDERÁ ÀS SUAS NECESSIDADES OU ALCANÇARÁ QUAISQUER
+RESULTADOS PRETENDIDOS ;
+O SEU USO DOS SERVIÇOS SERÁ ININTERRUPTO, PONTUAL, SEGURO OU LIVRE DE ERROS,
+OU NÃO CONTERÁ CÓDIGO MALIGNO;
+Qualquer informação obtida por você como resultado do uso dos serviços será completa ,
+precisa, atualizada ou confiável; ou
+Quaisquer defeitos no funcionamento ou na funcionalidade de qualquer software fornecido a
+você como parte dos serviços serão corrigidos.
+NENHUMA CONDIÇÃO, DECLARAÇÃO, GARANTIA OU OUTRO TERMO (INCLUINDO QUAISQUER
+CONDIÇÕES, DECLARAÇÕES, TERMOS OU GARANTIAS IMPLÍCITAS E TERMOS RELATIVOS À
+QUALIDADE SATISFATÓRIA, COMERCIABILIDADE, ADEQUAÇÃO A UM FIM ESPECÍFICO,
+CONFORMIDADE COM A DESCRIÇÃO, NÃO VIOLAÇÃO OU OUTRA VIOLAÇÃO DE DIREITOS) SE
+APLICAM AOS SERVIÇOS (INCLUINDO O CONTEÚDO DA EMPRESA), EXCETO NA MEDIDA EM
+QUE ESTEJAM EXPRESSAMENTE ESTABELECIDOS NESTES TERMOS. PODEMOS ALTERAR,
+SUSPENDER, RETIRAR OU RESTRINGIR A DISPONIBILIDADE DE TODA OU QUALQUER PARTE DA
+PLATAFORMA E/OU DOS SERVIÇOS POR MOTIVOS COMERCIAIS E OPERACIONAIS A QUALQUER
+MOMENTO, SEM AVISO PRÉVIO.
+A TIKTOK USDS JOINT VENTURE E A TT COMMERCE & GLOBAL SERVICES NÃO SÃO
+OBRIGADAS A FORNECER QUAISQUER SERVIÇOS DE TRANSIÇÃO OU SUPORTE TÉCNICO OU
+DE OUTRA NATUREZA APÓS A SUSPENSÃO OU O TÉRMINO DE QUAISQUER SERVIÇOS, NEM
+ESTAMOS SUJEITAS A QUALQUER OBRIGAÇÃO OU COMPROMISSO DE RECUPERAÇÃO DE
+DESASTRE.
+12. LIMITAÇÃO DE RESPONSABILIDADE.
+NADA NESTES TERMOS EXCLUIRÁ OU LIMITARÁ A NOSSA RESPONSABILIDADE OU A DE
+NOSSAS AFILIADAS E PARCEIROS COMERCIAIS POR PERDAS QUE NÃO POSSAM SER
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 18/24
+LEGALMENTE EXCLUÍDAS OU LIMITADAS PELA LEI APLICÁVEL. Isso inclui a responsabilidade por
+morte ou lesão corporal causadas diretamente por nossa negligência ou pela negligência de
+nossos funcionários ou agentes, bem como por fraude ou declaração fraudulenta.
+Sujeito ao parágrafo acima, nós e nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, e cada um de seus respectivos
+diretores, funcionários, agentes e consultores, não seremos responsáveis perante você por:
+(I) QUALQUER PERDA DE LUCRO (SEJA INCORRIDA DIRETAMENTE OU INDIRETAMENTE); (II)
+QUALQUER PERDA DE FUNDO DE COMÉRCIO; (III) QUALQUER PERDA DE OPORTUNIDADE;
+(IV) QUALQUER PERDA, CORRUPÇÃO, DIVULGAÇÃO, ACESSO, ALTERAÇÃO, USO INDEVIDO,
+MANIPULAÇÃO OU OUTRA UTILIZAÇÃO DE DADOS SOFRIDA POR VOCÊ; OU (V) QUAISQUER
+DANOS INDIRETOS, ESPECIAIS, INCIDENTAIS, CONSEQUENCIAIS OU PUNITIVOS DE
+QUALQUER NATUREZA QUE POSSA SER INCORRIDA POR VOCÊ; E/OU
+QUALQUER PERDA OU DANO QUE VOCÊ POSSA SOFRER COMO RESULTADO DE: (I)
+QUAISQUER ALTERAÇÕES QUE POSSAMOS FAZER NOS SERVIÇOS, OU POR QUALQUER
+CESSAÇÃO PERMANENTE OU TEMPORÁRIA NA PRESTAÇÃO DOS SERVIÇOS (OU QUAISQUER
+RECURSOS DENTRO DOS SERVIÇOS); (II) A EXCLUSÃO, CORRUPÇÃO OU FALHA NO
+ARMAZENAMENTO DE QUALQUER CONTEÚDO E OUTROS DADOS DE COMUNICAÇÃO
+MANTIDOS OU TRANSMITIDOS POR OU ATRAVÉS DO SEU USO DOS SERVIÇOS.
+Essas limitações à nossa responsabilidade, bem como à de nossas afiliadas e parceiros
+comerciais, perante você, serão aplicáveis independentemente de termos sido avisados ou de
+devermos ter conhecimento da possibilidade de ocorrência de tais perdas. Você é responsável
+por quaisquer tarifas de celular que possam ser aplicadas ao seu uso do nosso serviço, incluindo
+tarifas de mensagens de texto e dados. Caso não tenha certeza sobre quais serão essas tarifas,
+consulte sua operadora antes de usar o serviço.
+Nós e nossas afiliadas, provedores de serviços e parceiros comerciais, incluindo a TT Commerce
+& Global Services, e cada um de seus respectivos diretores, funcionários, agentes e consultores,
+não somos responsáveis por qualquer conteúdo disponibilizado na plataforma ou por meio dos
+serviços por quaisquer usuários ou terceiros.
+Na máxima extensão permitida por lei, qualquer disputa que você tenha com terceiros
+decorrente do seu uso dos Serviços, incluindo, a título de exemplo e não de limitação, qualquer
+operadora, detentor de direitos autorais, website ou provedor de recursos de terceiros, ou outro
+usuário, ou criador da Plataforma, é diretamente entre você e esse terceiro, e você nos isenta
+irrevogavelmente, bem como nossas afiliadas, de todas e quaisquer reivindicações, demandas e
+danos (diretos e indiretos) de qualquer tipo e natureza, conhecidos ou desconhecidos,
+decorrentes ou de alguma forma relacionados às suas disputas com esses terceiros.
+Na extensão máxima permitida pela lei aplicável, a responsabilidade agregada máxima da
+TIKTOK USDS JOINT VENTURE e de nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, para com você, seja em contrato,
+delito (incluindo negligência), sob qualquer estatuto ou de outra forma decorrente ou
+relacionada de alguma forma ao seu uso da plataforma ou serviços, será limitada ao maior
+valor entre (A) o valor que você nos pagou nos doze (12) meses imediatamente anteriores à
+reclamação ou (B) cinquenta dólares americanos (USD $50) ou o valor equivalente em sua
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 19/24
+moeda local. AS PARTES RECONHECEM E CONCORDAM QUE A EXCLUSÃO DE GARANTIAS
+NA SEÇÃO 11 E A LIMITAÇÃO DE RESPONSABILIDADE NESTA SEÇÃO 12 E NAS DEMAIS
+DISPOSIÇÕES DESTES TERMOS, BEM COMO A ALOCAÇÃO DE RISCOS AQUI PREVISTA,
+SÃO ELEMENTOS ESSENCIAIS DO ACORDO ENTRE AS PARTES, SEM OS QUAIS A TIKTOK
+USDS JOINT VENTURE NÃO TERIA FORNECIDO ACESSO À PLATAFORMA E/OU AOS
+SERVIÇOS AO USUÁRIO.
+13. Interrupção e Rescisão dos Serviços
+Faremos todos os esforços comercialmente razoáveis para manter os Serviços operacionais. No
+entanto, a TikTok USDS Joint Venture e nossas afiliadas, provedores de serviços e parceiros
+comerciais, incluindo a TT Commerce & Global Services, e cada um de seus respectivos
+diretores, funcionários, agentes e consultores não garantem a disponibilidade de quaisquer
+Serviços, a menos que seja exigido de outra forma pelas leis aplicáveis. Você reconhece que os
+Serviços podem ser interrompidos ocasionalmente por vários motivos (por exemplo, tempo de
+inatividade programado ou emergencial ou falha de provedores de serviços de rede ou
+telecomunicações). Também podemos encerrar os Serviços e seu acesso ou uso dos Serviços
+permanentemente.
+Você concorda que a TikTok USDS Joint Venture e nossas afiliadas, provedores de serviços e
+parceiros comerciais, incluindo a TT Commerce & Global Services, e cada um de seus
+respectivos diretores, funcionários, agentes e consultores não assumirão quaisquer obrigações
+ou responsabilidades perante você com relação aos Serviços pela retirada dos Planos de Serviço
+ou interrupção, modificação ou rescisão dos Serviços ou qualquer parte deles, na extensão
+máxima permitida pela lei aplicável.
+14. Resolução de Disputas -
+Processo de Resolução Informal. Caso surja alguma disputa com você relacionada a estes
+Termos, à Plataforma ou aos Serviços, independentemente de quando a disputa tenha surgido
+ou se acumulado, tentaremos primeiro resolvê-la amigavelmente antes de iniciar qualquer ação
+judicial. Você concorda em fazer o mesmo por nós e pela TT Commerce & Global Services.
+A parte que iniciar a disputa deverá notificar a outra parte. A parte que receber a notificação terá
+60 dias para responder. Se a disputa não for resolvida após o término do prazo de resposta, ou
+dentro de 30 dias após o envio da resposta, o que ocorrer primeiro, qualquer uma das partes
+poderá entrar com uma ação judicial contra a outra. A participação neste processo informal de
+resolução de disputas é um requisito que deve ser cumprido antes de iniciar qualquer ação
+judicial. Você, a TikTok USDS Joint Venture e a TT Commerce & Global Services concordam em
+envidar esforços de boa-fé para resolver a disputa amigavelmente antes que você, a TikTok
+USDS Joint Venture ou a TT Commerce & Global Services iniciem qualquer ação judicial contra a
+outra parte, e que o prazo de prescrição e quaisquer prazos para pagamento de taxas judiciais
+ficarão suspensos enquanto as partes estiverem envolvidas no processo informal de resolução
+de disputas.
+Foro exclusivo.Estes Termos e Termos Suplementares, bem como quaisquer reivindicações,
+causas de ação de qualquer tipo ou natureza, ou demanda decorrentes ou relacionadas a eles,
+serão regidos pelas leis do Estado da Califórnia. Qualquer reivindicação, causa de ação ou
+disputa decorrente ou relacionada a estes Termos, à Plataforma ou aos Serviços também será
+resolvida exclusivamente no Tribunal Distrital dos EUA para o Distrito Central da Califórnia ou no
+Tribunal Superior do Estado da Califórnia, Condado de Los Angeles. Você também concorda em
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 20/24
+se submeter à jurisdição pessoal de qualquer um desses tribunais para fins de litigar qualquer
+reivindicação dessa natureza.
+Prazo de prescrição de um ano. VOCÊ E A TIKTOK USDS JOINT VENTURE CONCORDAM QUE
+VOCÊ DEVE INICIAR QUALQUER PROCESSO OU AÇÃO DENTRO DE UM (1) ANO A PARTIR DA
+DATA DA OCORRÊNCIA DO EVENTO OU DOS FATOS QUE DERAM ORIGEM A UMA DISPUTA QUE
+ESTEJA DECORRENTE OU RELACIONADA A ESTES TERMOS, À PLATAFORMA OU AOS
+SERVIÇOS. CASO CONTRÁRIO, VOCÊ RENUNCIA PERMANENTEMENTE AO DIREITO DE
+PROSSEGUIR COM QUALQUER REIVINDICAÇÃO OU CAUSA DE AÇÃO, DE QUALQUER TIPO OU
+NATUREZA, COM BASE EM TAIS EVENTOS OU FATOS, E TAIS REIVINDICAÇÕES OU CAUSAS DE
+AÇÃO SERÃO PERMANENTEMENTE IMPEDIDAS.
+15. Sobrevivência de Outros Termos . Esta Seção, os direitos concedidos a nós na Seção 9 e
+nas Seções 8, 10, 11, 12 e os termos restantes da Seção 15 sobreviverão ao término destes
+Termos. Código Aberto. A Plataforma contém determinados softwares de código aberto. Cada
+item de software de código aberto está sujeito aos seus próprios termos de licença aplicáveis.
+Acordo Integral. Estes Termos constituem o acordo legal integral entre você e a TikTok USDS
+Joint Venture e regem seu uso dos Serviços, substituindo quaisquer comunicações e propostas
+anteriores (sejam orais, escritas ou eletrônicas) entre você e nós ou a ByteDance Pte. Ltd.
+relacionadas à Plataforma e aos Serviços. Não Renúncia. Nossa falha em fazer cumprir
+quaisquer disposições destes Termos ou em responder a uma violação por qualquer parte não
+constitui renúncia ao nosso direito, ao direito de nossas afiliadas ou parceiros comerciais de
+posteriormente fazer cumprir quaisquer termos ou condições destes Termos ou de responder a
+quaisquer violações. Nada contido nestes Termos prejudica nosso direito de cumprir solicitações
+ou exigências governamentais, judiciais e policiais relacionadas ao seu uso dos Serviços ou às
+informações fornecidas ou coletadas por nós, nossas afiliadas ou parceiros comerciais em
+relação a tal uso. Segurança. A TikTok USDS Joint Venture e nossas afiliadas, provedores de
+serviços e parceiros comerciais, incluindo a TT Commerce & Global Services, e cada um de seus
+respectivos diretores, funcionários, agentes e consultores não garantem que nossos Serviços
+serão seguros ou livres de bugs, vírus ou códigos maliciosos. Você é responsável por configurar
+sua tecnologia da informação, programas de computador e plataforma para acessar nossos
+Serviços. Você deve usar seu próprio software antivírus.
+Divisibilidade. Se qualquer tribunal, com jurisdição para decidir sobre esta matéria, considerar
+que qualquer disposição destes Termos é inválida, essa disposição será removida destes Termos
+sem afetar o restante dos Termos, e as disposições restantes destes Termos continuarão válidas
+e aplicáveis.
+Conteúdo de Terceiros Vinculado. Os Serviços podem conter links para conteúdo de terceiros.
+A TikTok USDS Joint Venture e nossos provedores de serviços e parceiros comerciais, como a TT
+Commerce & Global Services, e nossas afiliadas não controlam, endossam, patrocinam,
+recomendam ou aceitam qualquer responsabilidade por tal conteúdo. O uso de qualquer
+conteúdo de terceiros vinculado é por conta e risco do usuário.
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 21/24
+Direitos de terceiros. Salvo disposição expressa em contrário nestes Termos, qualquer pessoa
+que não seja parte destes Termos não terá o direito de exigir o cumprimento destes Termos ou
+de qualquer uma de suas cláusulas.
+Idioma predominante. Estes Termos podem ser fornecidos em versões em idiomas diferentes
+do inglês. Salvo disposição expressa em contrário nestes Termos, se houver qualquer
+inconsistência entre as diferentes versões em idiomas diferentes, a versão em inglês
+prevalecerá.
+Residente da Califórnia. Se você for residente da Califórnia, de acordo com a Cal. De acordo
+com o Código Civil § 1789.3, você pode registrar reclamações junto à Unidade de Assistência ao
+Consumidor da Divisão de Serviços ao Consumidor do Departamento de Assuntos do
+Consumidor da Califórnia, entrando em contato por escrito no endereço 1625 North Market
+Blvd., Suite N 112 Sacramento, CA 95834, ou por telefone no número (800) 952-5210.
+Exportações. Você concorda em não exportar ou reexportar, direta ou indiretamente, os
+Serviços e/ou outras informações ou materiais fornecidos pela TikTok USDS Joint Venture nos
+termos deste instrumento, para qualquer país para o qual os Estados Unidos ou qualquer outra
+jurisdição relevante exija licença de exportação ou outra aprovação governamental no momento
+da exportação, sem antes obter tal licença ou aprovação. Em particular, mas sem limitação, os
+Serviços não podem ser exportados ou reexportados (a) para qualquer país embargado pelos
+EUA ou qualquer país que tenha sido designado pelo Governo dos EUA como um país que apoia
+o terrorismo, ou (b) para qualquer pessoa listada em qualquer lista do Governo dos EUA de
+partes proibidas ou restritas, incluindo a lista de Nacionais Especialmente Designados do
+Departamento do Tesouro dos EUA ou a Lista de Pessoas Negadas ou Lista de Entidades do
+Departamento de Comércio dos EUA.
+Direitos Restritos do Governo dos EUA.Os Serviços e a documentação relacionada são "Itens
+Comerciais", conforme definido em 48 CFR §2.101, consistindo em "Software Comercial" e
+"Documentação de Software Comercial", conforme esses termos são usados em 48 CFR §12.212
+ou 48 CFR §227.7202, conforme aplicável. Em conformidade com 48 CFR §12.212 ou 48 CFR
+§227.7202-1 a 227.7202-4, conforme aplicável, o Software Comercial e a Documentação de
+Software Comercial estão sendo licenciados para usuários finais do Governo dos EUA (a)
+somente como Itens Comerciais e (b) somente com os direitos concedidos a todos os outros
+usuários finais de acordo com os termos e condições aqui estabelecidos.
+Seu Conteúdo . Em relação ao seu uso dos Serviços, você poderá carregar ou enviar conteúdo
+para ser disponibilizado por meio dos Serviços ("Seu Conteúdo"). Como condição para o uso dos
+Serviços, você nos concede uma licença não exclusiva, perpétua, irrevogável, isenta de royalties,
+mundial, transferível e sublicenciável para acessar, usar, hospedar, armazenar em cache,
+reproduzir, transmitir e exibir Seu Conteúdo em conexão com o uso dos Serviços. Ao enviar Seu
+Conteúdo por meio dos Serviços, você declara e garante que possui, ou obteve, todos os
+direitos, licenças, consentimentos, permissões, poderes e/ou autoridade necessários para
+conceder os direitos aqui outorgados para o Seu Conteúdo. Você concorda que Seu Conteúdo
+não conterá material sujeito a direitos autorais ou outros direitos de propriedade, a menos que
+você tenha a permissão necessária ou esteja legalmente autorizado a fazer o upload do material
+e a nos conceder a licença descrita acima. Não obstante qualquer disposição em contrário, não
+mantemos, nem temos qualquer obrigação de manter, Seu Conteúdo. Seu Conteúdo não estará
+disponível após a exclusão da Plataforma.
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 22/24
+Uso da Plataforma.Você é responsável por fornecer o dispositivo móvel, o plano de serviço sem
+fio, o software, a conexão de internet e/ou outros equipamentos ou serviços necessários para
+baixar, instalar e usar a Plataforma. Não garantimos que a Plataforma possa ser acessada e
+usada em qualquer dispositivo específico ou com qualquer plano de serviço específico. Não
+garantimos que a Plataforma estará disponível em qualquer local geográfico específico. Como
+parte dos Serviços, você poderá receber notificações push ou outros tipos de mensagens
+enviadas diretamente a você em conexão com a Plataforma ("Mensagens Push"). Você
+reconhece que, ao usar a Plataforma, sua operadora de serviços sem fio poderá cobrar taxas por
+dados, mensagens de texto e/ou outros serviços de acesso sem fio, inclusive em relação às
+Mensagens Push. Você tem controle sobre as configurações de Mensagens Push e pode optar
+por recebê-las ou não por meio dos Serviços ou do sistema operacional do seu dispositivo móvel
+(com a possível exceção de anúncios de serviço importantes e mensagens administrativas
+ocasionais). Consulte sua operadora de serviços sem fio para determinar quais taxas se aplicam
+ao seu acesso e uso da Plataforma, incluindo o recebimento de Mensagens Push. Você é o único
+responsável por quaisquer taxas, custos ou despesas incorridos para baixar, instalar e/ou usar a
+Plataforma em seu dispositivo móvel, incluindo o recebimento de notificações push.
+16. Contate-nos.
+Alguma dúvida? Entre em contato conosco pelo e-mail support@us.capcut.com para a CapCut
+ou ussupport@us.pippit.ai para a Pippit.
+Termos Suplementares - Lojas de Aplicativos.
+Na medida permitida pela legislação aplicável, os seguintes termos suplementares serão
+aplicáveis ao acessar a Plataforma e os Serviços por meio de dispositivos específicos e suas
+respectivas lojas de aplicativos: Apple App Store. Ao acessar a Plataforma e os Serviços por
+meio de um dispositivo fabricado pela Apple, Inc. ("Apple"), você reconhece e concorda
+especificamente que:
+Estes Termos são firmados entre a TikTok USDS Joint Venture e você; a Apple não é parte destes
+Termos.
+A licença concedida a você nos termos deste instrumento limita-se a um direito pessoal,
+limitado, não exclusivo e intransferível de instalar a Plataforma e os Serviços no(s) dispositivo(s)
+Apple autorizado(s) pela Apple que você possui ou controla para seu uso pessoal, sujeito às
+Regras de Uso estabelecidas nos Termos e Condições dos Serviços de Mídia da Apple.
+A Apple não é responsável pela Plataforma e pelos Serviços, nem pelo conteúdo dos mesmos, e
+não tem qualquer obrigação de fornecer serviços de manutenção ou suporte relativamente à
+Plataforma e aos Serviços.
+Caso a Plataforma e os Serviços não estejam em conformidade com qualquer garantia aplicável,
+você poderá notificar a Apple, e a Apple reembolsará o preço de compra da Plataforma e dos
+Serviços, se houver. Na máxima extensão permitida pela legislação aplicável, a Apple não terá
+qualquer outra obrigação de garantia com relação à Plataforma e aos Serviços.
+A Apple não se responsabiliza por quaisquer reclamações feitas por você ou por terceiros
+relacionadas à Plataforma e aos Serviços ou à sua posse ou uso da Plataforma e dos Serviços,
+incluindo, entre outras: (a) reclamações de responsabilidade pelo produto; (b) qualquer
+reclamação de que a Plataforma e os Serviços não estejam em conformidade com qualquer
+requisito legal ou regulamentar aplicável; e (c) reclamações decorrentes da legislação de
+proteção ao consumidor ou legislação similar.
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 23/24
+Em caso de reclamação de terceiros alegando que a Plataforma e os Serviços ou sua posse e uso
+da Plataforma e dos Serviços infringem os direitos de propriedade intelectual de terceiros, a
+Apple não se responsabiliza pela investigação, defesa, acordo ou resolução de tal reclamação de
+infração de propriedade intelectual.
+Você declara e garante que (a) não está localizado em um país sujeito a embargo do governo
+dos EUA ou que tenha sido designado pelo governo dos EUA como um país que apoia o
+terrorismo; e (b) não consta em nenhuma lista do governo dos EUA de partes proibidas ou
+restritas.
+A Apple e suas subsidiárias são terceiras beneficiárias destes Termos e, mediante sua aceitação
+dos termos e condições destes Termos, a Apple terá o direito (e será considerada como tendo
+aceitado o direito) de exigir o cumprimento destes Termos por você como terceira beneficiária.
+A TikTok USDS Joint Venture autoriza expressamente o uso da Plataforma e dos Serviços por
+múltiplos usuários por meio do Compartilhamento Familiar ou qualquer funcionalidade similar
+fornecida pela Apple.
+Google Play. Ao baixar a Plataforma e os Serviços do Google Play (ou seus sucessores) operado
+pelo Google LLC ou uma de suas afiliadas (" Google "), você reconhece e concorda
+especificamente que:
+Na medida em que houver qualquer conflito entre (a) os Termos de Serviço do Google Play ou
+outros termos que o Google designar como termos de licença padrão para o usuário final do
+Google Play (todos os quais, em conjunto, são denominados “Termos do Google Play”) e (b)
+os demais termos e condições destes Termos, os Termos do Google Play serão aplicáveis em
+relação ao seu uso da Plataforma e dos Serviços que você baixar do Google Play; e
+Você reconhece, por meio deste documento, que o Google não tem qualquer
+responsabilidade ou obrigação relacionada ao cumprimento ou descumprimento, por parte da
+TikTok USDS Joint Venture ou por você (ou qualquer outro usuário), destes Termos ou dos
+Termos do Google Play.
+3/19/26, 3:13 PM Termos de Serviço da CapCut
+https://www.capcut.com/clause/terms-of-service?lang=pt 24/24

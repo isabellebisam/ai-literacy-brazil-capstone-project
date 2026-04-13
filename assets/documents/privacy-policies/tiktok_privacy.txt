@@ -1,0 +1,494 @@
+Bem-vindo ao TikTok (a "Plataforma"). A plataforma é fornecida e controlada pelo
+TikTok Pte. Ltd., com seu endereço registrado em 1 Raffles Quay, #26-10, South
+Tower, Singapore 048583 ("TikTok", "nós" ou "nos").
+Temos o compromisso de proteger e respeitar sua privacidade. Esta política explica
+nossas práticas relativas aos dados pessoais que coletamos de você ou que você
+nos fornece. Se você não concordar com esta política, não deve usar a Plataforma.
+Se você tiver alguma dúvida sobre como usamos seus dados pessoais, entre em
+contato com https://www.tiktok.com/legal/report/privacy?lang=pt_BR .
+RESUMO
+Que informações coletamos sobre você?
+Coletamos e processamos as informações que você nos fornece ao criar uma conta
+e fazer upload de conteúdo para a Plataforma. Isso inclui informações técnicas e
+comportamentais sobre o uso da Plataforma. Também coletamos informações sobre
+você se você baixar o aplicativo e interagir com a Plataforma sem criar uma conta.
+Como vamos usar as informações sobre você?
+Usamos suas informações para fornecer a Plataforma a você e para melhorá-la e
+administrá-la. Usamos suas informações para, entre outras coisas, mostrar
+sugestões na seção "Para Você", melhorar e desenvolver a Plataforma e garantir sua
+segurança. Quando apropriado, também usaremos suas informações pessoais para
+veicular publicidade personalizada e promover a Plataforma.
+Com quem compartilhamos suas informações?
+Compartilhamos seus dados com provedores de serviços terceirizados que nos
+ajudam a fornecer a Plataforma, como provedores de armazenamento em nuvem.
+Também compartilhamos suas informações com parceiros de negócios, outras
+empresas do mesmo grupo do TikTok, serviços de moderação de conteúdo,
+provedores de medições, anunciantes e provedores de dados analíticos. Onde e
+quando exigido por lei, compartilharemos suas informações com agências ou órgãos
+reguladores e com terceiros de acordo com uma ordem judicial legalmente
+vinculativa.
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 17/32
+Por quanto tempo mantemos suas informações?
+Retemos suas informações pelo tempo necessário para fornecer o serviço. Onde
+não precisamos de suas informações para fornecer o serviço a você, as retemos
+apenas enquanto tivermos um objetivo comercialmente legítimo em manter esses
+dados ou quando estivermos sujeitos a uma obrigação legal de retê-los. Também
+reteremos seus dados se acreditarmos que é ou será necessário para o
+estabelecimento, exercício ou defesa de reivindicações legais.
+Como iremos notificá-lo de quaisquer alterações nesta
+Política de Privacidade?
+Em geral, notificaremos todos os usuários sobre quaisquer alterações materiais
+nesta Política por meio de um aviso em nossa Plataforma. No entanto, você deve
+examinar regularmente esta Política para verificar se há alterações. Também
+atualizaremos a data da "Última Atualização" na parte superior desta política, que
+reflete a data efetiva dessa política. Ao acessar ou usar a Plataforma, você
+reconhece que leu esta política e que entende seus direitos em relação aos seus
+dados pessoais e como coletamos, usamos e processamos.
+**********************************************************************************
+**
+1. Os tipos de dados pessoais que usamos
+Coletamos e usamos as seguintes informações sobre você:
+Suas informações de perfil. Você nos fornece informações quando se registra na
+Plataforma, incluindo seu nome de usuário, senha, data de nascimento, endereço de
+e-mail e/ou número de telefone, informações divulgadas em seu perfil de usuário e
+sua fotografia ou vídeo de perfil.
+Conteúdo do Usuário e Informações Comportamentais. Processamos o conteúdo
+que você gera na Plataforma, incluindo as preferências que você define (como a
+escolha do idioma), as fotografias e os vídeos que você envia ou cria e os
+comentários que você faz ("Conteúdo do Usuário"). Nós coletamos o Conteúdo de
+Usuário através de pré-carregamento no momento da criação, importação ou envio,
+independentemente de você optar por salvar ou enviar esse Conteúdo de Usuário, a
+fim de recomendar opções de áudio e fornecer outras recomendações
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 18/32
+personalizadas. Se você aplicar um efeito ao seu Conteúdo de Usuário, poderemos
+coletar uma versão do seu Conteúdo de Usuário que não inclua o efeito. Podemos
+coletar informações sobre as imagens e áudio que fazem parte de seu Conteúdo de
+Usuário, tais como a identificação dos objetos e cenários que aparecem, a
+existência e localização de rosto e corpo em uma imagem, a natureza do áudio e o
+texto das palavras faladas em seu Conteúdo de Usuário. Podemos coletar estas
+informações para permitir efeitos especiais de vídeo, para moderação de conteúdo,
+para classificação demográfica, para recomendações de conteúdo e anúncios e para
+outras operações, que não possibilitem qualquer identificação pessoal. Podemos
+acessar conteúdo, incluindo texto, imagens e vídeo, encontrados na área de
+transferência de seu dispositivo, com sua permissão. Por exemplo, se você optar por
+iniciar o compartilhamento de conteúdo com uma terceira plataforma ou optar por
+colar conteúdo da área de transferência no aplicativo TikTok, nós acessamos estas
+informações armazenadas em sua área de transferência a fim de atender sua
+solicitação. Coletamos informações através de pesquisas, desafios e competições
+nas quais você participa. Também coletamos informações sobre o uso da
+Plataforma, por exemplo, como você se envolve com a Plataforma, incluindo como
+você interage com o conteúdo que mostramos a você, os anúncios que você vê, os
+vídeos que assiste e os problemas encontrados, o conteúdo que você gosta, o
+conteúdo você salva em 'Meus Favoritos', os usuários que você segue e como você
+interage com seguidores mútuos. Também inferimos suas preferências, incluindo
+seus interesses, sexo e idade, com o objetivo de personalizar o conteúdo.
+Processamos informações sobre seus seguidores, os gostos que você recebe e
+respostas ao conteúdo que você envia, com o objetivo de promover seu conteúdo
+para outros usuários e explorar se o seu perfil apresenta outras oportunidades de
+colaboração. Quando apropriado, também usaremos essas informações com a
+finalidade de veicular publicidade personalizada e informar sobre novos serviços e
+oportunidades.
+Informações de terceiros. Você pode optar por compartilhar certos dados conosco
+através de terceiros ou através do uso da Plataforma, e podemos coletar esses
+dados de terceiros automaticamente. A seguir, detalhamos as informações que
+recebemos de terceiros:
+Parceiros de Negócios
+Se você optar por se registrar ou usar a Plataforma usando uma conta de rede social
+de terceiros (por exemplo, Facebook, Twitter, Instagram, Google) ou serviço de
+login, você nos fornecerá ou permitirá que nos forneça seu nome de usuário, perfil
+público e outras informações possíveis relacionadas a tal conta. Da mesma forma,
+compartilharemos certas informações com sua rede social, como o ID do seu
+aplicativo, o token de acesso e o URL de referência. Para mais informações sobre
+como compartilhar sua lista de contatos do Facebook conosco, consulte
+Localizar outros usuários e convidar seus amigos . Se você vincular sua conta
+TikTok a outro serviço, poderemos receber informações sobre seu uso desse
+serviço.
+Anunciantes, Redes de Publicidade e Provedores Analíticos Usamos as informações
+coletadas de você e sua interação com a Plataforma e outros sites e Aplicativos de
+terceiros para inferir seus interesses prováveis para fornecer publicidade mais
+relevante. Essas informações nos informam sobre os sites que você visitou, os
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 19/32
+aplicativos que você baixou e as compras feitas para que possamos prever o que
+mais pode interessá-lo no futuro e avaliar a eficácia da publicidade em nossa
+Plataforma. Coletamos essas informações pelo uso de cookies e tecnologias
+semelhantes em nossa Plataforma e de informações semelhantes recebidas de
+terceiros que anunciam em nossa plataforma e cujos sites/Aplicativos você visita.
+Informações Técnicas que coletamos sobre você. Coletamos certas informações
+sobre o dispositivo que você usa para acessar a Plataforma, tais como seu endereço
+IP, agente de usuário, operadora móvel, configurações de fuso horário,
+identificadores para fins publicitários, modelo de seu dispositivo, o sistema do
+dispositivo, tipo de rede, IDs do dispositivo, sua resolução de tela e sistema
+operacional, nomes e tipos de aplicativos e arquivos, padrões ou ritmos de teclas,
+estado da bateria, configurações de áudio e dispositivos de áudio conectados.
+Quando você faz login a partir de vários dispositivos, poderemos usar suas
+informações de perfil para identificar sua atividade através dos dispositivos.
+Também poderemos associá-lo com informações coletadas de dispositivos
+diferentes daqueles que você usa para fazer login na Plataforma.
+Localização. Coletamos informações sobre sua localização aproximada, incluindo
+informações de localização com base em seu cartão SIM e/ou endereço IP. Com sua
+permissão, podemos também coletar dados precisos de localização (como GPS).
+Encontre outros usuários e convide seus amigos. Você pode escolher se deseja
+encontrar outros usuários da Plataforma usando a função 'Encontrar Amigos'. Essa
+funcionalidade permite que você veja quais de seus amigos da lista de contatos do
+telefone ou da lista de amigos do Facebook está usando a Plataforma e oferece a
+opção de segui-los. Você também pode usar esta função para convidar seus
+contatos para acompanhá-lo na plataforma. Usaremos as informações de contato
+que você possui para essa pessoa, na lista de contatos do telefone ou na lista de
+amigos do Facebook, e você terá a opção de enviar um SMS, email ou mensagem
+de terceiros (como Whatsapp, Facebook--incluindo o Facebook Messenger--ou
+Twitter) convidando-os a visualizar seu perfil do TikTok.
+Compras no Aplicativo. Se você reside em certas jurisdições que oferecem
+compras de moedas digitais no aplicativo, observe as disposições da nossa
+Política de Itens Virtuais . Sua compra será feita através da sua conta Apple iTunes
+ou Google Play. Não coletamos nenhuma informação financeira ou de cobrança de
+você em relação a essa transação. Revise os termos e avisos relevantes da loja de
+aplicativos em relação ao manuseio de tais dados. Para que possamos creditar sua
+conta com o valor correto em moedas, mantemos um registro das compras que você
+faz, o horário em que você faz essas compras e o valor gasto. Além das compras de
+moedas no próprio aplicativo, se você optar por fazer outras transações
+relacionadas ao pagamento, a Plataforma poderá coletar informações de
+pagamento, incluindo números de cartões de pagamento ou outras informações de
+pagamento de terceiros (como o PayPal), quando necessário para fins de
+pagamento.
+Comprovação de sua identidade ou idade. Algumas vezes pedimos que você
+forneça prova de identidade ou idade para usar certos recursos, como transmissões
+ao vivo ou contas verificadas, ou quando você solicita uma conta Pro, certifique-se
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 20/32
+de que tem idade suficiente para usar a Plataforma, ou em outros casos em que a
+verificação pode ser necessária
+2. Cookies
+Nós e nossos fornecedores e prestadores de serviços usamos cookies e outras
+tecnologias semelhantes (por exemplo, web beacons, flash cookies etc.)
+("Cookies") para coletar informações automaticamente, medir e analisar em quais
+páginas da web você clica e como usa a Plataforma, aprimorar sua experiência no
+uso da plataforma, aprimorar nossos serviços e oferecer publicidade personalizada
+na Plataforma e em outros lugares em seus dispositivos. Cookies permitem à
+Plataforma fornecer determinados recursos e funcionalidades. Os web beacons são
+imagens muito pequenas ou pequenos pedaços de dados incorporados nas
+imagens, também conhecidas como "pixel tags" ou "clear GIFs", que podem
+reconhecer Cookies, a hora e data em que uma página é visualizada, uma descrição
+da página em que o pixel tag é colocado e informações semelhantes do seu
+computador ou dispositivo. Ao usar a plataforma, você concorda com o uso de
+Cookies.
+Além disso, permitimos que nossos parceiros de negócios, redes de publicidade e
+outros fornecedores e prestadores de serviços de publicidade (incluindo
+fornecedores de análises e prestadores de serviços) coletem informações sobre
+suas atividades online por meio de Cookies. Vinculamos suas informações de
+contato ou de usuário à sua atividade em nossa Plataforma em seus dispositivos,
+usando seu e-mail ou outras informações de login ou dispositivo. Esses terceiros
+podem usar essas informações para exibir anúncios em nossa Plataforma e em
+outros locais on-line, adaptados aos seus interesses, preferências e características.
+Não nos responsabilizamos pelas práticas de privacidade desses terceiros, e as
+práticas de informações desses terceiros não são cobertas por esta Política de
+Privacidade.
+Você pode recusar ou desativar os Cookies ajustando as configurações do seu
+navegador. Como cada navegador é diferente, consulte as instruções fornecidas
+pelo seu navegador. Observe que você pode precisar executar etapas adicionais
+para recusar ou desativar certos tipos de cookies. Por exemplo, devido a diferenças
+no funcionamento de navegadores e aplicativos para dispositivos móveis, pode ser
+necessário executar etapas diferentes para desativar os Cookies usados para
+publicidade personalizada em um navegador e desativar a publicidade
+personalizada para um aplicativo móvel, que você pode controlar através
+configurações do dispositivo ou permissões de aplicativos para dispositivos móveis.
+Além disso, sua seleção de opt-out é específica para o navegador ou dispositivo
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 21/32
+específico que você está usando quando opt-out, portanto, pode ser necessário
+optar por sair separadamente para cada navegador ou dispositivo. Se você optar
+por recusar, desativar ou excluir cookies, algumas das funcionalidades da Plataforma
+podem não estar mais disponíveis para você.
+3. Como usamos seus dados pessoais
+Usaremos as informações que coletamos sobre você das seguintes maneiras:
+notificá-lo sobre alterações em nosso serviço;
+fornecer suporte ao usuário;
+personalizar o conteúdo que você recebe e fornecer conteúdo personalizado que
+será do seu interesse;
+permitir que você compartilhe o Conteúdo do Usuário e interaja com outros
+usuários;
+habilitar nosso serviço de mensagens a funcionar se você optar por usar esta
+função;
+permitir que você participe do Política de Itens Virtuais;
+comunicar com você;
+para nos ajudar a detectar e combater abusos, atividades nocivas, fraudes, spam e
+atividades ilegais na Plataforma;
+garantir sua segurança e proteção, incluindo a revisão do conteúdo do usuário,
+mensagens e metadados associados à violação de nossas Diretrizes da
+Comunidade e de outro conteúdo inadequado;
+garantir que o conteúdo seja apresentado da maneira mais eficaz para você e seu
+dispositivo;
+melhorar, promover e desenvolver a plataforma e promover tópicos populares,
+hashtags e campanhas na plataforma;
+realizar análise de dados e testar a plataforma para garantir sua estabilidade e
+segurança;
+permitir que você participe de recursos interativos da plataforma;
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 22/32
+para permitir que você socialize na Plataforma, por exemplo, permitindo que
+outros usuários o identifiquem através da função "Encontrar outros amigos" ou
+através de seus contatos telefônicos;
+para garantir que você tenha idade suficiente para usar nossa Plataforma
+(conforme exigido por lei);
+fornecer publicidade personalizada a você;
+fornecer serviços baseados em localização (quando estes serviços estiverem
+disponíveis em sua jurisdição);
+para informar nossos algoritmos
+fazer cumprir nossos termos, condições e políticas;
+administrar a plataforma, incluindo solução de problemas; e
+para facilitar a venda, promoção e compra de bens e serviços e para fornecer
+suporte ao usuário
+4. Como compartilhamos seus dados pessoais
+Compartilhamos seus dados com os seguintes terceiros selecionados:
+Parceiros de Negócios
+Se você optar por se registrar para usar a Plataforma usando os detalhes da sua
+conta de redes sociais (por exemplo, Facebook, Twitter, Instagram, Google), você
+nos fornecerá ou permitirá que sua rede social nos forneça seu número de telefone,
+endereço de e-mail, nome de usuário e perfil público. Da mesma forma,
+compartilharemos certas informações com a rede social relevante, como o ID do seu
+aplicativo, o token de acesso e o URL de referência. Se você optar por permitir que
+um serviço de terceiros acesse sua conta, nós compartilharemos certas informações
+sobre você com o terceiro. Dependendo das permissões que você conceder, o
+terceiro poderá obter as informações de sua conta e outras informações que você
+optar por fornecer.
+Onde você optar por compartilhar conteúdo em plataformas de mídia social, o
+vídeo, o nome de usuário e o texto que o acompanha serão compartilhados nessa
+plataforma ou, no caso de compartilhamento através de plataformas de mensagens
+instantâneas, como o Whatsapp, um link para o conteúdo será compartilhado.
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 23/32
+Provedores de pagamento.
+Se você optar por comprar Moedas ou realizar outras transações relacionadas a
+pagamentos, compartilharemos os dados com o provedor de pagamento relevante
+para facilitar essa transação. Para transações com Moedas, compartilhamos um ID
+de transação para nos permitir identificá-lo e creditar em sua conta o valor correto
+em moedas após o pagamento.
+Provedores de serviço.
+Fornecemos informações e conteúdo a provedores de serviços que suportam
+nossos negócios, como provedores de serviços em nuvem e provedores de serviços
+de moderação de conteúdo, para garantir que a Plataforma seja um local seguro e
+agradável e a provedores de serviços que nos ajudam a comercializar a plataforma.
+Provedores de análise.
+Utilizamos provedores de análise para nos ajudar na otimização e melhoria da
+Plataforma. Nossos fornecedores de análises terceirizados também nos ajudam a
+veicular anúncios segmentados.
+Anunciantes e redes de publicidade.
+Compartilhamos informações com anunciantes e empresas de medição de terceiros
+para mostrar quantos e quais usuários da Plataforma visualizaram ou clicaram em um
+anúncio. Compartilhamos o ID do seu dispositivo com empresas de medição, para
+que possamos vincular sua atividade na Plataforma à sua atividade em outros sites;
+em seguida, usamos essas informações para mostrar anúncios que podem ser do
+seu interesse.
+Nosso Grupo Corporativo.
+Também podemos compartilhar suas informações com outros membros, subsidiárias
+ou afiliadas do nosso grupo corporativo, para fornecer a Plataforma, incluindo a
+melhoria e otimização da Plataforma, impedindo o uso ilegal e dando suporte aos
+usuários.
+Aplicação da Lei.
+Compartilharemos suas informações com agências de aplicação da lei, autoridades
+públicas ou outras organizações se for legalmente exigido ou se tal uso for
+razoavelmente necessário para:
+cumprir obrigação legal, processo ou solicitação;
+fazer cumprir nossos Termos de Serviço e outros acordos, políticas e padrões,
+incluindo a investigação de qualquer possível violação dos mesmos;
+detectar, impedir ou resolver problemas técnicos, de fraude ou de segurança; ou
+proteger os direitos, propriedade ou segurança de nós, de nossos usuários, de
+terceiros ou do público, conforme exigido ou permitido por lei (incluindo a troca de
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 24/32
+informações com outras empresas e organizações para fins de proteção contra
+fraudes e redução do risco de crédito).
+Perfis Públicos.
+Observe que, se seu perfil for público, seu conteúdo estará visível para qualquer
+pessoa na Plataforma e também poderá ser acessado ou compartilhado por seus
+amigos e seguidores, bem como por terceiros, como mecanismos de pesquisa,
+agregadores de conteúdo e sites de notícias. Você pode alterar quem pode ver um
+vídeo sempre que carregar um vídeo. Como alternativa, você pode alterar seu perfil
+para padrão privado, alterando suas configurações para 'Conta Particular' nas
+configurações de "Gerenciar minha Conta".
+Venda ou Fusão Também divulgaremos suas informações a terceiros:
+no caso de vendermos ou comprarmos qualquer negócio ou ativo (seja resultado
+de liquidação, falência ou outra forma); nesse caso, divulgaremos seus dados ao
+potencial vendedor ou comprador deste negócio ou ativo; ou
+se vendermos, comprarmos, fundirmos, formos adquiridos por, ou formarmos
+parcerias com outras empresas ou negócios, ou vendermos alguns ou todos os
+nossos ativos. Nessas transações, as informações do usuário podem estar entre
+os ativos transferidos.
+5. Onde armazenamos seus dados pessoais
+Os dados pessoais que coletamos de você podem ser armazenados em um servidor
+localizado em Cingapura ou nos Estados Unidos, fora do país onde você mora.
+Mantemos os principais servidores em todo o mundo para oferecer a você nossos
+serviços de forma global e contínua.
+6. Suas escolhas
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 25/32
+Você pode acessar e editar a maioria das informações do seu perfil fazendo login no
+TikTok. Você pode excluir o conteúdo do usuário que você enviou. Também
+fornecemos várias ferramentas nas Configurações que permitem controlar, entre
+outras pessoas, quem pode ver seus vídeos, enviar mensagens ou publicar
+comentários em seus vídeos. Se você optar por fazê-lo, poderá excluir toda a sua
+conta em Configurações. Você também pode ter direitos em seu país sob as leis
+aplicáveis, tais como a possibilidade de acessar seus dados, apagar seus dados e,
+potencialmente, outros. Se você tiver alguma dúvida sobre como usar essas
+ferramentas, ou quiser saber sobre quaisquer direitos que possa ter no país em que
+vive e quiser exercê-los, entre em contato com
+https://www.tiktok.com/legal/report/privacy?lang=pt_BR .
+7. A segurança dos seus dados pessoais
+Tomamos medidas para garantir que suas informações sejam tratadas com
+segurança e de acordo com esta política. Infelizmente, a transmissão de
+informações pela Internet não é completamente segura. Embora protejamos seus
+dados pessoais, por exemplo, por criptografia, não podemos garantir a segurança
+de suas informações transmitidas através da Plataforma; qualquer transmissão é por
+sua conta e risco.
+Temos medidas técnicas e organizacionais apropriadas para garantir um nível de
+segurança adequado ao risco de probabilidade e severidade variáveis dos direitos e
+liberdades de você e de outros usuários. Mantemos essas medidas técnicas e
+organizacionais e as alteramos de tempos em tempos para melhorar a segurança
+geral de nossos sistemas.
+Ocasionalmente, incluiremos links de e para os sites de nossas redes de parceiros,
+anunciantes e afiliados. Se você seguir um link para qualquer um desses sites,
+observe que esses sites têm suas próprias políticas de privacidade e que não
+aceitamos qualquer responsabilidade por essas políticas. Verifique essas políticas
+antes de enviar qualquer informação para esses sites.
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 26/32
+8. Por quanto tempo mantemos seus dados
+pessoais
+Retemos suas informações pelo tempo necessário para fornecer o serviço. Nos
+casos em que não precisamos de suas informações para fornecer o serviço, nós as
+retemos apenas enquanto tivermos um objetivo comercial legítimo em manter esses
+dados. No entanto, há ocasiões em que provavelmente manteremos esses dados
+por mais tempo, de acordo com nossas obrigações legais ou onde for necessário
+para o estabelecimento, exercício ou defesa de reivindicações legais.
+Depois que você encerra o uso da nossa Plataforma, armazenamos suas
+informações em um formato agregado e anônimo.
+9. Informações sobre crianças
+O TikTok não é direcionado a crianças com menos de 13 anos. Em certos casos, essa
+idade pode ser maior devido a exigências regulamentares locais, consulte os termos
+suplementares locais para obter mais informações. Se você tiver alguma dúvida
+sobre como usamos seus dados pessoais, entre em contato com
+https://www.tiktok.com/legal/report/privacy?lang=pt_BR .
+10. Reclamações
+Se você tiver alguma dúvida sobre como usamos seus dados pessoais, entre em
+contato com https://www.tiktok.com/legal/report/privacy?lang=pt_BR .Nos
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 27/32
+esforçaremos para atender sua solicitação o mais rápido possível. Isso não prejudica
+o seu direito de iniciar uma reivindicação com a autoridade de proteção de dados
+relevante.
+11. Alterações
+Podemos atualizar esta Política de Privacidade de tempos em tempos. Quando
+atualizarmos a Política de Privacidade, o notificaremos atualizando a data de "Última
+Atualização" no topo desta política e publicando a nova Política de Privacidade e
+fornecendo qualquer outro aviso exigido pela lei aplicável. Seu acesso contínuo ou
+uso da Plataforma após a data da política atualizada constitui sua aceitação da
+política atualizada. Se você não concorda com a política atualizada, deve parar de
+acessar ou usar a Plataforma.
+12. Contato
+Se você tiver alguma dúvida sobre como usamos seus dados pessoais, entre em
+contato com https://www.tiktok.com/legal/report/privacy?lang=pt_BR .
+Termos Suplementares - Específicos da
+Jurisdição
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 28/32
+No caso de um conflito entre as disposições dos Termos Suplementares -
+Específicos da Jurisdição que são relevantes para a sua jurisdição a partir da qual
+você acessa ou usa os Serviços, e o restante da política, os Termos Suplementares -
+Específicos da Jurisdição prevalecerão e controlarão.
+Brasil
+Se você estiver usando a Plataforma no Brasil, os seguintes termos adicionais se
+aplicam. Se surgir algum conflito entre a Política de Privacidade principal e os
+Termos Suplementares, os seguintes termos prevalecerão:
+Consentimento dos pais e responsáveis. Se exigido pelas leis brasileiras de
+proteção de dados, (i) se você tem mais de 16 anos e menos de 18 anos, você só
+pode usar e registrar uma conta mediante a assistência de seus pais ou
+responsáveis legais e declara e garante que teve referida assistência para usar os
+Serviços e concordar com esta Política; (ii) se você tem mais de 13 anos mas menos
+de 16 anos, você só pode usar e registrar uma conta com a representação de seus
+pais ou responsáveis legal e deve obter o consentimento de seus pais ou
+responsáveis legais para o uso dos Serviços e aceitação desta Política de
+Privacidade.
+Exercício de direitos de proteção de dados. A legislação brasileira concede certos
+direitos às pessoas com relação aos seus dados pessoais. Assim, buscamos garantir
+transparência e controles de acesso para permitir que os usuários se beneficiem dos
+direitos mencionados. Responderemos e/ou atenderemos às suas solicitações para
+o exercício de seus direitos abaixo, de acordo com a lei aplicável e, quando
+aplicável, com a Lei Geral de Proteção de Dados - LGPD:
+confirmação que seus dados estão sendo processados;
+acesso a seus dados;
+correção de dados incompletos, imprecisos e desatualizados;
+solicitação para anonimização, bloqueio ou eliminação de dados desnecessários;
+portabilidade de dados pessoais para terceiros;
+objeção ao processamento de dados pessoais;
+informações de entidades públicas e privadas com as quais compartilhamos
+dados;
+Informações sobre a possibilidade de recusar o fornecimento de dados pessoais e
+as respectivas consequências, quando aplicável; e
+retirada do seu consentimento.
+Verificando sua identidade: Para sua segurança e para nos permitir garantir que
+não divulgamos seus dados pessoais a terceiros não autorizados, a fim de verificar
+sua identidade e garantir o exercício adequado de seus direitos, podemos solicitar
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 29/32
+informações específicas e/ou documentos seus antes que possamos responder
+adequadamente a uma solicitação recebida sobre seus dados. Todos os seus dados
+e documentos recebidos no processo de resposta às suas solicitações serão usados
+para os estritos fins de analisar sua solicitação, autenticar sua identidade e,
+finalmente, responder à sua solicitação.
+Limitações aos seus direitos: Em certas situações, podemos ter razões legítimas
+para não atender a algumas de suas solicitações. Por exemplo, podemos optar por
+não divulgar determinadas informações a você quando uma divulgação puder afetar
+adversamente nossos negócios sempre que houver risco de violação de nossos
+segredos comerciais ou direitos de propriedade intelectual. Além disso, podemos
+nos abster de atender a uma solicitação de exclusão quando a manutenção de seus
+dados for necessária para cumprir obrigações legais ou regulamentares ou, quando
+essa manutenção for necessária para proteger nossos direitos e interesses em caso
+de disputa. Sempre que for esse o caso e não pudermos atender a uma solicitação
+que você fizer, informaremos os motivos pelos quais não podemos atender à sua
+solicitação.
+Contato: Em caso de dúvida sobre sua privacidade, seus direitos ou como exercêlos, entre em contato conosco através de "Contato". Se você tiver alguma dúvida
+sobre o processamento de seus dados pessoais, gostaríamos de esclarecê-la.
+DPO: Caso deseje entrar em contato com o Encarregado de Proteção de Dados do
+TikTok, entre em contato através do e-mail: dpobrasil@tiktok.com.
+Registros de acesso. Mantemos os registros de acesso ao seu aplicativo, sob sigilo,
+em um ambiente controlado e seguro, por, pelo menos, 6 meses, a fim de cumprir
+obrigações legais.
+Idioma. A política pode ser disponibilizada no idioma inglês e em português. Se
+você é um usuário localizado no Brasil, deve consultar a versão em português, que
+prevalecerá.
+Empresa
+Sobre o TikTok
+Redação
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 30/32
+Contato
+Carreira
+ByteDance
+Programas
+TikTok for Good
+TikTok for Developers
+Effect House
+Anuncie no TikTok
+Descubra no TikTok
+Integrações do TikTok
+Recursos
+Central de Ajuda
+Central de Segurança
+Central de Privacidade
+Academia de Criadores
+Diretrizes da Comunidade
+Transparência
+Acessibilidade
+Legal
+Termos de Serviço
+Política de Privacidade
+Política de propriedade intelectual
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 31/32
+Diretrizes do TikTok para a
+aplicação da lei
+© 2026 TikTok
+3/21/26, 6:10 PM Política de Privacidade | TikTok
+https://www.tiktok.com/legal/page/global/privacy-policy/pt-BR#pp-row 32/32
